@@ -1,0 +1,40 @@
+Forzar cerraduras tiene una penalización de habilidad de -10 puntos cuando intentas de abrir la cerradura de tu propia jaula.
+Recibir una paliza mejora tus habilidades de combate defensivas bastante rápido.
+Luchar contra oponentes más fuertes mejorará tus habilidades de combate de manera significativa y más rápido. Pelear contra enclenques no te enseñará mucho.
+Alguna tecnología sólo puede ser obtenida cuando encuentras los anteproyectos. Algunos pueden ser encontrados en tiendas.
+Si todo tu equipo es abatido, todo superviviente se hará el muerto hasta que el enemigo está fuera de vista. En cualquier caso, puedes obligarles a que se levanten dándoles una orden, lo que además mejorará sus estadísticas de resistencia.
+Abandonar por ahí demasiados cadáveres yacentes atraerá a los predadores.
+Si vas de incógnito, tienes más probabilidades de ser descubierto por alguien de esa misma facción.
+Los grilletes de los esclavos pueden ser quitados forzando la cerradura, o buscando una sierra.
+Los esclavos fugados deben evitar la mayor parte de los pueblos y facciones hasta que el calor afloje.
+Ser derrotado en la batalla no siempre es el final. Existe la posibilidad de que alguien de tu equipo se recupere a tiempo para salvar al resto.
+Sólo puedes ajustar un personaje en modo BLOQUEO, en esta modalidad no tratará de hacer ningún tipo de ataque, aunque ganará +20 en su habilidad de defensa cuerpo a cuerpo. Es una buena forma de ganar tiempo cuando estés sobrepasado.
+Pulsando el botón MÉDICO ordenarás a los personajes seleccionados a curar automáticamente a todos los de su equipo. Si pulsas Mayúsculas sobre el botón, se le asignará de forma permanente el rol de médico.
+Si un esclavista te despoja de todas tus pertenencias probablemente colocará todo en algún sitio almacenado. Quizás puedas recuperarlo.
+Si un esclavista te afeita la cabeza puedes conseguir restaurar el cabello por un cirujano plástico. Estos tíos normalmente pueden ser encontrados en los bares.
+Las torretas obtienen bonificaciones por alcance, precisión y daño basadas en su altura por encima del enemigo. Constrúyelas encima de colinas y muros.
+Si se ofrece una recompensa por la cabeza de un personaje, puedes entregarlo en una comisaría para obtenerla.
+Un inventario pesado te ralentizará, aunque es una manera de entrenar tu fortaleza.
+Puedes crear construcciones mediante el botón Construir, que está en la esquina superior derecha de la GUI. Tu personaje necesitará materiales de construcción en su inventario para completar la construcción.
+Puedes comprar construcciones vacías o destruidas en los pueblos. Pincha en la puerta del edificio y aparecerá un botón COMPRAR abajo a la izquierda de la pantalla, si está a la venta.
+Las mochilas son una buena forma de llevar más cosas, aunque las más grandes serán un obstáculo en combate.
+Robar, forzar cerraduras, saquear cuerpos en el pueblo, todos éstos son crímenes que pondrán precio a tu cabeza si eres visto. 
+Si ponen una recompensa por la cabeza de tu personaje, éste debería evitar ir a pueblos con presencia policial. Aunque a cualquiera le toma su tiempo reconocerte, por lo que si tienes que entrar, evita llamar la atención y lárgate rápido.
+Cuanto mayor sea la recompensa que ofrecen por ti, más gente va a reconocerte. La policía y los cazarrecompensas son los observadores más agudos, mientras que los civiles sólo reconocerán al más infame de los criminales.
+Si se ofrece una recompensa por la cabeza de alguien, puedes atacarle libremente sin buscarte problemas con la policía.
+Tus posibilidades de robar del depósito de una tienda con éxito están basadas en tu habilidad para el Hurto, también la distancia con el tendero.  
+Cuando te mueves furtivamente, la distancia a la cual la gente puede escucharte dependerá de tu destreza. Los personajes son más sensibles al ruido cuando duermen.
+Ten cuidado al vender bienes robados o saqueados. A los tenderos no les importará si les vendes el botín de sus enemigos, pero ni se te ocurra venderles sus propios objetos.
+Si saqueas a una de las facciones principales, vestir su uniforme puede ser un buen disfraz, pero que no te sorprenda si uno de los suyos te pilla y se vuelve loco.
+Aprieta MAYÚSCULAS cuando ordenas un movimiento pinchando botón derecho mientras un personaje esté en modo combate y él maniobrará cuidadosamente hacia aquella posición mientras sigue luchando y protegiéndose a sí mismo.
+Si instalas tu base demasiado cerca de otros puestos avanzados, aldeas caníbales o campamentos de bandidos, prepárate para las consecuencias.
+Sé precavido de aquellos sobre cuyo territorio estés construyendo. Esto llamará su atención.
+Torretas con ballestas montadas no necesitan ningún suministro de energía, lo que significa que pueden ser construidas en cualquier lugar en mitad de la naturaleza.
+Para no humanos, es una muy mala idea aventurarse en el territorio de la Nación Sagrada.  Aprende las costumbres del mundo si quieres sobrevivir.
+Necesitas comer para sobrevivir.  Tu personaje sencillamente necesita alimentos en su inventario a fin de mantenerse alimentado.  La comida en una mochila será compartida entre los miembros del equipo.
+Los esclavos se mantienen alimentados al mínimo necesario, suficiente para que sigan trabajando, pero lo suficientemente bajo mínimos como para detenerlos de fugarse.
+Si mantienes apretado MAYÚSCULAS cuando pinchas para dar una orden, el personaje lo considerará como un trabajo permanente.
+Puedes pulsar mayúsculas sobre el botón cuando estés saqueando a un animal para ajustarlo como un trabajo permanente. El trabajo del personaje será recoger pieles y carne del área alrededor.
+Si un personaje guarda alimentos en su mochila, éstos serán automáticamente repartidos con el resto del equipo.
+Los guardias urbanos investigarán las construcciones cuyas puertas se queden abiertas de noche.
+Ve a los bares para encontrar nuevos personajes que reclutar, además puedes encontrar guardaespaldas y otros individuos interesantes.

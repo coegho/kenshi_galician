@@ -1,0 +1,62 @@
+O arrombamento da fechadura da própria cela possui uma penalidade de -10 pontos de habilidade.
+Levar uma surra aumenta as habilidade defensivas de combate rapidamente.
+Lutar contra adversários mais fortes aumentará suas habilidades de combate muito mais rapidamente.  Lutar contra fracotes não ensina muita coisa.
+Encontre diagramas para obter tecnologia.  Alguns deles são encontrados nas lojas.
+Se o seu grupo inteiro for derrubado, os sobreviventes se fingirão de mortos até que o inimigo se afaste.  Você pode forçá-los a se levantarem dando uma ordem a eles. Isso melhorará o atributo de Resistência deles.
+Muitos cadáveres abandonados atraem predadores.
+Se estiver se disfarçado, é mais provável que alguém da mesma facção que você te reconheça.
+É possível remover os grilhões dos escravos arrombando a fechadura ou encontrando uma serra.
+Os escravos fugidos devem evitar a maioria das cidades e das facções até a poeira baixar.
+Nem sempre sofrer uma derrota em batalha é o fim.  Há chance de alguém do seu grupo se recuperar a tempo de salvar os outros.
+Você pode configurar um personagem para apenas BLOQUEAR. Neste modo, ele não tentará fazer ataques, mas ganhará +20 de habilidade de defesa corpo a corpo.  É uma boa maneira de ganhar tempo quando os números forem desfavoráveis.
+Aperte o botão MÉDICO uma vez para ordenar os personagens selecionados a curarem automaticamente todos os outros no grupo. Se clicar no botão apertando o shift, o personagem será designado para a função de médico de forma permanente.
+Se um escravista roubar todos os seus equipamentos, provavelmente ele os colocará em um depósito em algum lugar. Talvez você consiga seus equipamentos de volta.
+Se um escravista raspar seu cabelo, é possível recuperá-lo visitando um cirurgião plástico.  Normalmente, dá para encontrar um cirurgião nos bares.
+As torretas recebem bônus de alcance, precisão e dano com base na altura delas em relação ao alvo.  Construa as torretas no topo de colinas e muros.
+Se um personagem for um foragido, você pode entregá-lo à polícia para receber uma recompensa.
+Um inventário pesado irá desacelerar você, mas é uma boa maneira de treinar a força.
+Erija construções no botão Construir, ele fica na parte superior direta da IU. Seu personagem deverá ter materiais de construção no inventário para finalizar a construção.
+É possível comprar construções vazias ou destruídas nas cidades.  Clique na porta do edifício, um botão COMPRAR aparecerá na parte inferior esquerda da tela se ele estiver à venda.
+As mochilas ajudam a carregar mais coisas, só que as grandes demais atrapalharão você nos combates.
+Roubar, arrombar fechaduras, saquear cadáveres na cidade: todos são crimes que farão você se tornar procurado se alguém o vir praticando algum deles. 
+Se o seu personagem for procurado, é melhor evitar entrar em cidades com presença policial. Porém, leva tempo até alguém te reconhecer, então, se precisar entrar, evite chamar atenção e saia rapidamente.
+Quanto mais alta a recompensa, mais pessoas reconhecerão você. Policiais e caçadores de recompensas são os que reconhecem com mais facilidade, já os cidadãos só reconhecem os criminosos mais abomináveis.
+Se uma pessoa for foragida, você pode atacá-la sem arrumar problemas com a polícia.
+Sua chance de roubar de uma loja se baseia em sua habilidade de Ladroagem e também no afastamento do lojista.  
+Quando estiver se esgueirando, a distância na qual as pessoas poderão ouvir você depende da sua habilidade.  Os personagens são mais sensíveis aos sons quando estão dormindo.
+Tenha cuidado ao vender itens roubados ou pilhados. Os lojistas não se importam se você vender saques dos inimigos para eles, mas não tente vender itens roubados para os próprios donos.
+É um bom disfarce usar o uniforme saqueado de uma facção maior, mas não se surpreenda se alguém da facção notar e se enfurecer.
+Segure o SHIFT ao clicar com botão direito em uma ordem de movimento de um personagem em combate e ele irá se mover para a posição cuidadosamente enquanto luta e se protegerá.
+Se você montar uma base perto de postos avançados, aldeias canibais ou acampamentos de bandidos, prepare-se para as consequências.
+Saiba a quem o território em que você está construindo pertence.  Isso chamará atenção.
+Torretas de bestas montadas não precisam de suprimento de energia, por isso, é possível construí-las em qualquer lugar.
+É uma péssima ideia para qualquer ser não-humano entrar no território da Nação Sagrada.  Aprenda como esse mundo funciona se quiser sobreviver.
+Você precisa comer para sobreviver.  Para manter seu personagem alimentado basta ter comida no inventário dele.  A comida da mochila é compartilhada entre os membros do grupo.
+Os escravos são alimentados com o mínimo, apenas o suficiente para trabalharem, e pouco para não terem forças de fugir.
+Segure o SHIFT ao clicar para dar um ordem ao personagem e ele irá considerar este um trabalho permanente.
+Segure o SHIFT ao clicar quando estiver saqueando um animal para definir um trabalho permanente. O trabalho do personagem será recolher peles e carne nos arredores.
+Caso um personagem tenha comida na mochila, ela será compartilhada automaticamente com o resto do grupo.
+Os guardas da cidade investigam construções que ficam com as portas abertas durante a noite.
+Vá aos bares para encontrar novos personagens para recrutar. Também é possível encontrar guardas costas para contratar e outros indivíduos interessantes.
+Você sofrerá penalidades de habilidade se usar uma arma grande em local fechado.  Os personagens alteram automaticamente para a arma secundária quando é preciso.
+É preciso usar as duas mãos para lutar com as armas pesadas.  Quando o personagem não pode usar uma das mãos, ele trocará para a arma secundaria se possuir uma.
+A habilidade de Artes Marciais desbloqueia ataques melhores com seu progresso.
+Acertar superfícies metálicas com suas mãos (armaduras, robôs, espadas, etc.) causa dano às mãos (a menos que você seja um Esqueleto).  Os praticantes de artes marciais podem melhorar o condicionamento ao ponto de não machucarem mais as mãos.
+Quando você está sobrecarregado, sua habilidade de Artes Marciais é reduzida, porém, lutar desse jeito aumenta sua força.
+Os praticantes de artes marciais costumam usar equipamentos pesados com o objetivo de tornar as batalhas mais árduas para si mesmos.
+O objetivo das artes marciais é usar o corpo como arma contra o inimigo.  O dano sem arma se baseia na força e na resistência.
+Será mais difícil que alguém ouça o que se passa no interior de um edifício se você fechar sua porta.
+As tempestades de areia limitam a visibilidade e o alcance de audição, por isso, são uma boa hora para se engajar em atividades furtivas.
+As chuvas fortes diminuem um pouco a visibilidade e o alcance de audição, são um bom momento para se esgueirar por aí.
+Alguns apetrechos protegem do clima.  Óculos e máscaras são úteis em tempestades de areia. Outros protegem de gás, do calor ou de ácidos.
+É menos eficiente trabalhar no escuro. Instale algumas luzes na sua base.
+É seguro deixar sua base vazia e voltar para ela depois se quiser fazer algumas explorações.
+Clique e arraste os trabalhos na lista para mudar a prioridade deles.
+Caso não tenha mochila e deseja alimentar animais, jogue comida no chão ao redor deles.
+Os esqueletos acumulam dano ao longo do tempo permanente diminuindo seu PV máximo.  É possível reparar isso em uma Cama de Esqueleto.
+Um membro com menos de 100 de vida é amputado ao ser atingido por uma arma afiada.  Essa é uma perda permanente e você terá que encontrar uma prótese robótica.
+É possível construir uma barraca com tecidos para se proteger da chuva ácida na natureza.
+Caso já esteja se desesperando, os Colonos fazem próteses de membros baratas.
+Os membros amputados são os petiscos favoritos dos Cães-de-ossada.  Os filhotes ficam animadíssimos e fogem com o prêmio.
+Construa uma Fornalha para colocar os diversos membros arrancados que estiverem pela sua base.  Coloque um personagem para trabalhar na fornalha e ele limpará o lugar para você.  Ou fique com os cães, se preferir.
+Os PNJs que estiverem em áreas iluminadas não conseguirão ver você caso esteja no escuro.  Porém, se for o contrário, eles verão você a quilômetros de distância.  Tenha cuidado com os inimigos que também se escondem na escuridão.
