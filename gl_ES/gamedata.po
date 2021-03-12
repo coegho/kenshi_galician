@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: \n"
-"Language-Team: Lo-Fi Games\n"
+"PO-Revision-Date: 2021-03-12 22:02+0000\n"
+"Last-Translator: Martín Coego <coegho@gmail.com>\n"
+"Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
+"gl/>\n"
+"Language: gl_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.4.2\n"
-"Last-Translator: \n"
-"Language: gl\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #. Type: BUILDING
 #. Name: Ancient Citadel
@@ -1090,26 +1091,26 @@ msgstr ""
 #. Name: Defensive Wall Connector
 #: 3015-walls.mod
 msgid "Defensive Wall Connector"
-msgstr ""
+msgstr "Conector de muro defensivo"
 
 #. Type: BUILDING
 #. Name: Defensive Wall II
 #: 3004-Walls.mod
 msgid "Defensive Wall II"
-msgstr ""
+msgstr "Muro defensivo II"
 
 #. Type: BUILDING
 #. Name: Defensive Wall II
 #: 3004-Walls.mod:3 2916-Walls2.mod:3 2939-Walls2.mod:3 3005-Walls.mod:3
 #: 2940-Walls2.mod:3 51838-Newwworld.mod:3
 msgid "Defensive Wall"
-msgstr ""
+msgstr "Muro defensivo"
 
 #. Type: BUILDING
 #. Name: Defensive Wall III
 #: 2916-Walls2.mod
 msgid "Defensive Wall III"
-msgstr ""
+msgstr "Muro defensivo III"
 
 #. Type: BUILDING
 #. Name: Defensive Wall III Connector
