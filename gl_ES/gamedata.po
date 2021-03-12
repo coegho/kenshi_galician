@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
 "PO-Revision-Date: 2021-03-12 22:02+0000\n"
-"Last-Translator: Martín Coego <coegho@gmail.com>\n"
+"Last-Translator: Weblate Admin <admin@coegho.xyz>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
 "Language: gl_ES\n"
@@ -1085,7 +1085,7 @@ msgstr "MUROS"
 #. Name: Defensive Gate V
 #: 2935-Walls2.mod
 msgid "Defensive Gate V"
-msgstr ""
+msgstr "Portón defensivo V"
 
 #. Type: BUILDING
 #. Name: Defensive Wall Connector
