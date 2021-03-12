@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
 "PO-Revision-Date: 2021-03-13 09:43+0000\n"
-"Last-Translator: Martín Coego <coegho@gmail.com>\n"
+"Last-Translator: Jorge Vilariño <vilaros_insua@hotmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
 "Language: gl_ES\n"
@@ -1419,55 +1419,55 @@ msgstr "Cama de peixes"
 #. Name: Fish Bed
 #: 97588-Newwworld.mod:0
 msgid "A comfortable bed made of fish"
-msgstr ""
+msgstr "Unha cama cómoda feita de peixe"
 
 #. Type: BUILDING
 #. Name: Fish Drying Rack
 #: 50520-Newwworld.mod
 msgid "Fish Drying Rack"
-msgstr ""
+msgstr "Grella para secar peixe"
 
 #. Type: BUILDING
 #. Name: Fish Drying Rack with Net
 #: 50571-Newwworld.mod
 msgid "Fish Drying Rack with Net"
-msgstr ""
+msgstr "Grella para secar peixe con rede"
 
 #. Type: BUILDING
 #. Name: Fish Drying Rack with Net
 #: 50571-Newwworld.mod:0 50520-Newwworld.mod:0
 msgid "A rack to dry fish upon"
-msgstr ""
+msgstr "Unha grella sobre a que secar peixe"
 
 #. Type: BUILDING
 #. Name: Fishing Net
 #: 50527-Newwworld.mod:0
 msgid "A net used by fishermen"
-msgstr ""
+msgstr "Unha rede usada por pescadores"
 
 #. Type: BUILDING
 #. Name: Fishing Net
 #: 50527-Newwworld.mod
 msgid "Fishing Net"
-msgstr ""
+msgstr "Rede de pesca"
 
 #. Type: BUILDING
 #. Name: Fishing Rod Set
 #: 50566-Newwworld.mod:0
 msgid "A rod and line to catch fish with."
-msgstr ""
+msgstr "Unha cana e tanza para pescar."
 
 #. Type: BUILDING
 #. Name: Fishing Rod Set
 #: 50566-Newwworld.mod
 msgid "Fishing Rod Set"
-msgstr ""
+msgstr "Conxunto de cana de pescar"
 
 #. Type: BUILDING
 #. Name: Five Booze Barrels
 #: 5352-furniture_otto.mod
 msgid "Five Booze Barrels"
-msgstr ""
+msgstr "Cinco barrís para alcol"
 
 #. Type: BUILDING
 #. Name: Flat Shelter
