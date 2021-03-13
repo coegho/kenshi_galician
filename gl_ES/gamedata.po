@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: 2021-03-12 22:23+0000\n"
+"PO-Revision-Date: 2021-03-13 09:43+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
@@ -1122,153 +1122,153 @@ msgstr "Conector de muro defensivo III"
 #. Name: Defensive Wall III Short
 #: 3087-walls.mod
 msgid "Defensive Wall III Short"
-msgstr ""
+msgstr "Muro defensivo III curto"
 
 #. Type: BUILDING
 #. Name: Defensive Wall III Tower
 #: 3096-walls.mod
 msgid "Defensive Wall III Tower"
-msgstr ""
+msgstr "Torre de muro defensivo III"
 
 #. Type: BUILDING
 #. Name: Defensive Wall III Wedge
 #: 3089-walls.mod
 msgid "Defensive Wall III Wedge"
-msgstr ""
+msgstr "Cuña de muro defensivo III"
 
 #. Type: BUILDING
 #. Name: Defensive Wall IV
 #: 2939-Walls2.mod
 msgid "Defensive Wall IV"
-msgstr ""
+msgstr "Muro defensivo IV"
 
 #. Type: BUILDING
 #. Name: Defensive Wall IV Connector
 #: 3026-walls.mod
 msgid "Defensive Wall IV Connector"
-msgstr ""
+msgstr "Conector de muro defensivo IV"
 
 #. Type: BUILDING
 #. Name: Defensive Wall IV Short
 #: 3025-walls.mod
 msgid "Defensive Wall IV Short"
-msgstr ""
+msgstr "Muro defensivo curto IV"
 
 #. Type: BUILDING
 #. Name: Defensive Wall IV Tower
 #: 3097-walls.mod
 msgid "Defensive Wall IV Tower"
-msgstr ""
+msgstr "Torre de muro defensivo IV"
 
 #. Type: BUILDING
 #. Name: Defensive Wall IV Wedge
 #: 3027-walls.mod
 msgid "Defensive Wall IV Wedge"
-msgstr ""
+msgstr "Cuña de muro defensivo IV"
 
 #. Type: BUILDING
 #. Name: Defensive Wall Ramp II
 #: 2829-Walls.mod
 msgid "Defensive Wall Ramp II"
-msgstr ""
+msgstr "Rampa de muro defensivo II"
 
 #. Type: BUILDING
 #. Name: Defensive Wall Ramp III
 #: 2988-gamedata.base
 msgid "Defensive Wall Ramp III"
-msgstr ""
+msgstr "Rampa de muro defensivo III"
 
 #. Type: BUILDING
 #. Name: Defensive Wall Ramp IV
 #: 2992-gamedata.base:3 2829-Walls.mod:3 2988-gamedata.base:3
 #: 2993-gamedata.base:3 1112-gamedata.base
 msgid "Ramp"
-msgstr ""
+msgstr "Rampa"
 
 #. Type: BUILDING
 #. Name: Defensive Wall Ramp IV
 #: 2992-gamedata.base
 msgid "Defensive Wall Ramp IV"
-msgstr ""
+msgstr "Rampa de muro defensivo IV"
 
 #. Type: BUILDING
 #. Name: Defensive Wall Ramp IV
 #: 2992-gamedata.base:0 2829-Walls.mod:0 2988-gamedata.base:0
 #: 2993-gamedata.base:0
 msgid "Ramp necessary to get up on top of defensive walls"
-msgstr ""
+msgstr "Rampa necesaria para subir ao alto dos muros defensivos"
 
 #. Type: BUILDING
 #. Name: Defensive Wall Ramp V
 #: 2993-gamedata.base
 msgid "Defensive Wall Ramp V"
-msgstr ""
+msgstr "Rampa de muro defensivo V"
 
 #. Type: BUILDING
 #. Name: Defensive Wall V
 #: 2940-Walls2.mod
 msgid "Defensive Wall V"
-msgstr ""
+msgstr "Muro defensivo V"
 
 #. Type: BUILDING
 #. Name: Defensive Wall V Connector
 #: 3020-walls.mod
 msgid "Defensive Wall V Connector"
-msgstr ""
+msgstr "Conector de muro defensivo V"
 
 #. Type: BUILDING
 #. Name: Defensive Wall V Short
 #: 3017-walls.mod
 msgid "Defensive Wall V Short"
-msgstr ""
+msgstr "Muro defensivo curto V"
 
 #. Type: BUILDING
 #. Name: Defensive Wall V Tower
 #: 3098-walls.mod
 msgid "Defensive Wall V Tower"
-msgstr ""
+msgstr "Torre de muro defensivo V"
 
 #. Type: BUILDING
 #. Name: Defensive Wall V Wedge
 #: 3021-walls.mod
 msgid "Defensive Wall V Wedge"
-msgstr ""
+msgstr "Cuña de muro defensivo V"
 
 #. Type: BUILDING
 #. Name: Display Stand
 #: 3465-otto.mod
 msgid "Display Stand"
-msgstr ""
+msgstr "Expositor"
 
 #. Type: BUILDING
 #. Name: Display Stand
 #: 3465-otto.mod:0
 msgid "Some kind of annoying display for you to fall over when you are drunk."
-msgstr ""
+msgstr "Algún tipo de expositor irritante co que tropezar cando vas peneque."
 
 #. Type: BUILDING
 #. Name: Dome Ruin
 #: 57740-Newwworld.mod
 msgid "Dome Ruin"
-msgstr ""
+msgstr "Ruína do domo"
 
 #. Type: BUILDING
 #. Name: Dome Ruin
 #: 57740-Newwworld.mod:1
 msgid "An old-world science building of some sort."
-msgstr ""
+msgstr "Algún tipo de construción científica do vello mundo."
 
 #. Type: BUILDING
 #. Name: Double House
 #: 819-gamedata.base
 msgid "Double House"
-msgstr ""
+msgstr "Casa dupla"
 
 #. Type: BUILDING
 #. Name: Double-Barrel Harpoon AUTOTurret
 #: 46056-Newwworld.mod
 msgid "Double-Barrel Harpoon AUTOTurret"
-msgstr ""
+msgstr "AUTOTorreta de arpón de cano duplo"
 
 #. Type: BUILDING
 #. Name: Double-Barrel Harpoon Turret
@@ -1277,6 +1277,8 @@ msgid ""
 "A double-barrel version of the MkII, a slight reduction in power and range "
 "in return for 2 shots."
 msgstr ""
+"Unha versión de cano duplo do MkII, cunha leve redución en potencia e "
+"alcance a cambio de ter 2 tiros."
 
 #. Type: BUILDING
 #. Name: Double-Barrel Harpoon Turret [light]
@@ -1285,60 +1287,63 @@ msgid ""
 "A double-barrel version of the MkII, a slight reduction in power and range "
 "in return for 2 shots.  With added spotlight fitted."
 msgstr ""
+"Unha versión de cano duplo do MkII, cunha leve redución en potencia e "
+"alcance a cambio de ter 2 tiros. Cun foco equipado."
 
 #. Type: BUILDING
 #. Name: Double-Barrel Harpoon Turret [light]
 #: 47752-rebirth.mod
 msgid "Double-Barrel Harpoon Turret [light]"
-msgstr ""
+msgstr "Torreta de arpón de cano duplo (lixeira)"
 
 #. Type: BUILDING
 #. Name: doublebed
 #: 881-gamedata.base
 msgid "doublebed"
-msgstr ""
+msgstr "Cama dupla"
 
 #. Type: BUILDING
 #. Name: Electrical Torch Post
 #: 5438-new_furniture_otto.mod
 msgid "Electrical Torch Post"
-msgstr ""
+msgstr "Poste de luz eléctrica"
 
 #. Type: BUILDING
 #. Name: Electrical Torch Post
 #: 5438-new_furniture_otto.mod:0
 msgid "A small electrical lamp, suitable indoors or outside."
-msgstr ""
+msgstr "Unha pequena lámpada eléctrica, axeitada para interior e exterior."
 
 #. Type: BUILDING
 #. Name: Electrical Workbench
 #: 42166-gamedata.base
 msgid "Electrical Workbench"
-msgstr ""
+msgstr "Banco de traballo eléctrico"
 
 #. Type: BUILDING
 #. Name: Electrical Workbench
 #: 42166-gamedata.base:0
 msgid "Here a scientist can work with copper and make electrical components"
 msgstr ""
+"Aquí un científico pode traballar con cobre e fabricar compoñentes eléctricos"
 
 #. Type: BUILDING
 #. Name: Emperor Statue
 #: 42325-changes_otto.mod
 msgid "Emperor Statue"
-msgstr ""
+msgstr "Estatua do emperador"
 
 #. Type: BUILDING
 #. Name: Emperor Statue Broken
 #: 44940-Newwworld.mod
 msgid "Emperor Statue Broken"
-msgstr ""
+msgstr "Estatua do emperador rota"
 
 #. Type: BUILDING
 #. Name: Engineering Bench
 #: 97091-rebirth.mod
 msgid "Engineering Bench"
-msgstr ""
+msgstr "Banco de enxeñaría"
 
 #. Type: BUILDING
 #. Name: Exaust Pipe
@@ -1350,43 +1355,43 @@ msgstr ""
 #: 55940-Newwworld.mod:2 42325-changes_otto.mod:2
 #: 42176-small_changes_otto.mod:2
 msgid "EXTERIOR"
-msgstr ""
+msgstr "EXTERIOR"
 
 #. Type: BUILDING
 #. Name: Exaust Pipe
 #: 12838-nodes_otto.mod
 msgid "Exaust Pipe"
-msgstr ""
+msgstr "Tubo de escape"
 
 #. Type: BUILDING
 #. Name: Exhaust Fan
 #: 12837-nodes_otto.mod
 msgid "Exhaust Fan"
-msgstr ""
+msgstr "Extractor"
 
 #. Type: BUILDING
 #. Name: Fabric Chest
 #: 858-gamedata.base
 msgid "Fabric Chest"
-msgstr ""
+msgstr "Baúl de tecidos"
 
 #. Type: BUILDING
 #. Name: Fabric Chest
 #: 858-gamedata.base:0
 msgid "Storage for fabrics"
-msgstr ""
+msgstr "Depósito de tecidos"
 
 #. Type: BUILDING
 #. Name: Fabric Loom (cotton)
 #: 42183-rebirth.mod
 msgid "Fabric Loom (cotton)"
-msgstr ""
+msgstr "Tear (algodón)"
 
 #. Type: BUILDING
 #. Name: Fabric Loom (cotton)
 #: 42183-rebirth.mod:0 62378-rebirth.mod:0
 msgid "Manufactures raw fabric from cotton"
-msgstr ""
+msgstr "Fabrica tecido en bruto a partir de algodón"
 
 #. Type: BUILDING
 #. Name: Fabric Loom (hemp)
@@ -1395,18 +1400,20 @@ msgid ""
 "Manufactures raw fabric from hemp and is about 33% faster than production "
 "with cotton."
 msgstr ""
+"Fabrica tecido en bruto a partir de cáñamo e é arredor dun 33% máis rápido "
+"que a produción con algodón."
 
 #. Type: BUILDING
 #. Name: Fabric Loom (hemp)
 #: 2016-gamedata.base
 msgid "Fabric Loom (hemp)"
-msgstr ""
+msgstr "Tear (cáñamo)"
 
 #. Type: BUILDING
 #. Name: Fish Bed
 #: 97588-Newwworld.mod
 msgid "Fish Bed"
-msgstr ""
+msgstr "Cama de peixes"
 
 #. Type: BUILDING
 #. Name: Fish Bed
@@ -1466,7 +1473,7 @@ msgstr ""
 #. Name: Flat Shelter
 #: 18026-small_changes_otto.mod
 msgid "Flat Shelter"
-msgstr ""
+msgstr "Refuxio simple"
 
 #. Type: BUILDING
 #. Name: Flat Shelter
@@ -1475,18 +1482,22 @@ msgid ""
 "A flat shelter commonly used on rooftops of the United Cities.  Protects "
 "from the rain."
 msgstr ""
+"Un refuxio simple usado con frecuencia nos tellados das Cidades Unidas. "
+"Protexe da chuvia."
 
 #. Type: BUILDING
 #. Name: Flour Storage
 #: 1941-gamedata.base
 msgid "Flour Storage"
-msgstr ""
+msgstr "Depósito de fariña"
 
 #. Type: BUILDING
 #. Name: Flour Storage
 #: 1941-gamedata.base:0
 msgid "A storage location for all your strawflour.  Put it near your stove."
 msgstr ""
+"Un depósito para toda a túa fariña de pallatrigo. Pono preto da cociña de "
+"ferro."
 
 #. Type: BUILDING
 #. Name: Flourescent Light
@@ -1495,25 +1506,25 @@ msgstr ""
 #: 48456-rebirth.mod:2 48468-rebirth.mod:2 48455-rebirth.mod:2
 #: 48450-rebirth.mod:2 48672-rebirth.mod:2 96082-__Southern?hive.mod:2
 msgid "labs"
-msgstr ""
+msgstr "Laboratorios"
 
 #. Type: BUILDING
 #. Name: Flourescent Light
 #: 48464-Newwworld.mod
 msgid "Flourescent Light"
-msgstr ""
+msgstr "Luz fluorescente"
 
 #. Type: BUILDING
 #. Name: Food Store
 #: 882-gamedata.base:5 64596-rebirth.mod:5
 msgid "Food Items"
-msgstr ""
+msgstr "Ítems de comida"
 
 #. Type: BUILDING
 #. Name: Food Store
 #: 882-gamedata.base
 msgid "Food Store"
-msgstr ""
+msgstr "Loxa de comida"
 
 #. Type: BUILDING
 #. Name: Food Store
@@ -1522,66 +1533,68 @@ msgid ""
 "A general storage for all food items, characters can come here to get food "
 "when they need it."
 msgstr ""
+"Un depósito xeral para todo tipo de alimento, os personaxes poden vir aquí "
+"para coller comida cando precisaren."
 
 #. Type: BUILDING
 #. Name: General Storage Boxes
 #: 5193-TwoStorey.mod
 msgid "General Storage Boxes"
-msgstr ""
+msgstr "Caixas de almacenamento xeral"
 
 #. Type: BUILDING
 #. Name: General Storage Chest
 #: 1459-gamedata.base
 msgid "General Storage Chest"
-msgstr ""
+msgstr "Baúl de almacenamento xeral"
 
 #. Type: BUILDING
 #. Name: Generator II
 #: 1978-gamedata.base
 msgid "Generator II"
-msgstr ""
+msgstr "Xerador II"
 
 #. Type: BUILDING
 #. Name: Grain Silo
 #: 1930-gamedata.base
 msgid "Grain Silo"
-msgstr ""
+msgstr "Silo de gran"
 
 #. Type: BUILDING
 #. Name: Grain Silo
 #: 1930-gamedata.base:0
 msgid "Grinds wheatstraw up into flour, for cooking with."
-msgstr ""
+msgstr "Moe pallatrigo para facer fariña coa que poder cociñar."
 
 #. Type: BUILDING
 #. Name: Grog Barrels
 #: 52159-rebirth.mod
 msgid "Grog Barrels"
-msgstr ""
+msgstr "Barrís de grog"
 
 #. Type: BUILDING
 #. Name: Grog Barrels
 #: 52159-rebirth.mod:0
 msgid "Storage barrels for grog"
-msgstr ""
+msgstr "Barrís de almacenamento de grog"
 
 #. Type: BUILDING
 #. Name: Grog Machine
 #: 52280-rebirth.mod:0
 msgid "A contraption what is for making grog with."
-msgstr ""
+msgstr "Un mecanismo para fabricar grog."
 
 #. Type: BUILDING
 #. Name: Grog Machine
 #: 52280-rebirth.mod
 msgid "Grog Machine"
-msgstr ""
+msgstr "Máquina de grog"
 
 #. Type: BUILDING
 #. Name: GunPlank
 #: 47749-Newwworld.mod
 msgid "GunPlank"
-msgstr ""
+msgstr "Prancha de disparo"
 
 #. Type: BUILDING
 #. Name: GunPlank
@@ -1590,18 +1603,20 @@ msgid ""
 "A platform that extends out over the side of a building, enabling turrets to "
 "get a better shooting angle."
 msgstr ""
+"Unha plataforma que se extende dende un lado dunha construción, permitindo "
+"un mellor ángulo de tiro ás torretas."
 
 #. Type: BUILDING
 #. Name: Harpoon Autoturret
 #: 46057-Newwworld.mod
 msgid "Harpoon Autoturret"
-msgstr ""
+msgstr "Autotorreta de arpón"
 
 #. Type: BUILDING
 #. Name: Harpoon Autoturret MkII
 #: 46058-Newwworld.mod
 msgid "Harpoon Autoturret MkII"
-msgstr ""
+msgstr "Autotorreta de arpón MkII"
 
 #. Type: BUILDING
 #. Name: Harpoon Turret
@@ -1611,12 +1626,15 @@ msgid ""
 "reload.  The downside is that it needs electricity to operate, leaving a "
 "potential vulnerability."
 msgstr ""
+"Tan poderosa como unha bésta avanzada, mais máis doada de usar e máis rápida "
+"de recargar. A contrapartida é que precisa electricidade para funcionar, "
+"xerando unha potencial vulnerabilidade."
 
 #. Type: BUILDING
 #. Name: Harpoon Turret
 #: 2870-gamedata.base
 msgid "Harpoon Turret"
-msgstr ""
+msgstr "Torreta de arpón"
 
 #. Type: BUILDING
 #. Name: Harpoon Turret
@@ -1626,7 +1644,7 @@ msgstr ""
 #: 46057-Newwworld.mod:2 47749-Newwworld.mod:2 47753-rebirth.mod:2
 #: 47751-rebirth.mod:2 47752-rebirth.mod:2
 msgid "DEFENCE"
-msgstr ""
+msgstr "DEFENSA"
 
 #. Type: BUILDING
 #. Name: Harpoon Turret MkII
@@ -1635,6 +1653,8 @@ msgid ""
 "A single shot turret with a lot of range, power and accuracy. It can also be "
 "handled well by amateurs."
 msgstr ""
+"Unha torreta de tiro único con moito alcance, potencia e precisión. Até un "
+"aficionado pode manexala."
 
 #. Type: BUILDING
 #. Name: Harpoon Turret MkII
