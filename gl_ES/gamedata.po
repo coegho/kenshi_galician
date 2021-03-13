@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: 2021-03-13 09:43+0000\n"
-"Last-Translator: Jorge Vilariño <vilaros_insua@hotmail.com>\n"
+"PO-Revision-Date: 2021-03-13 23:53+0000\n"
+"Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
 "Language: gl_ES\n"
@@ -623,7 +623,7 @@ msgstr "Mesa de carniceiro C"
 #. Name: Cactus Farm L
 #: 56911-rebirth.mod
 msgid "Cactus Farm L"
-msgstr "Leira de cactos L"
+msgstr "Leira de cactos G"
 
 #. Type: BUILDING
 #. Name: Cactus Farm M
@@ -635,13 +635,13 @@ msgstr "Leira de cactos M"
 #. Name: Cactus Farm S
 #: 56912-rebirth.mod
 msgid "Cactus Farm S"
-msgstr "Leira de cactos S"
+msgstr "Leira de cactos P"
 
 #. Type: BUILDING
 #. Name: Cactus Farm XL
 #: 40546-small_changes_otto.mod
 msgid "Cactus Farm XL"
-msgstr "Leira de cactos XL"
+msgstr "Leira de cactos XG"
 
 #. Type: BUILDING
 #. Name: Cactus Farm XL
@@ -961,7 +961,7 @@ msgstr "Leira de algodón M"
 #. Name: Cotton Farm S
 #: 56922-rebirth.mod
 msgid "Cotton Farm S"
-msgstr "Leira de algodón S"
+msgstr "Leira de algodón P"
 
 #. Type: BUILDING
 #. Name: Cotton Farm XL
@@ -1660,7 +1660,7 @@ msgstr ""
 #. Name: Harpoon Turret MkII
 #: 2069-gamedata.base
 msgid "Harpoon Turret MkII"
-msgstr ""
+msgstr "Torreta de arpón MkII"
 
 #. Type: BUILDING
 #. Name: Harpoon Turret MkII  [light]
@@ -1669,12 +1669,14 @@ msgid ""
 "A single shot turret with a lot of range, power and accuracy. It can also be "
 "handled well by amateurs.  With added spotlight fitted."
 msgstr ""
+"Unha torreta de tiro único con moito alcance, potencia e precisión. Pode ser "
+"utilizada por aficionados. Ten un foco equipado a maiores."
 
 #. Type: BUILDING
 #. Name: Harpoon Turret MkII  [light]
 #: 47751-rebirth.mod
 msgid "Harpoon Turret MkII  [light]"
-msgstr ""
+msgstr "Torreta de arpón MkII [lixeira]"
 
 #. Type: BUILDING
 #. Name: Heavy Armour Smithy
@@ -1683,24 +1685,27 @@ msgid ""
 "A heavy duty forge for crafting heavy plate armour.  It can be built outside "
 "too, although that will leave it vulnerable to damage in harsh weather."
 msgstr ""
+"Unha forxa pesada para fabricar armaduras de placa pesadas. Pode ser "
+"construída tamén no exterior, aínda que iso pode expoñela a danos en climas "
+"severos."
 
 #. Type: BUILDING
 #. Name: Heavy Armour Smithy
 #: 2257-gamedata.base
 msgid "Heavy Armour Smithy"
-msgstr ""
+msgstr "Ferraría de armaduras pesadas"
 
 #. Type: BUILDING
 #. Name: Hemp Auto-Loom
 #: 62379-rebirth.mod
 msgid "Hemp Auto-Loom"
-msgstr ""
+msgstr "Tear automático de cáñamo"
 
 #. Type: BUILDING
 #. Name: Hemp Farm L
 #: 2021-gamedata.base
 msgid "Hemp Farm L"
-msgstr ""
+msgstr "Leira de cáñamo L"
 
 #. Type: BUILDING
 #. Name: Hemp Farm L
@@ -1710,6 +1715,9 @@ msgid ""
 "is a more efficient source of cloth.  However, it may be regarded as illegal "
 "by some of the less free societies."
 msgstr ""
+"O cáñamo é unha planta versátil e pode ser empregada para menciñas, "
+"narcóticos ou combustíbel, ademais ser unha fonte de tecidos máis eficiente. "
+"Porén, pode ser considerado ilegal por algunhas das sociedades menos libres."
 
 #. Type: BUILDING
 #. Name: Hemp Farm L
@@ -1728,19 +1736,19 @@ msgstr ""
 #: 56919-rebirth.mod:2 56920-rebirth.mod:2 56921-rebirth.mod:2
 #: 56922-rebirth.mod:2
 msgid "FARMING"
-msgstr ""
+msgstr "AGRICULTURA"
 
 #. Type: BUILDING
 #. Name: Hemp Farm M
 #: 56919-rebirth.mod
 msgid "Hemp Farm M"
-msgstr ""
+msgstr "Leira de cáñamo M"
 
 #. Type: BUILDING
 #. Name: Hemp Farm S
 #: 56918-rebirth.mod
 msgid "Hemp Farm S"
-msgstr ""
+msgstr "Leira de cáñamo P"
 
 #. Type: BUILDING
 #. Name: Hemp Processor
@@ -1749,127 +1757,129 @@ msgid ""
 "Hashish production uses a lot of power, and often poses danger from the "
 "authorities, but the profits are worth it."
 msgstr ""
+"A produción de haxix consume moita enerxía, e con frecuencia supón un perigo "
+"por parte das autoridades, mais os beneficios pagan a pena."
 
 #. Type: BUILDING
 #. Name: Hemp Processor
 #: 52163-rebirth.mod
 msgid "Hemp Processor"
-msgstr ""
+msgstr "Procesador de cáñamo"
 
 #. Type: BUILDING
 #. Name: High Walkway
 #: 50634-Newwworld.mod
 msgid "High Walkway"
-msgstr ""
+msgstr "Pasarela elevada"
 
 #. Type: BUILDING
 #. Name: High Walkway
 #: 50634-Newwworld.mod:0
 msgid "A raised walkway for connecting swamp houses"
-msgstr ""
+msgstr "Unha pasarela elevada para conectar casas do pantano"
 
 #. Type: BUILDING
 #. Name: High Walkway Support
 #: 50639-Newwworld.mod
 msgid "High Walkway Support"
-msgstr ""
+msgstr "Soporte de pasarela elevada"
 
 #. Type: BUILDING
 #. Name: Hive Commune Hut
 #: 40599-Newwworld.mod
 msgid "Hive Commune Hut"
-msgstr ""
+msgstr "Cabana comunal da Colmea"
 
 #. Type: BUILDING
 #. Name: HIVE Door A
 #: 40615-Newwworld.mod
 msgid "HIVE Door A"
-msgstr ""
+msgstr "Porta da COLMEA A"
 
 #. Type: BUILDING
 #. Name: HIVE Door B
 #: 40618-Newwworld.mod
 msgid "HIVE Door B"
-msgstr ""
+msgstr "Porta da COLMEA B"
 
 #. Type: BUILDING
 #. Name: HIVE Door C
 #: 40619-Newwworld.mod:0 40615-Newwworld.mod:0 40599-Newwworld.mod:0
 #: 40618-Newwworld.mod:0 96344-Dialogue.mod:0
 msgid "A Communal Hive Dwelling. Leave quickly."
-msgstr ""
+msgstr "Unha vivenda comunal da Colmea. Lisca axiña."
 
 #. Type: BUILDING
 #. Name: HIVE Door C
 #: 40619-Newwworld.mod
 msgid "HIVE Door C"
-msgstr ""
+msgstr "Porta da COLMEA C"
 
 #. Type: BUILDING
 #. Name: Hive Queen Hut
 #: 96344-Dialogue.mod
 msgid "Hive Queen Hut"
-msgstr ""
+msgstr "Cabana da Raíña da Colmea"
 
 #. Type: BUILDING
 #. Name: Hive Queen Throne
 #: 62859-Newwworld.mod
 msgid "Hive Queen Throne"
-msgstr ""
+msgstr "Trono da Raíña da Colmea"
 
 #. Type: BUILDING
 #. Name: Holy Sinner Torch
 #: 42310-Newwworld.mod
 msgid "Holy Sinner Torch"
-msgstr ""
+msgstr "Facho sacro de pecador"
 
 #. Type: BUILDING
 #. Name: Holy Sinner Torch
 #: 42310-Newwworld.mod:0
 msgid "Dissenters make good fuel"
-msgstr ""
+msgstr "Os disidentes dan para un bo combustíbel"
 
 #. Type: BUILDING
 #. Name: Holy Sinner Torch Broken
 #: 45555-Newwworld.mod:0
 msgid "Repent your sins."
-msgstr ""
+msgstr "Arrepíntete dos teus pecados."
 
 #. Type: BUILDING
 #. Name: Holy Sinner Torch Broken
 #: 45555-Newwworld.mod
 msgid "Holy Sinner Torch Broken"
-msgstr ""
+msgstr "Facho sacro do pecador roto"
 
 #. Type: BUILDING
 #. Name: Holy Street Torch
 #: 42309-Newwworld.mod
 msgid "Holy Street Torch"
-msgstr ""
+msgstr "Facho sacro de rúa"
 
 #. Type: BUILDING
 #. Name: Holy Street Torch
 #: 42309-Newwworld.mod:0 53651-rebirth.mod:0
 msgid "Glorious illumination provided by your benefactors."
-msgstr ""
+msgstr "Iluminación gloriosa proporcionada polos teus benefactores."
 
 #. Type: BUILDING
 #. Name: Holy Street Torch (out)
 #: 53651-rebirth.mod
 msgid "Holy Street Torch (out)"
-msgstr ""
+msgstr "Facho sacro de rúa (apagado)"
 
 #. Type: BUILDING
 #. Name: Holy Street Torch Broken
 #: 45557-Newwworld.mod
 msgid "Holy Street Torch Broken"
-msgstr ""
+msgstr "Facho sacro de rúa roto"
 
 #. Type: BUILDING
 #. Name: Holy Street Torch Snapped
 #: 45556-Newwworld.mod
 msgid "Holy Street Torch Snapped"
-msgstr ""
+msgstr "Facho sacro de rúa partido"
 
 #. Type: BUILDING
 #. Name: Holy Street Torch Snapped
@@ -2118,7 +2128,7 @@ msgstr ""
 #. Name: Large Dock WreckPiece01
 #: 98802-Newwworld.mod
 msgid "Large Dock WreckPiece01"
-msgstr ""
+msgstr "Ruína de peirao grande Peza 01"
 
 #. Type: BUILDING
 #. Name: Large Dock WreckPiece03
@@ -3058,7 +3068,7 @@ msgstr ""
 #. Name: Riceweed Farm S
 #: 56903-rebirth.mod
 msgid "Riceweed Farm S"
-msgstr ""
+msgstr "Leira de hervarroz P"
 
 #. Type: BUILDING
 #. Name: Robotics Bench
@@ -4566,7 +4576,7 @@ msgstr ""
 #. Name: Vegetable Farm S
 #: 56899-farm.mod
 msgid "Vegetable Farm S"
-msgstr ""
+msgstr "Leira de hortalizas P"
 
 #. Type: BUILDING
 #. Name: Wall
@@ -4843,7 +4853,7 @@ msgstr ""
 #. Name: Wheat Farm S
 #: 40548-small_changes_otto.mod
 msgid "Wheat Farm S"
-msgstr ""
+msgstr "Leira de trigo P"
 
 #. Type: BUILDING
 #. Name: Wheat Farm XL
@@ -6540,7 +6550,7 @@ msgstr ""
 #. Name: Peasant Farmer
 #: 54296-rebirth.mod
 msgid "Peasant Farmer"
-msgstr ""
+msgstr "Labreg/OA/ /PLEB/"
 
 #. Type: CHARACTER
 #. Name: Pia
@@ -10498,7 +10508,7 @@ msgstr ""
 #. Name: Cooked Vegetables
 #: 43955-rebirth.mod
 msgid "Cooked Vegetables"
-msgstr ""
+msgstr "Hortalizas cocidas"
 
 #. Type: ITEM
 #. Name: Cooked Vegetables
@@ -11008,7 +11018,7 @@ msgstr ""
 #. Name: Gohan
 #: 43957-rebirth.mod:1
 msgid "Rice and vegetables, good food."
-msgstr ""
+msgstr "Herbarroz e hortalizas, boa comida."
 
 #. Type: ITEM
 #. Name: Gohan
@@ -11065,6 +11075,8 @@ msgid ""
 "It's not actually green or even a fruit, it's a vegetable.  Nobody knows why "
 "it's called this, but the habit continues."
 msgstr ""
+"En realidade non é nin verde nin unha froita, é unha hortaliza. Ninguén sabe "
+"por que é chamada así, mais o hábito continúa."
 
 #. Type: ITEM
 #. Name: Grind Machine
@@ -15944,7 +15956,7 @@ msgstr ""
 #. Name: Tech Hunters
 #: 1233-gamedata.base
 msgid "Tech Hunters"
-msgstr ""
+msgstr "Cazadores de Tecnoloxías"
 
 #. Type: FACTION
 #. Name: Temple of truth
@@ -23078,13 +23090,13 @@ msgstr ""
 #. Name: Human
 #: 42900-rebirth.mod
 msgid "Human"
-msgstr ""
+msgstr "Humano"
 
 #. Type: ARTIFACTS
 #. Name: ARTIFACTS
 #: 44877-rebirth.mod
 msgid "ARTIFACTS"
-msgstr ""
+msgstr "ARTEFACTOS"
 
 #. Type: MAP_ITEM
 #. Name: Ancient Military Documents
@@ -23093,18 +23105,20 @@ msgid ""
 "This looks like it could be a valuable find, it details the location of an "
 "Old Empire military cache.  It might have some valuable equipment"
 msgstr ""
+"Isto semella un achado valioso, detalla a localización dunhas provisións "
+"militares do Vello Imperio. Pode conter algúns equipamentos valiosos"
 
 #. Type: MAP_ITEM
 #. Name: Ancient Military Documents
 #: 49358-rebirth.mod
 msgid "Ancient Military Documents"
-msgstr ""
+msgstr "Antigos documentos militares"
 
 #. Type: MAP_ITEM
 #. Name: -armouries
 #: 49944-rebirth.mod
 msgid "-armouries"
-msgstr ""
+msgstr "-armarías"
 
 #. Type: MAP_ITEM
 #. Name: -armouries
@@ -23113,6 +23127,8 @@ msgid ""
 "A treasure map for some ancient ruin.  If you haven't just pee'd yourself, "
 "you're not a true adventurer."
 msgstr ""
+"Mapa do tesouro de algunha ruína antiga. Se non mexaches por riba ao velo "
+"non es un aventureiro de verdade."
 
 #. Type: MAP_ITEM
 #. Name: Bugmaster's Map
@@ -23129,18 +23145,28 @@ msgid ""
 "Whoever is there waiting in the Ashlands, it must be someone insanely "
 "dangerous."
 msgstr ""
+"É un mapa que apunta a unha localización concreta nas Terras de Cinzas. Está "
+"cuberto de galimatías e escritos e pictogramas incomprensíbeis.\n"
+"A pesar de que o Mestre dos Bechos estaba claramente tolo, parece que viviu "
+"moito tempo e coñecía moitos dos segredos do mundo.\n"
+"Podes xuntar suficientes fragmentos de información para entender que o "
+"Mestre dos Bechos estaba a se adestrar como preparación para vir aquí e "
+"matar a alguén. Paece ter sido a súa obsesión.\n"
+"\n"
+"Quen queira que estiver agardando nas Terras de Cinzas, debía de ser alguén "
+"absurdamente perigoso."
 
 #. Type: MAP_ITEM
 #. Name: Bugmaster's Map
 #: 1533877-rebirth.mod
 msgid "Bugmaster's Map"
-msgstr ""
+msgstr "Mapa do Mestre dos Bechos"
 
 #. Type: MAP_ITEM
 #. Name: Engineers Map
 #: 1532843-rebirth.mod
 msgid "Engineers Map"
-msgstr ""
+msgstr "Mapa dos enxeñeiros"
 
 #. Type: MAP_ITEM
 #. Name: Engineers Map
@@ -23149,12 +23175,14 @@ msgid ""
 "This is an ancient document by an engineer of the old empire, it details "
 "potential sites where you could find Engineering Research."
 msgstr ""
+"Este é un antigo documento dun enxeñeiro do vello imperio, e detalla lugares "
+"nos que potencialmente poderías atopar Pesquisas de Enxeñaría."
 
 #. Type: MAP_ITEM
 #. Name: Glorious Holy Map
 #: 44915-rebirth.mod
 msgid "Glorious Holy Map"
-msgstr ""
+msgstr "Glorioso mapa sagrado"
 
 #. Type: MAP_ITEM
 #. Name: Glorious Holy Map
@@ -23163,6 +23191,8 @@ msgid ""
 "A map of the Holy Nation homelands around Okran's Valley.  Some of the farms "
 "and mines can be good for trading."
 msgstr ""
+"Mapa das terras da Nación Sagrada arredor do Val de Okran. Algunhas das súas "
+"granxas e minas poden ser boas para o comercio."
 
 #. Type: MAP_ITEM
 #. Name: Map of the Ashlands
@@ -23171,18 +23201,20 @@ msgid ""
 "An actual map of a known location in the fabled Ashlands.  This could be "
 "worth a fortune."
 msgstr ""
+"Un mapa real dunha localización coñecida nas míticas Terras de Cinzas. Isto "
+"pode valer unha fortuna."
 
 #. Type: MAP_ITEM
 #. Name: Map of the Ashlands
 #: 1533730-rebirth.mod
 msgid "Map of the Ashlands"
-msgstr ""
+msgstr "Mapa das Terras de Cinzas"
 
 #. Type: MAP_ITEM
 #. Name: Map of the Border Zone
 #: 44919-rebirth.mod
 msgid "Map of the Border Zone"
-msgstr ""
+msgstr "Mapa da Zona de Fronteira"
 
 #. Type: MAP_ITEM
 #. Name: Map of the Border Zone
@@ -23191,30 +23223,32 @@ msgid ""
 "A no-man's land between the three great nations, conflict prevents civilised "
 "settlement."
 msgstr ""
+"Terra de ninguén entre as tres grandes nacións, o conflito impide a "
+"aparición de asentamentos civilizados."
 
 #. Type: MAP_ITEM
 #. Name: Map of the Shek Kingdom
 #: 51403-rebirth.mod
 msgid "Map of the Shek Kingdom"
-msgstr ""
+msgstr "Mapa do Reino Shek"
 
 #. Type: MAP_ITEM
 #. Name: Map of the Swamps
 #: 51404-rebirth.mod
 msgid "Map of the Swamps"
-msgstr ""
+msgstr "Mapa dos Pantanos"
 
 #. Type: MAP_ITEM
 #. Name: Map of the Swamps
 #: 51404-rebirth.mod:1
 msgid "An easy place to get lost, well worth buying a map for."
-msgstr ""
+msgstr "Lugar no que é fácil perderse, paga a pena mercar un mapa."
 
 #. Type: MAP_ITEM
 #. Name: Map of the United Cities (Central Territories)
 #: 96157-rebirth.mod
 msgid "Map of the United Cities (Central Territories)"
-msgstr ""
+msgstr "Mapa das Cidades Unidas (Territorios Centrais)"
 
 #. Type: MAP_ITEM
 #. Name: Map of the United Cities (Central Territories)
@@ -23222,24 +23256,26 @@ msgstr ""
 msgid ""
 "A map of all the main towns of the United Cities around the Great Desert area"
 msgstr ""
+"Un mapa das principais vilas das Cidades Unidas arredor da área do Gran "
+"Deserto"
 
 #. Type: MAP_ITEM
 #. Name: Map of the United Cities (Extended Territories)
 #: 96158-rebirth.mod:1
 msgid "Shows the outland UC towns of the far south"
-msgstr ""
+msgstr "Mostra as vilas fronteirizas das Cidades Unidas no extremo sur"
 
 #. Type: MAP_ITEM
 #. Name: Map of the United Cities (Extended Territories)
 #: 96158-rebirth.mod
 msgid "Map of the United Cities (Extended Territories)"
-msgstr ""
+msgstr "Mapa das Cidades Unidas (Territorios Estendidos)"
 
 #. Type: MAP_ITEM
 #. Name: Map of Vain
 #: 44918-rebirth.mod
 msgid "Map of Vain"
-msgstr ""
+msgstr "Mapa de Van"
 
 #. Type: MAP_ITEM
 #. Name: Map of Vain
@@ -23248,12 +23284,14 @@ msgid ""
 "The mysterious homelands of the Western Hive.  Humans don't tend to venture "
 "there."
 msgstr ""
+"As terras misteriosas da Colmea Occidental. Os humanos non adoitan "
+"aventurarse por alí."
 
 #. Type: MAP_ITEM
 #. Name: Map to Mongrel
 #: 44917-rebirth.mod
 msgid "Map to Mongrel"
-msgstr ""
+msgstr "Mapa a Palleirán"
 
 #. Type: MAP_ITEM
 #. Name: Map to Mongrel
@@ -23262,12 +23300,14 @@ msgid ""
 "For those desperate enough to face a fate worse than death, a promise of "
 "isolated safety and a future without slavery."
 msgstr ""
+"Para aqueles o bastante desesperados como para enfrontar un destino peor que "
+"a morte, unha promesa de seguridade illada e un futuro sen escravitude."
 
 #. Type: MAP_ITEM
 #. Name: Map to World's End
 #: 51406-rebirth.mod
 msgid "Map to World's End"
-msgstr ""
+msgstr "Mapa ao Fin do Mundo"
 
 #. Type: MAP_ITEM
 #. Name: Map to World's End
@@ -23276,6 +23316,8 @@ msgid ""
 "World's End is an outland stronghold of the Machinist's University.  Tech "
 "Hunters use it as the main homebase when exploring the north."
 msgstr ""
+"O Fin do Mundo é un reduto exterior da Universidade dos Maquinistas. Os "
+"Cazadores de Tecnoloxía úsano como base principal cando exploran o norte."
 
 #. Type: MAP_ITEM
 #. Name: Old Treasure Map
@@ -23287,12 +23329,17 @@ msgid ""
 "or technology related.  It could have Ancient Science Books, or possibly "
 "even AI Cores."
 msgstr ""
+"Un mapa do tesouro para algunha ruína antiga. Probabelmente estea chea de "
+"tesouro ou tecnoloxías perdidas ou morte horríbel. O mapa é tremendamente "
+"antigo e difícil de entender, mais polo que podes extraer semella ser algo "
+"relacionado coa ciencia ou tecnoloxía. Podería ter Libros Antigos de Ciencia "
+"ou até Núcleos de IA."
 
 #. Type: MAP_ITEM
 #. Name: Old Treasure Map
 #: 48693-rebirth.mod
 msgid "Old Treasure Map"
-msgstr ""
+msgstr "Vello mapa do tesouro"
 
 #. Type: MAP_ITEM
 #. Name: Secret Holy Nation Documents
@@ -23303,18 +23350,22 @@ msgid ""
 "of secret that they refer to as \"Narko's Trap\".\n"
 "The location of the base is included with a map."
 msgstr ""
+"Semella un documento militar de alto segredo da Nación Sagrada. Contén ordes "
+"para unha unidade secreta de sentinelas que protexen algún tipo de segredo "
+"ao que se refiren como \"Trampa de Narko\".\n"
+"A localización da base está incluída cun mapa."
 
 #. Type: MAP_ITEM
 #. Name: Secret Holy Nation Documents
 #: 51410-rebirth.mod
 msgid "Secret Holy Nation Documents"
-msgstr ""
+msgstr "Documentos secretos da Nación Sagrada"
 
 #. Type: MAP_ITEM
 #. Name: Tech Hunter Library Map
 #: 51405-rebirth.mod
 msgid "Tech Hunter Library Map"
-msgstr ""
+msgstr "Mapa de biblioteca do Cazador de Tecnoloxías"
 
 #. Type: MAP_ITEM
 #. Name: Tech Hunter Library Map
@@ -23324,12 +23375,15 @@ msgid ""
 "likely to be an oldworld information source that could reveal the locations "
 "of Labs."
 msgstr ""
+"Mapa debuxado a man alzada que sinala unha localización de interese dos "
+"Cazadores de Tecnoloxía. É probábel que sexa unha fonte de información do "
+"mundo antigo que podería revelar a localización dos Laboratorios."
 
 #. Type: MAP_ITEM
 #. Name: Tech Hunters Map
 #: 1532844-rebirth.mod
 msgid "Tech Hunters Map"
-msgstr ""
+msgstr "Mapa dos Cazadores de Tecnoloxías"
 
 #. Type: MAP_ITEM
 #. Name: Tech Hunters Map
@@ -23338,78 +23392,80 @@ msgid ""
 "A map from a Tech Hunter scout, detailing a possible location to find "
 "Ancient Science Books."
 msgstr ""
+"Un mapa dun explorador Cazador de Tecnoloxías, detallando unha posíbel "
+"localización onde atopar Libros Antigos de Ciencia."
 
 #. Type: ITEMS_CULTURE
 #. Name: ashland
 #: 1532815-rebirth.mod
 msgid "ashland"
-msgstr ""
+msgstr "terras de cinzas"
 
 #. Type: ITEMS_CULTURE
 #. Name: empire
 #: 51761-rebirth.mod
 msgid "empire"
-msgstr ""
+msgstr "imperio"
 
 #. Type: ITEMS_CULTURE
 #. Name: empire but more worldly
 #: 1532813-rebirth.mod
 msgid "empire but more worldly"
-msgstr ""
+msgstr "imperio, mais máis mundano"
 
 #. Type: ITEMS_CULTURE
 #. Name: empire copy
 #: 95780-rebirth.mod
 msgid "empire copy"
-msgstr ""
+msgstr "copia de imperio"
 
 #. Type: ITEMS_CULTURE
 #. Name: empire lawless
 #: 62174-rebirth.mod
 msgid "empire lawless"
-msgstr ""
+msgstr "imperio sen lei"
 
 #. Type: ITEMS_CULTURE
 #. Name: empire SW override
 #: 62854-rebirth.mod
 msgid "empire SW override"
-msgstr ""
+msgstr "imperio SW sobreescritura"
 
 #. Type: ITEMS_CULTURE
 #. Name: holy
 #: 51785-rebirth.mod
 msgid "holy"
-msgstr ""
+msgstr "sagrad/OA/"
 
 #. Type: ITEMS_CULTURE
 #. Name: SE
 #: 62824-rebirth.mod
 msgid "SE"
-msgstr ""
+msgstr "SE"
 
 #. Type: ITEMS_CULTURE
 #. Name: shek
 #: 51315-rebirth.mod
 msgid "shek"
-msgstr ""
+msgstr "shek"
 
 #. Type: ITEMS_CULTURE
 #. Name: skeletons
 #: 56155-rebirth.mod
 msgid "skeletons"
-msgstr ""
+msgstr "esqueletes"
 
 #. Type: ITEMS_CULTURE
 #. Name: slavers
 #: 56176-rebirth.mod
 msgid "slavers"
-msgstr ""
+msgstr "escravistas"
 
 #. Type: ITEMS_CULTURE
 #. Name: swamper
 #: 50924-rebirth.mod
 msgid "swamper"
-msgstr ""
+msgstr "pantaneir/OA/"
 
 #. Type: CROSSBOW
 #. Name: Eagle's Cross
@@ -23419,12 +23475,16 @@ msgid ""
 "damage with one of these before an enemy even realises what is happening to "
 "them.  Takes skill to use effectively, and not much use at short range."
 msgstr ""
+"Unha arma inusual e de extremo longo alcance para tiradores. É posíbel facer "
+"moito dano cunha destas antes sequera de que o inimigo se dea de conta do "
+"que está a pasar. Require habilidade para usarse con efectividade, e non é "
+"moi útil a curto alcance."
 
 #. Type: CROSSBOW
 #. Name: Eagle's Cross
 #: 66290-Newwworld.mod 66291-Newwworld.mod
 msgid "Eagle's Cross"
-msgstr ""
+msgstr "Cruz da Aguia"
 
 #. Type: CROSSBOW
 #. Name: Junkbow
@@ -23432,18 +23492,20 @@ msgstr ""
 msgid ""
 "A poor quality attempt at crafting a Toothpick.  A pretty worthless bow."
 msgstr ""
+"Un intento de baixa calidade de fabricar un Escarvadentes. Un arco ben "
+"inútil."
 
 #. Type: CROSSBOW
 #. Name: Junkbow
 #: 95724-Dialogue.mod
 msgid "Junkbow"
-msgstr ""
+msgstr "Arco de ferrancho"
 
 #. Type: CROSSBOW
 #. Name: Oldworld Bow MkI
 #: 65870-rebirth.mod
 msgid "Oldworld Bow MkI"
-msgstr ""
+msgstr "Arco do Vello Mundo MkI"
 
 #. Type: CROSSBOW
 #. Name: Oldworld Bow MkI
@@ -23455,12 +23517,17 @@ msgid ""
 "Hunter expeditions venturing into the dangerous \"3 Corners\" regions of the "
 "continent."
 msgstr ""
+"Baseado en planos do vello mundo recuperados e fabricado polos Cazadores de "
+"Tecnoloxías. É unha arma avanzada cun bo alcance e precisión.\n"
+"Máis caro e menos común que o Patrulleiro, é xeralmente usado en expedicións "
+"de Cazadores de Tecnoloxías cando se aventuran nas perigosas rexións dos \"3 "
+"Recantos\" do continente."
 
 #. Type: CROSSBOW
 #. Name: Oldworld Bow MkII
 #: 53643-rebirth.mod
 msgid "Oldworld Bow MkII"
-msgstr ""
+msgstr "Arco do Vello Mundo MkII"
 
 #. Type: CROSSBOW
 #. Name: Oldworld Bow MkII
@@ -23470,6 +23537,10 @@ msgid ""
 "unskilled users have a hard time reloading smoothly.  For the experienced "
 "archer however it's one of the best long-range weapons available."
 msgstr ""
+"Unha versión máis avanzada que o MkI, é máis complicado de usar e os "
+"usuarios principiantes pasan dificultades para recargar con fluidez. Porén, "
+"para un arqueiro experimentado é unha das mellores armas de longo alcance "
+"dispoñíbeis."
 
 #. Type: CROSSBOW
 #. Name: Ranger
@@ -23479,12 +23550,15 @@ msgid ""
 "deals out consistent damage at a reasonable rate.  The standard support "
 "weapon in mercenary units."
 msgstr ""
+"Unha arma fiábel de medio alcance doada de usar, especialmente para "
+"aficionados. Causa dano consistente a unha frecuencia razoábel. A arma de "
+"apoio estándar nas unidades mercenarias."
 
 #. Type: CROSSBOW
 #. Name: Ranger
 #: 66169-Newwworld.mod
 msgid "Ranger"
-msgstr ""
+msgstr "Patrulleiro"
 
 #. Type: CROSSBOW
 #. Name: Spring Bat
@@ -23495,12 +23569,16 @@ msgid ""
 "power to punch through the heavy armour of dominating military forces.  It "
 "pays for this with short range and poor accuracy."
 msgstr ""
+"O Morcego de Mola é unha invención moderna. Deseñada por rebeldes nos anos "
+"de formación das Cidades Unidas, é fácil de construír e deseñada coa "
+"potencia para golpear a través da armadura pesada das forzas militares "
+"dominantes. En contrapartida, ten un alcance curto e baixa precisión."
 
 #. Type: CROSSBOW
 #. Name: Spring Bat
 #: 95764-rebirth.mod
 msgid "Spring Bat"
-msgstr ""
+msgstr "Morcego de Mola"
 
 #. Type: CROSSBOW
 #. Name: Tooth Pick
@@ -23510,6 +23588,9 @@ msgid ""
 "it can be used to spray an opponent with bolts at close range before "
 "switching to a sword."
 msgstr ""
+"Unha arma barata e lixeira dos Pantanos. Non é moi potente, mais pode ser "
+"empregada para cubrir un asperxer un opoñente con virotes a curta distancia "
+"antes de mudar para a espada."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Economy Arm (left)
@@ -23523,30 +23604,38 @@ msgid ""
 "They are good and cheap, but not very durable, and obviously your dexterity "
 "is going to suffer from having a claw for a hand."
 msgstr ""
+"Os Colmeeiros están extremadamente orgullosos dos membros de esquelete que "
+"supostamente fabrican eles mesmos. Este brazo está obviamente feito na súa "
+"maior parte a partir de partes recicladas de outros brazos de esqueletes, "
+"aínda que lle fabricaron unha garra funcional a medida; unha fazaña de "
+"enxñaría bastante impresionante para os tempos que corren. O extremo é media "
+"lata de grog con algo de recheo por dentro.\n"
+"Son bos e baratos, mais non demasiado duradeiros, e obviamente a túa "
+"destreza vaise ver afectada por levar unha garra por man."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Economy Arm (left)
 #: 96134-Newwworld.mod
 msgid "Economy Arm (left)"
-msgstr ""
+msgstr "Brazo económico (esquerdo)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Economy Arm (right)
 #: 96137-Newwworld.mod
 msgid "Economy Arm (right)"
-msgstr ""
+msgstr "Brazo económico (dereito)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Economy Leg (left)
 #: 96136-Newwworld.mod
 msgid "Economy Leg (left) "
-msgstr ""
+msgstr "Perna económica (esquerda) "
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Economy Leg (right)
 #: 96135-Newwworld.mod
 msgid "Economy Leg (right)"
-msgstr ""
+msgstr "Perna económica (dereita)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Economy Leg (right)
@@ -23560,54 +23649,61 @@ msgid ""
 "Still, they are the only modern day manufacturers of artificial limbs.  The "
 "natural go-to when you are low on funds and somethings eats off your leg."
 msgstr ""
+"Os Colmeeiros están extremadamente orgullosos dos membros de esquelete que "
+"supostamente fabrican eles mesmos. Esta \"perna\" foi no seu día o brazo dun "
+"esquelete, coa man retirada e media lata de grog facendo de axuste do toco. "
+"Non lle meteron un pé porque os Colmeeiros non conciben a necesidade de ter "
+"pés.\n"
+"Con todo, son os únicos fabricantes de membros artificiais dos nosos días. A "
+"vía obvia cando andas baix/OA/ de fondos e algo papouche a perna."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: HIVE Left Arm Stump
 #: 96798-Newwworld.mod
 msgid "HIVE Left Arm Stump"
-msgstr ""
+msgstr "Toco de brazo dereito da COLMEA"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Hive Left Leg
 #: 96796-Newwworld.mod
 msgid "Hive Left Leg"
-msgstr ""
+msgstr "Perna esquerda da COLMEA"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: HIVE Right Arm Stump
 #: 96799-Newwworld.mod
 msgid "HIVE Right Arm Stump"
-msgstr ""
+msgstr "Toco de brazo dereito da COLMEA"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Hive Right Leg
 #: 96797-Newwworld.mod
 msgid "Hive Right Leg"
-msgstr ""
+msgstr "Perna dereita da Colmea"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Human Left Arm Stump
 #: 95510-Newwworld.mod
 msgid "Human Left Arm Stump"
-msgstr ""
+msgstr "Coto do brazo esquerdo de humano"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Human Left Leg
 #: 95515-Newwworld.mod
 msgid "Human Left Leg"
-msgstr ""
+msgstr "Perna esquerda de humano"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Human Right Arm Stump
 #: 95513-Newwworld.mod
 msgid "Human Right Arm Stump"
-msgstr ""
+msgstr "Toco do brazo dereito de humano"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Human Right Leg
 #: 95514-Newwworld.mod
 msgid "Human Right Leg"
-msgstr ""
+msgstr "Perna dereita de humano"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Industrial Lifter Arm (left)
@@ -23619,18 +23715,23 @@ msgid ""
 "combat units like their cousins, and remained behind in production roles "
 "before they were buried in the ash."
 msgstr ""
+"Un brazo dunha antiga unidade loxística. Ten unha forza excepcional.\n"
+"Estas unidades usábanse nas fábricas corporativas e almacéns do pasado "
+"distante. Debido á súa inherente lentitude non foron adaptadas como unidades "
+"de combate como os seus curmáns, e permaneceron atrás en roles produtivos "
+"antes de ser sepultados polas cinzas."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Industrial Lifter Arm (left)
 #: 96022-Newwworld.mod
 msgid "Industrial Lifter Arm (left)"
-msgstr ""
+msgstr "Brazo elevador industrial (esquerdo)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Industrial Lifter Arm (right)
 #: 96024-Newwworld.mod
 msgid "Industrial Lifter Arm (right)"
-msgstr ""
+msgstr "Brazo elevador industrial (dereito)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: KLR Series Arm (left)
@@ -23641,12 +23742,18 @@ msgid ""
 "features and luxuries were ditched in favor of simplicity.\n"
 "Many were used on the frontlines of the war, so few can be found today."
 msgstr ""
+"A serie KLR foi lexendaria pola súa simple durabilidade. Deseñados para os "
+"bots de servizo orixinais traballando sós en entornos hostís remotos, os "
+"luxos e características sofisticadas foron rexeitados en favor da sinxeleza."
+"\n"
+"Moitos foron empregados en primeira liña na guerra, polo que non se atopan "
+"demasiados a día de hoxe."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: KLR Series Arm (left)
 #: 96186-Newwworld.mod
 msgid "KLR Series Arm (left) "
-msgstr ""
+msgstr "Brazo serie KLR (esquerdo) "
 
 #. Type: LIMB_REPLACEMENT
 #. Name: KLR Series Arm (right)
@@ -23656,18 +23763,21 @@ msgid ""
 "original service bots working alone in remote hostile environments, fancy "
 "features and luxuries were ditched in favor of simplicity."
 msgstr ""
+"A serie KLR foi lexendaria pola súa simple durabilidade. Deseñados para os "
+"bots de servizo orixinais traballando sós en entornos hostís remotos, os "
+"luxos e características sofisticadas foron rexeitados en favor da sinxeleza."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: KLR Series Arm (right)
 #: 96187-Newwworld.mod
 msgid "KLR Series Arm (right)"
-msgstr ""
+msgstr "Brazo serie KLR (dereito)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: KLR Series Leg (left)
 #: 96188-Newwworld.mod
 msgid "KLR Series Leg (left)"
-msgstr ""
+msgstr "Perna serie KLR (esquerda)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: KLR Series Leg (left)
@@ -23677,18 +23787,21 @@ msgid ""
 "keep on running when any normal person would be limping, so the cannibals "
 "won't be able to catch up to you and get any more of your limbs."
 msgstr ""
+"Non son as pernas máis rápidas que hai, mais unha perna KLR pesada como esta "
+"seguirá a correr onde unha persoa normal estaría a coxear, polo que os "
+"caníbais non serán quen de atraparte e quitarche máis extremidades."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: KLR Series Leg (right)
 #: 96189-Newwworld.mod
 msgid "KLR Series Leg (right) "
-msgstr ""
+msgstr "Perna serie KLR (dereita) "
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Scout Leg (left)
 #: 96020-Newwworld.mod
 msgid "Scout Leg (left)"
-msgstr ""
+msgstr "Perna de explorador (esquerda)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Scout Leg (left)
@@ -23698,12 +23811,15 @@ msgid ""
 "The design has been kept lightweight at the cost of durability, but is "
 "capable of impressive speed."
 msgstr ""
+"A perna dunha unidade de exploración rebelde.\n"
+"Mantívose o deseño lixeiro a cambio de durabilidade, mais é quen de acadar "
+"unha velocidade impresionante."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Scout Leg (right)
 #: 96021-Newwworld.mod
 msgid "Scout Leg (right)"
-msgstr ""
+msgstr "Perna de explorador (dereita)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Skeleton Arm (left)
@@ -23712,42 +23828,46 @@ msgid ""
 "A common skeleton arm.  Though a few thousand years old, those that have "
 "survived in good condition can be more dexterous than human hands."
 msgstr ""
+"Un brazo corrente de esquelete. Aínda que teñan algúns miles de anos, "
+"aqueles que sobreviviron en boas condicións poden ser máis destros que as "
+"mans humanas."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Skeleton Arm (left)
 #: 95747-Newwworld.mod
 msgid "Skeleton Arm (left)"
-msgstr ""
+msgstr "Brazo de esquelete (esquerdo)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Skeleton Arm (right)
 #: 95748-Newwworld.mod
 msgid "Skeleton Arm (right)"
-msgstr ""
+msgstr "Brazo de esquelete (dereito)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Skeleton Leg (left)
 #: 95872-rebirth.mod:1 96022-rebirth.mod:1
 msgid "Common skeleton leg from one of the General Purpose Labour series."
 msgstr ""
+"Perna de esquelete corrente dunha das series de Traballo de Propósito Xeral."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Skeleton Leg (left)
 #: 95872-rebirth.mod
 msgid "Skeleton Leg (left)"
-msgstr ""
+msgstr "Perna de esquelete (esquerda)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Skeleton Leg (right)
 #: 96022-rebirth.mod
 msgid "Skeleton Leg (right)"
-msgstr ""
+msgstr "Perna de esquelete (dereita)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Steady Arm (left)
 #: 95871-rebirth.mod
 msgid "Steady Arm (left)"
-msgstr ""
+msgstr "Brazo estábel (esquerdo)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Steady Arm (left)
@@ -23758,6 +23878,10 @@ msgid ""
 "different unit and there's some kind of AI thralled into a feedback unit "
 "that provides adaptive stabilisation."
 msgstr ""
+"Unha peza de maquinaria ben mantida, este brazo foi coidadosamente "
+"personalizado e actualizado polo seu anterior dono. O motor semella unha "
+"unidade completamente diferente, e hai algún tipo de IA aprisionada nunha "
+"unidade de retroalimentación que proporciona estabilización adaptativa."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Stealth Leg (left)
@@ -23768,18 +23892,22 @@ msgid ""
 "allowing for quiet movement instead of the usual CLANK sounds that most "
 "skeletons make when walking."
 msgstr ""
+"Unha perna vella dunha das unidades especializadas de asasinato da guerra. O "
+"pé cuberto de caucho foi renovado en algún punto da súa historia recente, "
+"permitindo o movemento silencioso no canto do habituais sonidos de CLANK que "
+"fan a maioría dos esqueletes cando camiñan."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Stealth Leg (left)
 #: 95579-Newwworld.mod
 msgid "Stealth Leg (left)"
-msgstr ""
+msgstr "Perna de furtividade (esquerda)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Stealth Leg (right)
 #: 95742-Newwworld.mod
 msgid "Stealth Leg (right)"
-msgstr ""
+msgstr "Perna de furtividade (dereita)"
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Thief's Arm (right)
@@ -23788,9 +23916,11 @@ msgid ""
 "A heavily customised arm.  Somehow the components have almost no rust, and "
 "the mechanism is extremely smooth."
 msgstr ""
+"Un brazo moi personalizado. De algún xeito os compoñentes case non teñen "
+"ferruxe , e o mecanismo funciona de forma suave e fluída."
 
 #. Type: LIMB_REPLACEMENT
 #. Name: Thief's Arm (right)
 #: 95870-rebirth.mod
 msgid "Thief's Arm (right)"
-msgstr ""
+msgstr "Brazo de ladrón (dereito)"
