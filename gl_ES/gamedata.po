@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
 "PO-Revision-Date: 2021-03-13 23:53+0000\n"
-"Last-Translator: Martín Coego <coegho@gmail.com>\n"
+"Last-Translator: Jorge Vilariño <vilaros_insua@hotmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
 "Language: gl_ES\n"
@@ -1885,13 +1885,13 @@ msgstr "Facho sacro de rúa partido"
 #. Name: Holy Street Torch Snapped
 #: 45556-Newwworld.mod:0 45557-Newwworld.mod:0
 msgid "Unlawful destruction of Holy Nation property!"
-msgstr ""
+msgstr "Destrución ilegal dunha propiedade da Nación Sagrada!"
 
 #. Type: BUILDING
 #. Name: Hybrid Stone Mine
 #: 2078-gamedata.base 43968-rebirth.mod
 msgid "Hybrid Stone Mine"
-msgstr ""
+msgstr "Canteira híbrida"
 
 #. Type: BUILDING
 #. Name: Hybrid Stone Mine
@@ -1900,6 +1900,8 @@ msgid ""
 "A hybrid mine that internally produces building materials from the stone it "
 "mines."
 msgstr ""
+"Unha canteira híbrida que produce materiais de construcción internamente das "
+"pedras que extrae."
 
 #. Type: BUILDING
 #. Name: Hybrid Stone Mine
@@ -1908,43 +1910,44 @@ msgstr ""
 #: 2071-gamedata.base:3 2076-gamedata.base:3 2073-gamedata.base:3
 #: 43967-rebirth.mod:3
 msgid "Stone Mine"
-msgstr ""
+msgstr "Canteira"
 
 #. Type: BUILDING
 #. Name: Hybrid Stone Mine II
 #: 43967-rebirth.mod:0
 msgid "A fully-automated hybrid stone mine with state of the art machinery."
 msgstr ""
+"Canteira híbrida totalmente automática con maquinaria de última xeración."
 
 #. Type: BUILDING
 #. Name: Hybrid Stone Mine II
 #: 43967-rebirth.mod
 msgid "Hybrid Stone Mine II"
-msgstr ""
+msgstr "Canteira híbrida II"
 
 #. Type: BUILDING
 #. Name: Hydroponic Hemp
 #: 40569-small_changes_otto.mod 50024-rebirth.mod
 msgid "Hydroponic Hemp"
-msgstr ""
+msgstr "Cáñamo hidropónico"
 
 #. Type: BUILDING
 #. Name: Hydroponic Riceweed
 #: 40560-small_changes_otto.mod 50025-rebirth.mod
 msgid "Hydroponic Riceweed"
-msgstr ""
+msgstr "Herbarroz hidropónico"
 
 #. Type: BUILDING
 #. Name: Hydroponic Vegetables
 #: 40550-small_changes_otto.mod 50027-rebirth.mod
 msgid "Hydroponic Vegetables"
-msgstr ""
+msgstr "Hortalizas hidropónicas"
 
 #. Type: BUILDING
 #. Name: Hydroponic Wheatstraw
 #: 40561-small_changes_otto.mod 50028-rebirth.mod
 msgid "Hydroponic Wheatstraw"
-msgstr ""
+msgstr "Pallatrigo hidropónico"
 
 #. Type: BUILDING
 #. Name: Hydroponic Wheatstraw
@@ -1953,36 +1956,39 @@ msgstr ""
 msgid ""
 "Wheat is a sturdy staple crop that won't die off if it runs out of water."
 msgstr ""
+"O pallatrigo é un cultivo básico resistente que non morrerá en caso de seca."
 
 #. Type: BUILDING
 #. Name: Interior Wall
 #: 5431-new_furniture_otto.mod:0 52211-Newwworld.mod:0
 msgid "Divides up a space and help burglars sneak through your house easier."
 msgstr ""
+"Divide un espazo e axuda aos ladróns a entraren ás agachadas con máis "
+"facilidade na túa casa."
 
 #. Type: BUILDING
 #. Name: Interior Wall
 #: 5431-new_furniture_otto.mod
 msgid "Interior Wall"
-msgstr ""
+msgstr "Muro interior"
 
 #. Type: BUILDING
 #. Name: Interior Wall: Metal
 #: 52211-Newwworld.mod
 msgid "Interior Wall: Metal"
-msgstr ""
+msgstr "Miro interior: Metal"
 
 #. Type: BUILDING
 #. Name: Invisible Campfire
 #: 97847-__March?18.mod
 msgid "Invisible Campfire"
-msgstr ""
+msgstr "Fogueira invisíbel"
 
 #. Type: BUILDING
 #. Name: Iron Refinery II
 #: 42168-gamedata.base
 msgid "Iron Refinery II"
-msgstr ""
+msgstr "Refinaría de ferro II"
 
 #. Type: BUILDING
 #. Name: Iron Refinery III
@@ -1992,37 +1998,39 @@ msgid ""
 "This machine refines raw iron into higher grade iron plating that can then "
 "be used for construction."
 msgstr ""
+"Esta máquina refina ferro en bruto creando placas de ferro de gran calidade "
+"útiles pra construir."
 
 #. Type: BUILDING
 #. Name: Iron Refinery III
 #: 42169-gamedata.base:3 42167-gamedata.base 42167-gamedata.base:3
 #: 47237-rebirth.mod:3 42168-gamedata.base:3 1532831-rebirth.mod:3
 msgid "Iron Refinery"
-msgstr ""
+msgstr "Refinaría de ferro"
 
 #. Type: BUILDING
 #. Name: Iron Refinery III
 #: 42169-gamedata.base
 msgid "Iron Refinery III"
-msgstr ""
+msgstr "Refinaría de ferro III"
 
 #. Type: BUILDING
 #. Name: Iron Refinery IV
 #: 1532831-rebirth.mod
 msgid "Iron Refinery IV"
-msgstr ""
+msgstr "Refinaría de ferro IV"
 
 #. Type: BUILDING
 #. Name: Iron Resource
 #: 42248-gamedata.base
 msgid "Iron Resource"
-msgstr ""
+msgstr "Recurso de ferro"
 
 #. Type: BUILDING
 #. Name: Iron Rock
 #: 14521-rebirth.mod
 msgid "Iron Rock"
-msgstr ""
+msgstr "Rocha de ferro"
 
 #. Type: BUILDING
 #. Name: Item Furnace
@@ -2032,97 +2040,100 @@ msgid ""
 "iron.  It's also a good way to dispose of any severed limbs you have lying "
 "around your base after a battle."
 msgstr ""
+"O forno funde restos de ferralla non desexada -armas, armaduras, etc.- "
+"converténdoos en ferro bruto. É tamén unha boa forma de librarse de membros "
+"cortados que fiquen na túa base logo dunha batalla."
 
 #. Type: BUILDING
 #. Name: Item Furnace
 #: 3959-gamedata.base
 msgid "Item Furnace"
-msgstr ""
+msgstr "Forno de ferralla"
 
 #. Type: BUILDING
 #. Name: Junk Pile A
 #: 56165-Newwworld.mod
 msgid "Junk Pile A"
-msgstr ""
+msgstr "Morea de ferralla A"
 
 #. Type: BUILDING
 #. Name: Junk Pile A
 #: 56165-Newwworld.mod:0 56166-Newwworld.mod:0 56167-Newwworld.mod:0
 #: 56170-Newwworld.mod:0
 msgid "A big pile of rusty junk"
-msgstr ""
+msgstr "Unha morea enorme de ferralla enferruxada"
 
 #. Type: BUILDING
 #. Name: Junk Pile B
 #: 56166-Newwworld.mod
 msgid "Junk Pile B"
-msgstr ""
+msgstr "Morea de ferralla B"
 
 #. Type: BUILDING
 #. Name: Junk Pile C
 #: 56167-Newwworld.mod
 msgid "Junk Pile C"
-msgstr ""
+msgstr "Morea de ferralla C"
 
 #. Type: BUILDING
 #. Name: Junk Pile D
 #: 56170-Newwworld.mod
 msgid "Junk Pile D"
-msgstr ""
+msgstr "Morea de ferralla D"
 
 #. Type: BUILDING
 #. Name: Lagoon Platform
 #: 56728-Newwworld.mod
 msgid "Lagoon Platform"
-msgstr ""
+msgstr "Plataforma de lagoa"
 
 #. Type: BUILDING
 #. Name: Lamp Indoor Gas
 #: 46979-Newwworld.mod
 msgid "Lamp Indoor Gas"
-msgstr ""
+msgstr "Lámpada de gas para interior"
 
 #. Type: BUILDING
 #. Name: Large Barrels
 #: 896-gamedata.base
 msgid "Large Barrels"
-msgstr ""
+msgstr "Barrís grandes"
 
 #. Type: BUILDING
 #. Name: Large Barrels
 #: 896-gamedata.base:0
 msgid "Storage area for rum."
-msgstr ""
+msgstr "Área de depósito de ron."
 
 #. Type: BUILDING
 #. Name: Large Barrels
 #: 896-gamedata.base:5
 msgid "Drinks"
-msgstr ""
+msgstr "Bebidas"
 
 #. Type: BUILDING
 #. Name: Large Basket
 #: 5465-new_furniture_otto.mod:0
 msgid "Great for putting things in."
-msgstr ""
+msgstr "Xenial para gardar cousas."
 
 #. Type: BUILDING
 #. Name: Large Basket
 #: 5465-new_furniture_otto.mod
 msgid "Large Basket"
-msgstr ""
+msgstr "Cesto grande"
 
 #. Type: BUILDING
 #. Name: Large Dock Wreck01
 #: 98551-Newwworld.mod
 msgid "Large Dock Wreck01"
-msgstr ""
+msgstr "Naufraxio de peirao grande 01"
 
 #. Type: BUILDING
 #. Name: Large Dock Wreck02 (whole)
 #: 98810-Newwworld.mod
 msgid "Large Dock Wreck02 (whole)"
-msgstr ""
+msgstr "Naufraxio de peirao grande 02 (completo)"
 
 #. Type: BUILDING
 #. Name: Large Dock WreckPiece01
@@ -2146,13 +2157,13 @@ msgstr ""
 #. Name: Large house -old
 #: 609-gamedata.base
 msgid "Large house -old"
-msgstr ""
+msgstr "Casa grande -antiga"
 
 #. Type: BUILDING
 #. Name: Large Torch Post
 #: 44905-rebirth.mod
 msgid "Large Torch Post"
-msgstr ""
+msgstr "Poste de lámpada grande"
 
 #. Type: BUILDING
 #. Name: Large Wall Light
@@ -2164,51 +2175,53 @@ msgstr ""
 #. Name: Leather Armour Crafting Bench
 #: 2262-gamedata.base
 msgid "Leather Armour Crafting Bench"
-msgstr ""
+msgstr "Banco de traballo para armaduras de coiro"
 
 #. Type: BUILDING
 #. Name: Leather Armour Crafting Bench
 #: 2262-gamedata.base:0
 msgid "All the tools and stuff you need to craft light armour types. "
 msgstr ""
+"Todas as ferramentas e cousas que precisas para fabricar distintos tipos de "
+"armaduras lixeiras. "
 
 #. Type: BUILDING
 #. Name: Leather Tanning Bench
 #: 2927-gamedata.base:0
 msgid "The place where leather comes from"
-msgstr ""
+msgstr "O lugar do que procede o coiro"
 
 #. Type: BUILDING
 #. Name: Leather Tanning Bench
 #: 2927-gamedata.base
 msgid "Leather Tanning Bench"
-msgstr ""
+msgstr "Banco de curtido de coiro"
 
 #. Type: BUILDING
 #. Name: L-House
 #: 4014-TwoStorey.mod
 msgid "L-House"
-msgstr ""
+msgstr "Casa en L"
 
 #. Type: BUILDING
 #. Name: L-House
 #: 4014-TwoStorey.mod:0 3809-TwoStorey.mod:0 3793-TwoStorey.mod:0
 #: 5183-TwoStorey.mod:0 609-gamedata.base:0 56173-Newwworld.mod:0
 msgid "A decently spacious building shell."
-msgstr ""
+msgstr "Unha construción razoabelmente espaciosa."
 
 #. Type: BUILDING
 #. Name: L-House  Lagoon
 #: 56173-Newwworld.mod
 msgid "L-House  Lagoon"
-msgstr ""
+msgstr "Casa de lagoa en L"
 
 #. Type: BUILDING
 #. Name: Light Post I
 #: 14443-gamedata.base:3 14442-gamedata.base:3 14444-gamedata.base
 #: 14441-gamedata.base:3
 msgid "Light Post"
-msgstr ""
+msgstr "Poste de luz"
 
 #. Type: BUILDING
 #. Name: Light Post I
@@ -2216,12 +2229,14 @@ msgstr ""
 msgid ""
 "A standalone light source, commonly used for street lighting in fancy cities."
 msgstr ""
+"Fonte de luz independente, comúnmente usada para alumear as rúas en cidades "
+"sofisticadas."
 
 #. Type: BUILDING
 #. Name: Light Post I
 #: 14443-gamedata.base
 msgid "Light Post I"
-msgstr ""
+msgstr "Poste de luz I"
 
 #. Type: BUILDING
 #. Name: Light Post I
