@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: 2021-03-13 23:53+0000\n"
+"PO-Revision-Date: 2021-03-15 12:39+0000\n"
 "Last-Translator: Jorge Vilariño <vilaros_insua@hotmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
@@ -2255,13 +2255,13 @@ msgstr ""
 #. Name: Light Post II
 #: 14441-gamedata.base
 msgid "Light Post II"
-msgstr ""
+msgstr "Poste de luz II"
 
 #. Type: BUILDING
 #. Name: Light Post III
 #: 14442-gamedata.base
 msgid "Light Post III"
-msgstr ""
+msgstr "Poste de luz III"
 
 #. Type: BUILDING
 #. Name: Locksmith Training Box
@@ -2271,6 +2271,9 @@ msgid ""
 "transparent cutaway on the side, so beginners can see how a lock works "
 "internally."
 msgstr ""
+"Unha sinxela caixa con pechadura usada para practicar a arte de forzar "
+"pechaduras. Ten un corte de sección transparente nun lado, asi os novatos "
+"poden ver como funciona unha pechadura internamente."
 
 #. Type: BUILDING
 #. Name: Locksmith Training Box
@@ -2280,26 +2283,26 @@ msgstr ""
 #: 43868-rebirth.mod:2 43873-rebirth.mod:2 97498-rebirth.mod:2
 #: 97500-rebirth.mod:2 97501-rebirth.mod:2 97503-rebirth.mod:2
 msgid "TRAINING"
-msgstr ""
+msgstr "ADESTRANDO"
 
 #. Type: BUILDING
 #. Name: Locksmith Training Box
 #: 2727-gamedata.base 2727-gamedata.base:3 2730-gamedata.base:3
 #: 97503-rebirth.mod:3
 msgid "Locksmith Training Box"
-msgstr ""
+msgstr "Caixa de adestramento de cerralleiro"
 
 #. Type: BUILDING
 #. Name: Locksmith Training Box II
 #: 2730-gamedata.base
 msgid "Locksmith Training Box II"
-msgstr ""
+msgstr "Caixa de adestramento de cerralleiro II"
 
 #. Type: BUILDING
 #. Name: Locksmith Training Box III
 #: 97503-rebirth.mod
 msgid "Locksmith Training Box III"
-msgstr ""
+msgstr "Caixa de adestramento de cerralleiro III"
 
 #. Type: BUILDING
 #. Name: Longhouse
@@ -2311,7 +2314,7 @@ msgstr ""
 #. Name: Longhouse
 #: 4028-TwoStorey.mod:0
 msgid "A long, narrow building shell."
-msgstr ""
+msgstr "Unha construción longa e estreita."
 
 #. Type: BUILDING
 #. Name: Machine Block
@@ -2322,20 +2325,24 @@ msgstr ""
 #. Type: BUILDING
 #. Name: Makeshift Gate
 #: 3007-Walls.mod
+#, fuzzy
 msgid "Makeshift Gate"
-msgstr ""
+msgstr "Porta provisional"
 
 #. Type: BUILDING
 #. Name: Makeshift Gate
 #: 3007-Walls.mod:0
+#, fuzzy
 msgid "A crappy gate that won't keep the enemies at bay for long."
 msgstr ""
+"Unha porta trapalleira que non manterá os inimigos lonxe por moito tempo."
 
 #. Type: BUILDING
 #. Name: Makeshift Wall
 #: 3005-Walls.mod
+#, fuzzy
 msgid "Makeshift Wall"
-msgstr ""
+msgstr "Muro provisional"
 
 #. Type: BUILDING
 #. Name: Makeshift Wall Short
@@ -2347,7 +2354,7 @@ msgstr ""
 #. Name: Manual Iron Refinery
 #: 47237-rebirth.mod
 msgid "Manual Iron Refinery"
-msgstr ""
+msgstr "Refinaría manual de ferro"
 
 #. Type: BUILDING
 #. Name: Manual Oil Drill
@@ -2371,28 +2378,32 @@ msgstr ""
 #. Name: Manual Oil Drill
 #: 1860-gamedata.base
 msgid "Manual Oil Drill"
-msgstr ""
+msgstr "Perforadora manual de petróleo"
 
 #. Type: BUILDING
 #. Name: Manual Stone Processor
 #: 1863-gamedata.base:0
+#, fuzzy
 msgid ""
 "This machine can process raw stone and turn it into useful building "
 "materials. It doesn't need any power, but you need a lot of people to "
 "operate it."
 msgstr ""
+"Esta máquina pode procesar pedra bruta e convertela en materiais de "
+"construción útiles. Non precisa ecerxía, pero precisas de moita xente para "
+"pola a andar."
 
 #. Type: BUILDING
 #. Name: Manual Stone Processor
 #: 1863-gamedata.base
 msgid "Manual Stone Processor"
-msgstr ""
+msgstr "Procesador manual de pedra"
 
 #. Type: BUILDING
 #. Name: Market Stall A
 #: 5248-TwoStorey.mod
 msgid "Market Stall A"
-msgstr ""
+msgstr "Posto do mercado A"
 
 #. Type: BUILDING
 #. Name: Market Stall B
@@ -2424,37 +2435,37 @@ msgstr ""
 #. Name: Market Stall B
 #: 5251-TwoStorey.mod
 msgid "Market Stall B"
-msgstr ""
+msgstr "Posto do mercado B"
 
 #. Type: BUILDING
 #. Name: Market Stall C
 #: 5253-TwoStorey.mod
 msgid "Market Stall C"
-msgstr ""
+msgstr "Posto do mercado C"
 
 #. Type: BUILDING
 #. Name: Market Tent
 #: 12854-nodes_otto.mod
 msgid "Market Tent"
-msgstr ""
+msgstr "Tenda do mercado"
 
 #. Type: BUILDING
 #. Name: Market Tent Big
 #: 12856-nodes_otto.mod
 msgid "Market Tent Big"
-msgstr ""
+msgstr "Tenda do mercado grande"
 
 #. Type: BUILDING
 #. Name: Market Tent Long
 #: 12855-nodes_otto.mod
 msgid "Market Tent Long"
-msgstr ""
+msgstr "Tenda do mercado longa"
 
 #. Type: BUILDING
 #. Name: Market Tent Small
 #: 12853-nodes_otto.mod
 msgid "Market Tent Small"
-msgstr ""
+msgstr "Tenda do mercado pequena"
 
 #. Type: BUILDING
 #. Name: Meas Cave
@@ -2466,7 +2477,7 @@ msgstr ""
 #. Name: Medical Workbench
 #: 2267-gamedata.base 2267-gamedata.base:3 1966-gamedata.base:3
 msgid "Medical Workbench"
-msgstr ""
+msgstr "Banco de traballo médico"
 
 #. Type: BUILDING
 #. Name: Medical Workbench
@@ -2485,38 +2496,41 @@ msgstr ""
 #. Type: BUILDING
 #. Name: Medicrate
 #: 2266-gamedata.base:0
+#, fuzzy
 msgid "A safe place to store all your medikits."
-msgstr ""
+msgstr "Un lugar seguro para gardar todos os teus botiquíns."
 
 #. Type: BUILDING
 #. Name: Medicrate
 #: 2266-gamedata.base
 msgid "Medicrate"
-msgstr ""
+msgstr "Caixón médico"
 
 #. Type: BUILDING
 #. Name: Medicrate
 #: 2266-gamedata.base:5
+#, fuzzy
 msgid "Medical Kits"
-msgstr ""
+msgstr "Botiquins médicos"
 
 #. Type: BUILDING
 #. Name: Medium Tent
 #: 2330-Cannibals.mod
+#, fuzzy
 msgid "Medium Tent "
-msgstr ""
+msgstr "Tenda mediana "
 
 #. Type: BUILDING
 #. Name: Mercenary Tent
 #: 18028-small_changes_otto.mod 96566-rebirth.mod
 msgid "Mercenary Tent"
-msgstr ""
+msgstr "Tenda de mercenarios"
 
 #. Type: BUILDING
 #. Name: Mercenary Tent
 #: 18028-small_changes_otto.mod:0
 msgid "A tent used by mercenaries to shelter from the rain."
-msgstr ""
+msgstr "Unha tenda empregada polos mercenarios para abrigarse da chuvia."
 
 #. Type: BUILDING
 #. Name: Mercenary Tent
