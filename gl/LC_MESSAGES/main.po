@@ -2,420 +2,422 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-03-16 23:39+0000\n"
+"Last-Translator: Martín Coego <coegho@gmail.com>\n"
+"Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
+"\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: kenshi/AITasks.cpp:1712
 msgid "Aimless"
-msgstr ""
+msgstr "Sen rumbo"
 
 #: kenshi/GOAP_Actions.cpp:221 kenshi/GOAPdefs.cpp:1601
 msgid "Restraining"
-msgstr ""
+msgstr "Prendendo"
 
 #: kenshi/GOAP_Actions.cpp:2360 kenshi/wars.cpp:195
 msgid "{1} has arrived at {2}"
-msgstr ""
+msgstr "{1} chegou a {2}"
 
 #: kenshi/GOAP_Actions.cpp:2679
 msgid "Failed!"
-msgstr ""
+msgstr "Fallou!"
 
 #: kenshi/GOAP_Actions.cpp:2681
 msgid " (No XP)"
-msgstr ""
+msgstr " (sen EXP)"
 
 #: kenshi/GOAP_Actions.cpp:2707
 msgid "*Thunk*"
-msgstr ""
+msgstr "*Pum*"
 
 #: kenshi/GOAP_Actions.cpp:3039
 msgid "{1} is butchering {2} for meat!!"
-msgstr ""
+msgstr "{1} está a despezar a {2} para sacarlle a carne!"
 
 #: kenshi/GOAP_Actions.cpp:4336
 msgid "I can't pick that up"
-msgstr ""
+msgstr "Non o podo recoller"
 
 #: kenshi/GOAP_Actions.cpp:5475 kenshi/GOAPdefs.cpp:2019
 #: kenshi/mess.cpp:3121
 msgid "Training"
-msgstr ""
+msgstr "Adestrando"
 
 #: kenshi/GOAP_Actions.cpp:5779
 msgid "{1} has been released from prison."
-msgstr ""
+msgstr "{1} saíu da prisión."
 
 #: kenshi/GOAP_Actions.cpp:5866
 msgid "This isn't mine"
-msgstr ""
+msgstr "Isto non é meu"
 
 #: kenshi/GOAP_Actions.cpp:5880
 msgid "Paid c.{1} for bed rental."
-msgstr ""
+msgstr "Pagou c.{1} polo aluguer dunha cama."
 
 #: kenshi/GOAP_Actions.cpp:5884
 msgid "Can't afford c.{1} for bed rental."
-msgstr ""
+msgstr "Non me podo permitir c.{1} polo aluguer da cama."
 
 #: kenshi/GOAP_Actions.cpp:5902 kenshi/GOAP_Actions.cpp:6009
 msgid "This bed needs power to operate."
-msgstr ""
+msgstr "Esta cama precisa de enerxía para funcionar."
 
 #: kenshi/GOAP_Actions.cpp:6296 kenshi/dialogue.cpp:2165
 msgid "Received c.{1} reward."
-msgstr ""
+msgstr "Recibida recompensa de c.{1}."
 
 #: kenshi/GOAP_Actions.cpp:6457
 msgid "I have to dismantle the furniture first."
-msgstr ""
+msgstr "Preciso desmontar o mobiliario primeiro."
 
 #: kenshi/GOAP_Actions.cpp:6465
 msgid "I have to unmount the buildings first."
-msgstr ""
+msgstr "Preciso desmontar as construcións primeiro."
 
 #: kenshi/GOAP_Actions.cpp:6547 kenshi/GOAPdefs.cpp:2013
 #: kenshi/TutorialsData.cpp:2582 kenshi/mapscreen.cpp:2772
 msgid "Prospecting"
-msgstr ""
+msgstr "Prospectando"
 
 #: kenshi/GOAP_Actions.cpp:6582 kenshi/GOAPdefs.cpp:785
 msgid "Adding materials"
-msgstr ""
+msgstr "Engadindo materiais"
 
 #: kenshi/GOAP_Actions.cpp:6751
 msgid "Locking"
-msgstr ""
+msgstr "Fechando"
 
 #: kenshi/GOAP_Actions.cpp:6808
 msgid "Unlocking"
-msgstr ""
+msgstr "Desfechando"
 
 #: kenshi/GOAP_Actions.cpp:6872 kenshi/GOAPdefs.cpp:551
 #: kenshi/character/character.cpp:3010 kenshi/stats.cpp:3279
 #: kenshi/statswindow.cpp:967
 msgid "Lockpicking"
-msgstr ""
+msgstr "Fedellar na fechadura"
 
 #: kenshi/GOAP_Actions.cpp:6954
 msgid "Pick failed"
-msgstr ""
+msgstr "Abertura fracasada"
 
 #: kenshi/GOAP_Actions.cpp:6958
 msgid "Pick success!"
-msgstr ""
+msgstr "Abertura con éxito!"
 
 #: kenshi/GOAP_Actions.cpp:7010
 msgid "Lockpicking (Chance {1}%)"
-msgstr ""
+msgstr "Fozando na fechadura (Prob. {1}%)"
 
 #: kenshi/GOAP_Actions.cpp:7076
 msgid "Cutting"
-msgstr ""
+msgstr "Cortando"
 
 #: kenshi/GOAP_Actions.cpp:7163 kenshi/GOAP_Actions.cpp:7259
 msgid "Shackles broken!"
-msgstr ""
+msgstr "Grilletas rotas!"
 
 #: kenshi/GOAP_Actions.cpp:7188
 msgid "Cutting: {1,num}"
-msgstr ""
+msgstr "Cortando: {1,num}"
 
 #: kenshi/GOAP_Actions.cpp:7268
 msgid "*Crunck*"
-msgstr ""
+msgstr "*Crac*"
 
 #: kenshi/GOAP_Actions.cpp:7276
 msgid "I'm not strong enough to do that"
-msgstr ""
+msgstr "Non son forte dabondo para facer iso"
 
 #: kenshi/GOAPdefs.cpp:48
 msgid "Moving"
-msgstr ""
+msgstr "Movéndose"
 
 #: kenshi/GOAPdefs.cpp:62
 msgid "Move order"
-msgstr ""
+msgstr "Orde de movemento"
 
 #: kenshi/GOAPdefs.cpp:72
 msgid "Running"
-msgstr ""
+msgstr "Correndo"
 
 #: kenshi/GOAPdefs.cpp:91
 msgid "Moving to door"
-msgstr ""
+msgstr "Movéndose para a porta"
 
 #: kenshi/GOAPdefs.cpp:100
 msgid "Moving to door inside"
-msgstr ""
+msgstr "Movéndose para a porta interior"
 
 #: kenshi/GOAPdefs.cpp:108
 msgid "Moving to current door"
-msgstr ""
+msgstr "Movéndose para a porta actual"
 
 #: kenshi/GOAPdefs.cpp:115
 msgid "Moving to door outside"
-msgstr ""
+msgstr "Movéndose para a porta exterior"
 
 #: kenshi/GOAPdefs.cpp:145
 msgid "Gate guard"
-msgstr ""
+msgstr "Protexer o portón"
 
 #: kenshi/GOAPdefs.cpp:152
 msgid "Moving to gate"
-msgstr ""
+msgstr "Movéndose para o portón"
 
 #: kenshi/GOAPdefs.cpp:159
 msgid "Open gate"
-msgstr ""
+msgstr "Abrir portón"
 
 #: kenshi/GOAPdefs.cpp:167
 msgid "Bashing gate"
-msgstr ""
+msgstr "Rebentando o portón"
 
 #: kenshi/GOAPdefs.cpp:183
 msgid "Smashing"
-msgstr ""
+msgstr "Esmagando"
 
 #: kenshi/GOAPdefs.cpp:191
 msgid "Assaulting town"
-msgstr ""
+msgstr "Atacando vila"
 
 #: kenshi/GOAPdefs.cpp:214 kenshi/GOAPdefs.cpp:220
 msgid "Worker"
-msgstr ""
+msgstr "Traballador"
 
 #: kenshi/GOAPdefs.cpp:232 kenshi/GOAPdefs.cpp:250
 msgid "Operating machine"
-msgstr ""
+msgstr "Operando máquina"
 
 #: kenshi/GOAPdefs.cpp:271
 msgid "Operating automatic machine"
-msgstr ""
+msgstr "Operando máquina automática"
 
 #: kenshi/GOAPdefs.cpp:287
 msgid "Hauling to"
-msgstr ""
+msgstr "Turrando para"
 
 #: kenshi/GOAPdefs.cpp:303
 msgid "Ditching to make space"
-msgstr ""
+msgstr "Deixando para facer espazo"
 
 #: kenshi/GOAPdefs.cpp:309
 msgid "Ditching resources"
-msgstr ""
+msgstr "Deixando recursos"
 
 #: kenshi/GOAPdefs.cpp:315
 msgid "Ditching loot"
-msgstr ""
+msgstr "Deixando butín"
 
 #: kenshi/GOAPdefs.cpp:321 kenshi/GOAPdefs.cpp:327
 msgid "Collecting resource"
-msgstr ""
+msgstr "Recollendo recurso"
 
 #: kenshi/GOAPdefs.cpp:333 kenshi/GOAPdefs.cpp:1066
 #: kenshi/sensoryData.cpp:145
 msgid "Looting"
-msgstr ""
+msgstr "Saqueando"
 
 #: kenshi/GOAPdefs.cpp:340
 msgid "Finding building mats"
-msgstr ""
+msgstr "Atopando materiais de construción"
 
 #: kenshi/GOAPdefs.cpp:346
 msgid "Filling machine"
-msgstr ""
+msgstr "Enchendo máquina"
 
 #: kenshi/GOAPdefs.cpp:353
 msgid "Try filling machine"
-msgstr ""
+msgstr "Tentando encher máquina"
 
 #: kenshi/GOAPdefs.cpp:360
 msgid "Try emptying machine"
-msgstr ""
+msgstr "Tentando baleirar máquina"
 
 #: kenshi/GOAPdefs.cpp:377
 msgid "Unjamming machine"
-msgstr ""
+msgstr "Desatoando máquina"
 
 #: kenshi/GOAPdefs.cpp:382
 msgid "Unjam all machines"
-msgstr ""
+msgstr "Desatoar todas as máquinas"
 
 #: kenshi/GOAPdefs.cpp:387
 msgid "Keeping everything running"
-msgstr ""
+msgstr "Mantendo todo funcionando"
 
 #: kenshi/GOAPdefs.cpp:392
 msgid "Delivering"
-msgstr ""
+msgstr "Entregando"
 
 #: kenshi/GOAPdefs.cpp:400
 msgid "Open current door"
-msgstr ""
+msgstr "Abrir porta actual"
 
 #: kenshi/GOAPdefs.cpp:408
 msgid "Opening door here"
-msgstr ""
+msgstr "Abrindo porta aquí"
 
 #: kenshi/GOAPdefs.cpp:413
 msgid "Closing door here"
-msgstr ""
+msgstr "Pechando porta aquí"
 
 #: kenshi/GOAPdefs.cpp:417
 msgid "Open destination door"
-msgstr ""
+msgstr "Abrir porta de destino"
 
 #: kenshi/GOAPdefs.cpp:424
 msgid "Opening door"
-msgstr ""
+msgstr "Abrindo porta"
 
 #: kenshi/GOAPdefs.cpp:429
 msgid "Closing door"
-msgstr ""
+msgstr "Pechando porta"
 
 #: kenshi/GOAPdefs.cpp:435
 msgid "Locking door"
-msgstr ""
+msgstr "Fechando porta"
 
 #: kenshi/GOAPdefs.cpp:450 kenshi/GOAPdefs.cpp:454
 msgid "Unlocking door"
-msgstr ""
+msgstr "Desfechando porta"
 
 #: kenshi/GOAPdefs.cpp:460
 msgid "Locking door here"
-msgstr ""
+msgstr "Fechando porta aquí"
 
 #: kenshi/GOAPdefs.cpp:466
 msgid "Locking door from inside"
-msgstr ""
+msgstr "Fechando porta por dentro"
 
 #: kenshi/GOAPdefs.cpp:472
 msgid "Locking door from outside"
-msgstr ""
+msgstr "Fechando porta por fóra"
 
 #: kenshi/GOAPdefs.cpp:479
 msgid "Unlocking door here"
-msgstr ""
+msgstr "Desfechando porta aquí"
 
 #: kenshi/GOAPdefs.cpp:488 kenshi/GOAPdefs.cpp:637
 #: kenshi/GOAPdefs.cpp:651
 msgid "Bashing door"
-msgstr ""
+msgstr "Rebentando porta"
 
 #: kenshi/GOAPdefs.cpp:503
 msgid "Locking up cages"
-msgstr ""
+msgstr "Fechando as gaiolas"
 
 #: kenshi/GOAPdefs.cpp:510
 msgid "Locking up"
-msgstr ""
+msgstr "Fechando"
 
 #: kenshi/GOAPdefs.cpp:518
 msgid "Locking up from outside"
-msgstr ""
+msgstr "Fechando por fóra"
 
 #: kenshi/GOAPdefs.cpp:526
 msgid "Opening up"
-msgstr ""
+msgstr "Abrindo"
 
 #: kenshi/GOAPdefs.cpp:533
 msgid "Entering building"
-msgstr ""
+msgstr "Entrando en edificio"
 
 #: kenshi/GOAPdefs.cpp:539
 msgid "Ransacking town"
-msgstr ""
+msgstr "Saqueando vila"
 
 #: kenshi/GOAPdefs.cpp:545
 msgid "Leaving building"
-msgstr ""
+msgstr "Deixando edificio"
 
 #: kenshi/GOAPdefs.cpp:563
 msgid "Lockpicking Shackles"
-msgstr ""
+msgstr "Fedellando nas grilletas"
 
 #: kenshi/GOAPdefs.cpp:576
 msgid "Removing Shackles"
-msgstr ""
+msgstr "Tirando grilletas"
 
 #: kenshi/GOAPdefs.cpp:581
 msgid "Escaping"
-msgstr ""
+msgstr "Fuxindo"
 
 #: kenshi/GOAPdefs.cpp:589
 msgid "Cutting shackles"
-msgstr ""
+msgstr "Cortando grilletas"
 
 #: kenshi/GOAPdefs.cpp:597
 msgid "Cutting lock"
-msgstr ""
+msgstr "Cortando fechadura"
 
 #: kenshi/GOAPdefs.cpp:606
 msgid "Breaking shackles"
-msgstr ""
+msgstr "Rompendo grilletas"
 
 #: kenshi/GOAPdefs.cpp:613
 msgid "Breaking lock"
-msgstr ""
+msgstr "Rompendo fechadura"
 
 #: kenshi/GOAPdefs.cpp:621 kenshi/GOAPdefs.cpp:628
 msgid "Get out of cage"
-msgstr ""
+msgstr "Saír da gaiola"
 
 #: kenshi/GOAPdefs.cpp:631
 msgid "Escape cage"
-msgstr ""
+msgstr "Fuxir da gaiola"
 
 #: kenshi/GOAPdefs.cpp:663 kenshi/GOAPdefs.cpp:920
 msgid "Repairing"
-msgstr ""
+msgstr "Amañando"
 
 #: kenshi/GOAPdefs.cpp:673 kenshi/statswindow.cpp:980
 msgid "Engineer"
-msgstr ""
+msgstr "Enxeñeiro"
 
 #: kenshi/GOAPdefs.cpp:684
 msgid "Lifting/Snatching"
-msgstr ""
+msgstr "Roubando"
 
 #: kenshi/GOAPdefs.cpp:696
 msgid "Capture Target"
-msgstr ""
+msgstr "Capturando albo"
 
 #: kenshi/GOAPdefs.cpp:711
 msgid "Lifting/Snatching Order"
-msgstr ""
+msgstr "Orde de roubo"
 
 #: kenshi/GOAPdefs.cpp:721 kenshi/sensoryData.cpp:163
 msgid "Kidnapping"
-msgstr ""
+msgstr "Raptando"
 
 #: kenshi/GOAPdefs.cpp:734
 msgid "Lifting"
-msgstr ""
+msgstr "Erguendo"
 
 #: kenshi/GOAPdefs.cpp:746
 msgid "Lifting and healing"
-msgstr ""
+msgstr "Erguendo e curando"
 
 #: kenshi/GOAPdefs.cpp:761 kenshi/GOAPdefs.cpp:1683
 msgid "Putting down"
-msgstr ""
+msgstr "Pousando"
 
 #: kenshi/GOAPdefs.cpp:772 kenshi/TutorialsData.cpp:2428
 msgid "Building"
-msgstr ""
+msgstr "Construíndo"
 
 #: kenshi/GOAPdefs.cpp:781
 msgid "Demolishing"
-msgstr ""
+msgstr "Demolendo"
 
 #: kenshi/GOAPdefs.cpp:792
 msgid "Collecting item"
