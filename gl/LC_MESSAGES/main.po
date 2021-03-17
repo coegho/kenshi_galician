@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-03-16 23:39+0000\n"
+"PO-Revision-Date: 2021-03-18 20:39+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -421,622 +421,626 @@ msgstr "Demolendo"
 
 #: kenshi/GOAPdefs.cpp:792
 msgid "Collecting item"
-msgstr ""
+msgstr "Recollendo ítem"
 
 #: kenshi/GOAPdefs.cpp:800
 msgid "Idleness"
-msgstr ""
+msgstr "Ociosidade"
 
 #: kenshi/GOAPdefs.cpp:806
 msgid "Standing"
-msgstr ""
+msgstr "Téndose en pé"
 
 #: kenshi/GOAPdefs.cpp:814
 msgid "Getting up"
-msgstr ""
+msgstr "Erguéndose"
 
 #: kenshi/GOAPdefs.cpp:821
 msgid "Waking up"
-msgstr ""
+msgstr "Acordando"
 
 #: kenshi/GOAPdefs.cpp:827
 msgid "Stumbling"
-msgstr ""
+msgstr "Tropezando"
 
 #: kenshi/GOAPdefs.cpp:841
 msgid "Equipping weapon"
-msgstr ""
+msgstr "Equipando arma"
 
 #: kenshi/GOAPdefs.cpp:848
 msgid "Equipping crossbow"
-msgstr ""
+msgstr "Equipando bésta"
 
 #: kenshi/GOAPdefs.cpp:855
 msgid "Sheathing weapon"
-msgstr ""
+msgstr "Embaiñando arma"
 
 #: kenshi/GOAPdefs.cpp:869
 msgid "Fixing Legs"
-msgstr ""
+msgstr "Arranxando pernas"
 
 #: kenshi/GOAPdefs.cpp:883
 msgid "First aid"
-msgstr ""
+msgstr "Primeiros auxilios"
 
 #: kenshi/GOAPdefs.cpp:902
 msgid "Splinting"
-msgstr ""
+msgstr "Entalando"
 
 #: kenshi/GOAPdefs.cpp:937 kenshi/gui/mainbar.cpp:1286
 msgid "Medic"
-msgstr ""
+msgstr "Médico"
 
 #: kenshi/GOAPdefs.cpp:948
 msgid "Splint Rigging"
-msgstr ""
+msgstr "Fixando tala"
 
 #: kenshi/GOAPdefs.cpp:958 kenshi/character/character.cpp:2988
 #: kenshi/stats.cpp:3269 kenshi/statswindow.cpp:984
 msgid "Robotics"
-msgstr ""
+msgstr "Robótica"
 
 #: kenshi/GOAPdefs.cpp:967
 msgid "Standing still"
-msgstr ""
+msgstr "Ficando quieto"
 
 #: kenshi/GOAPdefs.cpp:972
 msgid "Stand still dammit!"
-msgstr ""
+msgstr "Para quieto, hostia!"
 
 #: kenshi/GOAPdefs.cpp:980 kenshi/GOAPdefs.cpp:986
 msgid "Worshiping"
-msgstr ""
+msgstr "Venerando"
 
 #: kenshi/GOAPdefs.cpp:994
 msgid "Looting food"
-msgstr ""
+msgstr "Saqueando comida"
 
 #: kenshi/GOAPdefs.cpp:1002
 msgid "Picking up food"
-msgstr ""
+msgstr "Recollendo comida"
 
 #: kenshi/GOAPdefs.cpp:1007
 msgid "Fetch"
-msgstr ""
+msgstr "Procurar"
 
 #: kenshi/GOAPdefs.cpp:1012
 msgid "Playing 'Limbs'"
-msgstr ""
+msgstr "Xogando 'membros'"
 
 #: kenshi/GOAPdefs.cpp:1015
 msgid "Limb Jealousy"
-msgstr ""
+msgstr "Envexa do membro"
 
 #: kenshi/GOAPdefs.cpp:1021
 msgid "Getting food"
-msgstr ""
+msgstr "Conseguindo comida"
 
 #: kenshi/GOAPdefs.cpp:1026
 msgid "Grabbing food"
-msgstr ""
+msgstr "Apañando comida"
 
 #: kenshi/GOAPdefs.cpp:1048
 msgid "Finding weapon"
-msgstr ""
+msgstr "Atopando arma"
 
 #: kenshi/GOAPdefs.cpp:1054
 msgid "Looting the dead"
-msgstr ""
+msgstr "Saqueando os mortos"
 
 #: kenshi/GOAPdefs.cpp:1060
 msgid "Confiscating goods"
-msgstr ""
+msgstr "Confiscando bens"
 
 #: kenshi/GOAPdefs.cpp:1074
 msgid "Foraging animals"
-msgstr ""
+msgstr "Forraxeando animais"
 
 #: kenshi/GOAPdefs.cpp:1083
 msgid "Looting resources"
-msgstr ""
+msgstr "Saqueando recursos"
 
 #: kenshi/GOAPdefs.cpp:1096 kenshi/GOAPdefs.cpp:1105
 msgid "Running away"
-msgstr ""
+msgstr "Fuxindo"
 
 #: kenshi/GOAPdefs.cpp:1111
 msgid "Retreating"
-msgstr ""
+msgstr "Recuando"
 
 #: kenshi/GOAPdefs.cpp:1117
 msgid "Retreating fast"
-msgstr ""
+msgstr "Recuando rápido"
 
 #: kenshi/GOAPdefs.cpp:1125
 msgid "Going home"
-msgstr ""
+msgstr "Indo para casa"
 
 #: kenshi/GOAPdefs.cpp:1135
 msgid "Get ready"
-msgstr ""
+msgstr "Preparándose"
 
 #: kenshi/GOAPdefs.cpp:1143 kenshi/GOAPdefs.cpp:1219
 msgid "Attacking"
-msgstr ""
+msgstr "Atacando"
 
 #: kenshi/GOAPdefs.cpp:1161 kenshi/GOAPdefs.cpp:1174
 #: kenshi/GOAPdefs.cpp:1187
 msgid "Shooting"
-msgstr ""
+msgstr "Disparando"
 
 #. TRANSLATORS: take out as in an assassin knocking someone out
 #: kenshi/GOAPdefs.cpp:1200
 msgid "Taking out"
-msgstr ""
+msgstr "Desfacéndose de alguén"
 
 #: kenshi/GOAPdefs.cpp:1236
 msgid "Attacking attackers of"
-msgstr ""
+msgstr "Atacando os atacantes de"
 
 #: kenshi/GOAPdefs.cpp:1247
 msgid "Attacking trouble makers"
-msgstr ""
+msgstr "Atacando alborotadores"
 
 #: kenshi/GOAPdefs.cpp:1253 kenshi/GOAPdefs.cpp:1289
 msgid "Turret guard"
-msgstr ""
+msgstr "Gardar torreta"
 
 #: kenshi/GOAPdefs.cpp:1260
 msgid "Turret home guard"
-msgstr ""
+msgstr "Gardar casa de torreta"
 
 #: kenshi/GOAPdefs.cpp:1266 kenshi/GOAPdefs.cpp:1282
 msgid "Turret gunner"
-msgstr ""
+msgstr "Artilleiro da torreta"
 
 #. TRANSLATORS: the crime
 #: kenshi/GOAPdefs.cpp:1301 kenshi/sensoryData.cpp:154
 msgid "Assault"
-msgstr ""
+msgstr "Asalto"
 
 #: kenshi/GOAPdefs.cpp:1310
 msgid "Attacking Squad"
-msgstr ""
+msgstr "Atacando grupo"
 
 #: kenshi/GOAPdefs.cpp:1322
 msgid "Stalking"
-msgstr ""
+msgstr "Espreitando"
 
 #: kenshi/GOAPdefs.cpp:1340
 msgid "Diplomatting"
-msgstr ""
+msgstr "Diplomacia"
 
 #: kenshi/GOAPdefs.cpp:1350
 msgid "Approaching fast"
-msgstr ""
+msgstr "Achegándose rápido"
 
 #: kenshi/GOAPdefs.cpp:1357 kenshi/GOAPdefs.cpp:1362
 #: kenshi/GOAPdefs.cpp:1366
 msgid "Talking"
-msgstr ""
+msgstr "Falando"
 
 #: kenshi/GOAPdefs.cpp:1371
 msgid "Making announcement"
-msgstr ""
+msgstr "Anunciando"
 
 #: kenshi/GOAPdefs.cpp:1376
 msgid "Following and talking"
-msgstr ""
+msgstr "Seguindo e falando"
 
 #: kenshi/GOAPdefs.cpp:1382
 msgid "Working the slaves"
-msgstr ""
+msgstr "Espelindo os escravos"
 
 #: kenshi/GOAPdefs.cpp:1390 kenshi/GOAPdefs.cpp:1396
 msgid "Selling slaves"
-msgstr ""
+msgstr "Vendendo escravos"
 
 #: kenshi/GOAPdefs.cpp:1405
 msgid "Delivering slaves"
-msgstr ""
+msgstr "Entregando escravos"
 
 #: kenshi/GOAPdefs.cpp:1415 kenshi/GOAPdefs.cpp:1423
 msgid "Shooing"
-msgstr ""
+msgstr "Escorrentando"
 
 #: kenshi/GOAPdefs.cpp:1467
 msgid "Protection"
-msgstr ""
+msgstr "Protección"
 
 #: kenshi/GOAPdefs.cpp:1474
 msgid "Attacking enemies"
-msgstr ""
+msgstr "Atacando inimigos"
 
 #: kenshi/GOAPdefs.cpp:1481
 msgid "Fighting for master"
-msgstr ""
+msgstr "Loitando polo mestre"
 
 #: kenshi/GOAPdefs.cpp:1487
 msgid "Attacking others"
-msgstr ""
+msgstr "Atacando outros"
 
 #: kenshi/GOAPdefs.cpp:1495
 msgid "Home territory aggression"
-msgstr ""
+msgstr "Agresión en territorio natal"
 
 #: kenshi/GOAPdefs.cpp:1502
 msgid "Self preservation"
-msgstr ""
+msgstr "Auto-preservación"
 
 #: kenshi/GOAPdefs.cpp:1510 kenshi/mess.cpp:3055
 msgid "Bodyguard"
-msgstr ""
+msgstr "Escolta"
 
 #: kenshi/GOAPdefs.cpp:1520 kenshi/GOAPdefs.cpp:1533
 #: kenshi/GOAPdefs.cpp:1544
 msgid "Following"
-msgstr ""
+msgstr "Seguindo"
 
 #: kenshi/GOAPdefs.cpp:1555
 msgid "Following leader"
-msgstr ""
+msgstr "Seguindo líder"
 
 #: kenshi/GOAPdefs.cpp:1565
 msgid "Following master"
-msgstr ""
+msgstr "Seguindo mestre"
 
 #: kenshi/GOAPdefs.cpp:1577 kenshi/GOAPdefs.cpp:1589
 msgid "Staying close"
-msgstr ""
+msgstr "Ficando preto"
 
 #: kenshi/GOAPdefs.cpp:1611
 msgid "Stripping weapons"
-msgstr ""
+msgstr "Despoxando armas"
 
 #: kenshi/GOAPdefs.cpp:1618
 msgid "Processing slave"
-msgstr ""
+msgstr "Procesando escravo"
 
 #: kenshi/GOAPdefs.cpp:1626
 msgid "Watching slaves"
-msgstr ""
+msgstr "Vixiando escravos"
 
 #: kenshi/GOAPdefs.cpp:1632
 msgid "Watching for new slaves"
-msgstr ""
+msgstr "Procurando novos escravos"
 
 #: kenshi/GOAPdefs.cpp:1639
 msgid "Capturing slave"
-msgstr ""
+msgstr "Capturando escravo"
 
 #: kenshi/GOAPdefs.cpp:1645
 msgid "Ordering slaves"
-msgstr ""
+msgstr "Dando ordes aos escravos"
 
 #: kenshi/GOAPdefs.cpp:1653
 msgid "Gathering slaves"
-msgstr ""
+msgstr "Reunindo escravos"
 
 #: kenshi/GOAPdefs.cpp:1659
 msgid "Gathering slaves for shipping"
-msgstr ""
+msgstr "Reunindo escravos para entrega"
 
 #: kenshi/GOAPdefs.cpp:1665
 msgid "Gathering unholy slaves"
-msgstr ""
+msgstr "Reunindo escravos profanos"
 
 #: kenshi/GOAPdefs.cpp:1673
 msgid "Obedient Slave"
-msgstr ""
+msgstr "Escravo obediente"
 
 #: kenshi/GOAPdefs.cpp:1678
 msgid "Carrying slaves"
-msgstr ""
+msgstr "Carrexando escravos"
 
 #: kenshi/GOAPdefs.cpp:1704 kenshi/GOAPdefs.cpp:1709
 msgid "Protect allies"
-msgstr ""
+msgstr "Protexer aliados"
 
 #: kenshi/GOAPdefs.cpp:1716
 msgid "Protect close allies"
-msgstr ""
+msgstr "Protexer aliados próximos"
 
 #: kenshi/GOAPdefs.cpp:1722
 msgid "Holding position"
-msgstr ""
+msgstr "Mantendo posición"
 
 #: kenshi/GOAPdefs.cpp:1727
 msgid "Stand at node"
-msgstr ""
+msgstr "Ficar no nodo"
 
 #: kenshi/GOAPdefs.cpp:1735
 msgid "Shopkeeper"
-msgstr ""
+msgstr "Loxista"
 
 #: kenshi/GOAPdefs.cpp:1742
 msgid "Static guard"
-msgstr ""
+msgstr "Garda estático"
 
 #: kenshi/GOAPdefs.cpp:1751
 msgid "Static guard indoors"
-msgstr ""
+msgstr "Garda estático en interior"
 
 #: kenshi/GOAPdefs.cpp:1760
 msgid "Static town guard"
-msgstr ""
+msgstr "Garda estático da vila"
 
 #: kenshi/GOAPdefs.cpp:1769
 msgid "general node"
-msgstr ""
+msgstr "Nodo xeral"
 
 #: kenshi/GOAPdefs.cpp:1782
 msgid "Getting a weapon"
-msgstr ""
+msgstr "Conseguindo unha arma"
 
 #: kenshi/GOAPdefs.cpp:1792
 msgid "Blood tracking"
-msgstr ""
+msgstr "Rastreando sangue"
 
 #: kenshi/GOAPdefs.cpp:1803
 msgid "Patrolling"
-msgstr ""
+msgstr "Patrullando"
 
 #: kenshi/GOAPdefs.cpp:1813
 msgid "Patrolling town"
-msgstr ""
+msgstr "Patrullando vila"
 
 #: kenshi/GOAPdefs.cpp:1834
 msgid "Wandering town"
-msgstr ""
+msgstr "Vagando pola vila"
 
 #: kenshi/GOAPdefs.cpp:1852 kenshi/GOAPdefs.cpp:1860
 msgid "Shopping"
-msgstr ""
+msgstr "Mercando"
 
 #: kenshi/GOAPdefs.cpp:1865
 msgid "Relaxing"
-msgstr ""
+msgstr "Relaxando"
 
 #: kenshi/GOAPdefs.cpp:1886
 msgid "Staying home"
-msgstr ""
+msgstr "Ficando en casa"
 
 #: kenshi/GOAPdefs.cpp:1898
 msgid "Reigning"
-msgstr ""
+msgstr "Reinando"
 
 #: kenshi/GOAPdefs.cpp:1908
 msgid "Sitting around"
-msgstr ""
+msgstr "Sentando"
 
 #: kenshi/GOAPdefs.cpp:1921
 msgid "Wandering"
-msgstr ""
+msgstr "Vagando"
 
 #: kenshi/GOAPdefs.cpp:1931
 msgid "Wandering trader"
-msgstr ""
+msgstr "Comerciante errante"
 
 #: kenshi/GOAPdefs.cpp:1940
 msgid "Recruiting"
-msgstr ""
+msgstr "Recrutando"
 
 #: kenshi/GOAPdefs.cpp:1948
 msgid "Travelling"
-msgstr ""
+msgstr "Viaxando"
 
 #: kenshi/GOAPdefs.cpp:1957
 msgid "Travelling quickly"
-msgstr ""
+msgstr "Viaxando rapidamente"
 
 #: kenshi/GOAPdefs.cpp:1966
 msgid "Mission formation"
-msgstr ""
+msgstr "Formación de misión"
 
 #: kenshi/GOAPdefs.cpp:1990
 msgid "Attacking target"
-msgstr ""
+msgstr "Atacando albo"
 
 #: kenshi/GOAPdefs.cpp:2002
 msgid "Attacking target unprovoked"
-msgstr ""
+msgstr "Atacando albo sen provocación"
 
 #: kenshi/GOAPdefs.cpp:2033 kenshi/GOAPdefs.cpp:2042
 msgid "Going to bed"
-msgstr ""
+msgstr "Indo para cama"
 
 #: kenshi/GOAPdefs.cpp:2053 kenshi/GOAPdefs.cpp:2067
 #: kenshi/GOAPdefs.cpp:2144 kenshi/character/character.cpp:2771
 msgid "Sleeping"
-msgstr ""
+msgstr "Durmindo"
 
 #: kenshi/GOAPdefs.cpp:2078
 msgid "Sleeping on ground"
-msgstr ""
+msgstr "Durmindo no chan"
 
 #: kenshi/GOAPdefs.cpp:2092
 msgid "Hiding"
-msgstr ""
+msgstr "Agochándose"
 
 #: kenshi/GOAPdefs.cpp:2106
 msgid "Put in bed"
-msgstr ""
+msgstr "Metendo en cama"
 
 #: kenshi/GOAPdefs.cpp:2117 kenshi/GOAPdefs.cpp:2125
 msgid "Getting out of bed"
-msgstr ""
+msgstr "Saíndo da cama"
 
 #: kenshi/GOAPdefs.cpp:2121
 msgid "Getting out of bed!"
-msgstr ""
+msgstr "Saíndo da cama!"
 
 #: kenshi/GOAPdefs.cpp:2130 kenshi/GOAPdefs.cpp:2134
 msgid "Find and rescue"
-msgstr ""
+msgstr "Busca e rescate"
 
 #: kenshi/GOAPdefs.cpp:2139
 msgid "Find and put in bed"
-msgstr ""
+msgstr "Atopar e meter en cama"
 
 #: kenshi/GOAPdefs.cpp:2150
 msgid "Find and rescue leader"
-msgstr ""
+msgstr "Busca e rescate de líder"
 
 #: kenshi/GOAPdefs.cpp:2169
 msgid "Kill random prisoner"
-msgstr ""
+msgstr "Matar prisioneiro ao chou"
 
 #: kenshi/GOAPdefs.cpp:2178
 msgid "Kill prisoner"
-msgstr ""
+msgstr "Matar prisioneiro"
 
 #: kenshi/GOAPdefs.cpp:2184
 msgid "Eat random prisoner"
-msgstr ""
+msgstr "Comer prisioneiro ao chou"
 
 #: kenshi/GOAPdefs.cpp:2191
 msgid "Dinner time"
-msgstr ""
+msgstr "Hora da cea"
 
 #: kenshi/GOAPdefs.cpp:2199
 msgid "Eat corpse"
-msgstr ""
+msgstr "Comer cadáver"
 
 #: kenshi/GOAPdefs.cpp:2206
 msgid "Eat body"
-msgstr ""
+msgstr "Comer corpo"
 
 #: kenshi/GOAPdefs.cpp:2213
 msgid "Find crops"
-msgstr ""
+msgstr "Atopar colleitas"
 
 #: kenshi/GOAPdefs.cpp:2218
 msgid "Eating crops"
-msgstr ""
+msgstr "Devorando colleita"
 
 #: kenshi/GOAPdefs.cpp:2225
 msgid "Eat prisoner"
-msgstr ""
+msgstr "Comer prisioneiro"
 
 #: kenshi/GOAPdefs.cpp:2232
 msgid "Beat prisoner"
-msgstr ""
+msgstr "Bater no prisioneiro"
 
 #: kenshi/GOAPdefs.cpp:2239
 msgid "Disposing of corpse"
-msgstr ""
+msgstr "Desfacéndose de cadáver"
 
 #: kenshi/GOAPdefs.cpp:2246
 msgid "Find corpses"
-msgstr ""
+msgstr "Atopar corpos"
 
 #: kenshi/GOAPdefs.cpp:2254
 msgid "Corpse disposal"
-msgstr ""
+msgstr "Eliminación de cadáveres"
 
 #: kenshi/GOAPdefs.cpp:2266 kenshi/character/character.cpp:2294
 msgid "Imprisoned"
-msgstr ""
+msgstr "Aprisionado"
 
 #: kenshi/GOAPdefs.cpp:2273
 msgid "Put in prison"
-msgstr ""
+msgstr "Meter en prisión"
 
 #: kenshi/GOAPdefs.cpp:2280 kenshi/GOAPdefs.cpp:2292
 msgid "Find and put in cage"
-msgstr ""
+msgstr "Atopar e meter nunha gaiola"
 
 #: kenshi/GOAPdefs.cpp:2302
 msgid "Getting in my cage"
-msgstr ""
+msgstr "Entrando na miña gaiola"
 
 #: kenshi/GOAPdefs.cpp:2308
 msgid "Freeing prisoner"
-msgstr ""
+msgstr "Ceibando prisioneiro"
 
 #: kenshi/GOAPdefs.cpp:2313
 msgid "Liberating prisoners"
-msgstr ""
+msgstr "Ceibando prisioneiros"
 
 #: kenshi/GOAPdefs.cpp:2319
 msgid "Release from prison"
-msgstr ""
+msgstr "Soltando da prisión"
 
 #: kenshi/GOAPdefs.cpp:2327
 msgid "Arresting"
-msgstr ""
+msgstr "Prendendo"
 
 #: kenshi/GOAPdefs.cpp:2333
 msgid "Bounty hunting"
-msgstr ""
+msgstr "Cazando recompensas"
 
 #: kenshi/GOAPdefs.cpp:2338
 msgid "Remove Home Intruder"
-msgstr ""
+msgstr "Expulsar invasor"
 
 #: kenshi/GOAPdefs.cpp:2344
 msgid "Intruder out"
-msgstr ""
+msgstr "Intruso para fóra"
 
 #: kenshi/GOAPdefs.cpp:2350
 msgid "Remove Intruder"
-msgstr ""
+msgstr "Botar intruso"
 
 #: kenshi/GOAPdefs.cpp:2356
 msgid "Throwing out"
-msgstr ""
+msgstr "Botando fóra"
 
 #: kenshi/GOAPdefs.cpp:2364 kenshi/GOAPdefs.cpp:2368
 msgid "Investigating"
-msgstr ""
+msgstr "Investigando"
 
 #: kenshi/GOAPdefs.cpp:2379
 msgid "Find and kidnap"
-msgstr ""
+msgstr "Atopar e secuestrar"
 
 #: kenshi/GOAPdefs.cpp:2390
 msgid "Kidnapper"
-msgstr ""
+msgstr "Secuestrador"
 
 #: kenshi/GameLauncher.cpp:88
 msgid "Rendering system:"
-msgstr ""
+msgstr "Sistema de renderizado:"
 
 #: kenshi/GameLauncher.cpp:89
 msgid "Resolution:"
-msgstr ""
+msgstr "Resolución:"
 
 #: kenshi/GameLauncher.cpp:90
 msgid "Rendering device:"
-msgstr ""
+msgstr "Dispositivo de renderizado:"
 
 #: kenshi/GameLauncher.cpp:92
 msgid "Full screen:"
-msgstr ""
+msgstr "Pantalla completa:"
 
 #: kenshi/GameLauncher.cpp:93
 msgid "Borderless:"
-msgstr ""
+msgstr "Sen bordes:"
 
 #: kenshi/GameLauncher.cpp:94
 msgid "VSync:"
-msgstr ""
+msgstr "VSync:"
 
 #: kenshi/GameLauncher.cpp:95
 msgid "Monitor:"
-msgstr ""
+msgstr "Monitor:"
 
 #: kenshi/GameLauncher.cpp:98
 msgid ""
 "If you have issues with fullscreen mode, you can use a "
 "borderless window at your native resolution for the same effect."
 msgstr ""
+"Se tes problemas co modo pantalla completa, podes usar unha xanela sen "
+"bordes na túa resolución nativa para conseguir o mesmo efecto."
 
 #: kenshi/GameLauncher.cpp:99
 msgid ""
 "Use a borderless window with the resolution of the monitor if "
 "you are having problems with the fullscreen mode."
 msgstr ""
+"Usa unha xanela sen bordes coa resolución do monitor se tes problemas co "
+"modo pantalla completa."
 
 #: kenshi/GameLauncher.cpp:314
 msgid ""
@@ -1060,58 +1064,76 @@ msgid ""
 "with both cards here in the launcher if you have any low frame-"
 "rate problems."
 msgstr ""
+"Se tes dúas tarxetas de vídeo tal vez precises experimentar para obter a "
+"mellor configuración, especialmente se o teu sistema ten nVidia Optimus.\n"
+"Con Optimus, o xogo debería usar a mellor tarxeta gráfica independentemente "
+"da escollida aquí.\n"
+"\n"
+"Aquí as cousas comezan a volverse estrañas. Non é cousa nosa, son os "
+"drivers...\n"
+"Realmente achei en tests que o xogo corre MÁIS RÁPIDO se escollo a miserenta "
+"tarxeta gráfica intel integrada de serie. Segue usando a miña tarxeta nVidia "
+"con ambas configuracións (porque é forzada polo panel de control de nVidia), "
+"mais por algún motivo ao configurar o lanzador para usar a tarxeta nVidia "
+"bloquea a CPU mentres a GPU estea renderizando. Se escollo a tarxeta "
+"integrada no lanzador, a CPU e a GPU corren en paralelo, o que resulta nunha "
+"taxa de cuadros ou frame rate moito mellor. Non teño nin idea do por que, os "
+"drivers simplemente están tolos.\n"
+"\n"
+"Resumo: forza o sistema a usar a mellor tarxeta, pero tenta aquí no launcher "
+"con ambas tarxetas se tes problemas de taxa de cuadros."
 
 #: kenshi/GameLauncher.cpp:322
 msgid "Video settings options"
-msgstr ""
+msgstr "Opcións de vídeo"
 
 #: kenshi/GameLauncher.cpp:354
 msgid "Select None"
-msgstr ""
+msgstr "Non seleccionar ningún"
 
 #: kenshi/GameLauncher.cpp:355
 msgid "Select All"
-msgstr ""
+msgstr "Seleccionar todos"
 
 #: kenshi/GameLauncher.cpp:356
 msgid "Refresh list"
-msgstr ""
+msgstr "Recargar lista"
 
 #: kenshi/GameLauncher.cpp:435 kenshi/options.cpp:727
 msgid "Version:"
-msgstr ""
+msgstr "Versión:"
 
 #: kenshi/GameLauncher.cpp:436
 msgid "Author:"
-msgstr ""
+msgstr "Autor:"
 
 #: kenshi/GameLauncher.cpp:437 kenshi/statswindow.cpp:440
 msgid "Description:"
-msgstr ""
+msgstr "Descrición:"
 
 #: kenshi/GameLauncher.cpp:441
 msgid "Dependencies:"
-msgstr ""
+msgstr "Dependencias:"
 
 #: kenshi/GameLauncher.cpp:451 kenshi/GameLauncher.cpp:468
 msgid "Missing mod!"
-msgstr ""
+msgstr "Falta mod!"
 
 #: kenshi/GameLauncher.cpp:458
 msgid "References:"
-msgstr ""
+msgstr "Referencias:"
 
 #: kenshi/GameLauncher.cpp:477
 msgid "Translation:"
-msgstr ""
+msgstr "Tradución:"
 
 #: kenshi/GameLauncher.cpp:614
 msgid "Missing dependent mods above:"
-msgstr ""
+msgstr "Faltan as seguintes dependencias por riba:"
 
 #: kenshi/GameLauncher.cpp:630
 msgid "Missing reference mods:"
-msgstr ""
+msgstr "Faltan mods de referencia:"
 
 #: kenshi/GameLauncher.cpp:757
 msgid ""
@@ -1119,26 +1141,29 @@ msgid ""
 "further down the list will overwrite the mods above them if "
 "they have any conflicts."
 msgstr ""
+"Esta lista de mods representa a orde de carga; noutras palabras, os mods que "
+"estean máis abaixo sobreescribirán aos que estean máis arriba se hai "
+"conflitos."
 
 #: kenshi/GameLauncher.cpp:758
 msgid "Mods order info"
-msgstr ""
+msgstr "Información da orde dos mods"
 
 #: kenshi/GameLauncher.cpp:1328
 msgid "Video settings"
-msgstr ""
+msgstr "Configuración de vídeo"
 
 #: kenshi/GameLauncher.cpp:1332 kenshi/options.cpp:715
 msgid "Mods"
-msgstr ""
+msgstr "Mods"
 
 #: kenshi/GameLauncher.cpp:1335
 msgid "Changelog"
-msgstr ""
+msgstr "Rexistro de cambios"
 
 #: kenshi/GameLauncher.cpp:1340
 msgid "Serial"
-msgstr ""
+msgstr "Nº de serie"
 
 #: kenshi/GameLauncher.cpp:1414 kenshi/crafting.cpp:1470
 #: kenshi/crafting.cpp:1479 kenshi/farmbuilding.cpp:863
@@ -1146,127 +1171,131 @@ msgstr ""
 #: kenshi/getGUIData.cpp:649 kenshi/getGUIData.cpp:670
 #: kenshi/getGUIData.cpp:676
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: kenshi/GameLauncher.cpp:1415 kenshi/gui/mainbar.cpp:2649
 #: kenshi/gui_utilities.cpp:352 kenshi/openSaveFileDialog.cpp:31
 #: kenshi/savemanager.cpp:450 kenshi/titlescreen.cpp:340
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: kenshi/GameLauncher.cpp:1416
 msgid "Save config"
-msgstr ""
+msgstr "Gardar configuración"
 
 #: kenshi/GameLauncher.cpp:1417
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzado"
 
 #: kenshi/GameLauncher.cpp:1425
 msgid "Language:"
-msgstr ""
+msgstr "Idioma:"
 
 #: kenshi/GameLauncher.cpp:1442
 msgid "Please restart the game to apply the new settings."
-msgstr ""
+msgstr "Reinicia o xogo para aplicar a nova configuración."
 
 #: kenshi/GameLauncher.cpp:1442
 msgid "NVIDIA profiles updated"
-msgstr ""
+msgstr "Perfís de NVIDIA actualizados"
 
 #: kenshi/GameLauncher.cpp:1453
 msgid "No video devices detected."
-msgstr ""
+msgstr "Non se detectaron dispositivos de vídeo."
 
 #: kenshi/GameLauncher.cpp:1453 kenshi/GameLauncher.cpp:1460
 msgid "Video Error"
-msgstr ""
+msgstr "Erro de vídeo"
 
 #: kenshi/GameLauncher.cpp:1460
 msgid "Invalid video resolution."
-msgstr ""
+msgstr "Resolución de vídeo non válida."
 
 #: kenshi/GameLauncher.cpp:1468
 msgid ""
 "One or more mods are missing or in incorrect order.\n"
 "Continue anyway?"
 msgstr ""
+"Un ou máis mods están ausentes ou non están na orde correcta.\n"
+"Continuar igualmente?"
 
 #: kenshi/GameLauncher.cpp:1468
 msgid "Mods warning"
-msgstr ""
+msgstr "Advertencia de mods"
 
 #: kenshi/GameLauncher.cpp:1554
 msgid ""
 "To apply properly the new language you need to restart the game."
-msgstr ""
+msgstr "Para aplicar correctamente o novo idioma tes que reiniciar o xogo."
 
 #: kenshi/GameLauncher.cpp:1554 kenshi/mapscreen.cpp:3926
 msgid "Information"
-msgstr ""
+msgstr "Información"
 
 #: kenshi/SerialDialog.cpp:56
 msgid "Activate"
-msgstr ""
+msgstr "Activar"
 
 #: kenshi/SerialDialog.cpp:57
 msgid "Try Demo"
-msgstr ""
+msgstr "Probar Demo"
 
 #: kenshi/SerialDialog.cpp:58
 msgid "Enter Key"
-msgstr ""
+msgstr "Inserir chave"
 
 #: kenshi/SerialDialog.cpp:80
 msgid "Failed to activate Kenshi."
-msgstr ""
+msgstr "Fallou a activación de Kenshi."
 
 #: kenshi/SerialDialog.cpp:80 kenshi/render.cpp:633
 #: kenshi/render.cpp:1742 kenshi/render.cpp:1746
 #: kenshi/savemanager.cpp:232 kenshi/savemanager.cpp:252
 #: kenshi/savemanager.cpp:272 kenshi/start.cpp:382
 msgid "Error"
-msgstr ""
+msgstr "Erro"
 
 #: kenshi/SerialDialog.cpp:107
 msgid "Activation Key"
-msgstr ""
+msgstr "Chave de activación"
 
 #: kenshi/SerialDialog.cpp:108
 msgid ""
 "This is your serial key code. Press deactivate if you want to "
 "install on another machine."
 msgstr ""
+"Este é o teu código de serie. Preme desactivar se queres instalar o xogo "
+"noutra máquina."
 
 #: kenshi/SerialDialog.cpp:109
 msgid "Deactivate"
-msgstr ""
+msgstr "Desactivar"
 
 #: kenshi/SerialDialog.cpp:124
 msgid "Demo Mode"
-msgstr ""
+msgstr "Modo Demo"
 
 #: kenshi/SerialDialog.cpp:125
 msgid ""
 "Kenshi has now been deactivated. You can still play it in Demo "
 "mode"
-msgstr ""
+msgstr "Kenshi foi desactivado. Aínda podes xogalo en modo Demo"
 
 #: kenshi/SerialDialog.cpp:125
 msgid "Deactivated"
-msgstr ""
+msgstr "Desactivado"
 
 #: kenshi/SerialDialog.cpp:128
 msgid "There was an error deactivating this machine."
-msgstr ""
+msgstr "Houbo un erro desactivando este computador."
 
 #: kenshi/SerialDialog.cpp:128
 msgid "Bah"
-msgstr ""
+msgstr "Bah"
 
 #: kenshi/TutorialManager.cpp:72
 msgid "DISMISS"
-msgstr ""
+msgstr "REXEITAR"
 
 #: kenshi/TutorialManager.cpp:73
 msgid "PREVIOUS"
@@ -5323,7 +5352,7 @@ msgstr ""
 
 #: kenshi/levelEditor.cpp:2276
 msgid "Furniture"
-msgstr ""
+msgstr "Mobiliario"
 
 #: kenshi/levelEditor.cpp:2279 kenshi/previewbuilding.cpp:4029
 msgid "Exterior"
