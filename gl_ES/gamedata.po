@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: 2021-03-16 23:39+0000\n"
+"PO-Revision-Date: 2021-03-18 20:39+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
@@ -2325,24 +2325,21 @@ msgstr ""
 #. Type: BUILDING
 #. Name: Makeshift Gate
 #: 3007-Walls.mod
-#, fuzzy
 msgid "Makeshift Gate"
-msgstr "Porta provisional"
+msgstr "Portón improvisado"
 
 #. Type: BUILDING
 #. Name: Makeshift Gate
 #: 3007-Walls.mod:0
-#, fuzzy
 msgid "A crappy gate that won't keep the enemies at bay for long."
 msgstr ""
-"Unha porta trapalleira que non manterá os inimigos lonxe por moito tempo."
+"Un portón trapalleiro que non manterá os inimigos lonxe por moito tempo."
 
 #. Type: BUILDING
 #. Name: Makeshift Wall
 #: 3005-Walls.mod
-#, fuzzy
 msgid "Makeshift Wall"
-msgstr "Muro provisional"
+msgstr "Muro improvisado"
 
 #. Type: BUILDING
 #. Name: Makeshift Wall Short
@@ -2383,15 +2380,14 @@ msgstr "Perforadora manual de petróleo"
 #. Type: BUILDING
 #. Name: Manual Stone Processor
 #: 1863-gamedata.base:0
-#, fuzzy
 msgid ""
 "This machine can process raw stone and turn it into useful building "
 "materials. It doesn't need any power, but you need a lot of people to "
 "operate it."
 msgstr ""
 "Esta máquina pode procesar pedra bruta e convertela en materiais de "
-"construción útiles. Non precisa ecerxía, pero precisas de moita xente para "
-"pola a andar."
+"construción útiles. Non precisa enerxía, pero precisas de moita xente para "
+"facela funcionar."
 
 #. Type: BUILDING
 #. Name: Manual Stone Processor
@@ -2496,9 +2492,8 @@ msgstr ""
 #. Type: BUILDING
 #. Name: Medicrate
 #: 2266-gamedata.base:0
-#, fuzzy
 msgid "A safe place to store all your medikits."
-msgstr "Un lugar seguro para gardar todos os teus botiquíns."
+msgstr "Un lugar seguro para gardar todos os teus kits médicos."
 
 #. Type: BUILDING
 #. Name: Medicrate
@@ -2509,14 +2504,12 @@ msgstr "Caixón médico"
 #. Type: BUILDING
 #. Name: Medicrate
 #: 2266-gamedata.base:5
-#, fuzzy
 msgid "Medical Kits"
-msgstr "Botiquins médicos"
+msgstr "Kits médicos"
 
 #. Type: BUILDING
 #. Name: Medium Tent
 #: 2330-Cannibals.mod
-#, fuzzy
 msgid "Medium Tent "
 msgstr "Tenda mediana "
 
@@ -5130,7 +5123,7 @@ msgstr ""
 #. Name: Bodyguard
 #: 210-gamedata.base
 msgid "Bodyguard"
-msgstr ""
+msgstr "Escolta"
 
 #. Type: CHARACTER
 #. Name: Bodyguard adv
@@ -19717,7 +19710,7 @@ msgstr ""
 #. Name: Robotics
 #: 43924-rebirth.mod 56129-rebirth.mod:5
 msgid "Robotics"
-msgstr ""
+msgstr "Robótica"
 
 #. Type: RESEARCH
 #. Name: Robotics
