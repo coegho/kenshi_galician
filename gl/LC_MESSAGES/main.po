@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-03-18 20:39+0000\n"
+"PO-Revision-Date: 2021-03-20 00:39+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -1299,27 +1299,27 @@ msgstr "REXEITAR"
 
 #: kenshi/TutorialManager.cpp:73
 msgid "PREVIOUS"
-msgstr ""
+msgstr "ANTERIOR"
 
 #: kenshi/TutorialManager.cpp:776
 msgid "CONTINUE"
-msgstr ""
+msgstr "CONTINUAR"
 
 #: kenshi/TutorialManager.cpp:780
 msgid "SKIP"
-msgstr ""
+msgstr "SALTAR"
 
 #: kenshi/TutorialManager.cpp:786
 msgid "FINISH"
-msgstr ""
+msgstr "REMATAR"
 
 #: kenshi/TutorialManager.cpp:1375
 msgid "TUTORIALS"
-msgstr ""
+msgstr "TUTORIAIS"
 
 #: kenshi/TutorialManager.cpp:1376
 msgid "ACTIVATE"
-msgstr ""
+msgstr "ACTIVAR"
 
 #: kenshi/TutorialsData.cpp:108
 msgid ""
@@ -1328,6 +1328,10 @@ msgid ""
 "the mouse scroll.\n"
 "Do both to continue."
 msgstr ""
+"Podes mover a cámara coas teclas WASD.\n"
+"Para rotar a vista mantén premido o botón central do rato, para facer zoom "
+"usa a roda do rato.\n"
+"Fai as dúas cousas para continuar."
 
 #: kenshi/TutorialsData.cpp:156
 msgid ""
@@ -1336,32 +1340,41 @@ msgid ""
 "To select a squad member, left click the character icon on the "
 "panel."
 msgstr ""
+"O panel inferior do medio mostra os personaxes do teu grupo actual.\n"
+"Para seleccionar un membro do grupo, preme co botón esquerdo na icona do "
+"personaxe no panel."
 
 #: kenshi/TutorialsData.cpp:182
 msgid ""
 "To give a move order to your character, right click on the "
 "terrain."
 msgstr ""
+"Para dar unha orde de movemento ao teu personaxe, preme co botón dereito no "
+"terreo."
 
 #: kenshi/TutorialsData.cpp:203
 msgid ""
 "Double click on your character icon to centre on screen and "
 "follow their movement."
 msgstr ""
+"Fai doble clic na túa icona de personaxe para centralo en pantalla e seguir "
+"os seus movementos."
 
 #: kenshi/TutorialsData.cpp:220
 msgid "Basic Controls"
-msgstr ""
+msgstr "Controis básicos"
 
 #: kenshi/TutorialsData.cpp:228
 msgid ""
 "Right click on characters or interactable objects to interact.\n"
 "Hold the right mouse button on to get more availiable actions"
 msgstr ""
+"Para interactuar, clic dereito en personaxes ou obxectos interactuábeis.\n"
+"Mantén o botón dereito do rato para ver máis opcións dispoñíbeis"
 
 #: kenshi/TutorialsData.cpp:247
 msgid "Select a character from your squad"
-msgstr ""
+msgstr "Selecciona un personaxe do teu grupo"
 
 #: kenshi/TutorialsData.cpp:262
 msgid ""
@@ -1369,28 +1382,35 @@ msgid ""
 "basic info.\n"
 "Mouse over each item for more information."
 msgstr ""
+"Mostra o estado actual da túa selección, estatísticas e outra información "
+"básica.\n"
+"Pasa o rato por riba de cada elemento para máis información."
 
 #: kenshi/TutorialsData.cpp:289
 msgid ""
 "This shows the selected character's current health condition.\n"
 "Mouse over each item for more information."
 msgstr ""
+"Mostra o actual estado de saúde do personaxe seleccionado.\n"
+"Pasa o rato por riba de cada elemento para máis información."
 
 #: kenshi/TutorialsData.cpp:309
 msgid ""
 "The arrow buttons allow you to pause and fastforward the game "
 "speed."
-msgstr ""
+msgstr "As teclas de frechas permiten pausar e acelerar a velocidade do xogo."
 
 #: kenshi/TutorialsData.cpp:329
 msgid ""
 "Here you'll find your character's current funds and the in-game "
 "time and date."
 msgstr ""
+"Aquí atoparás os fondos actuais do teu personaxe e a data e hora dentro do "
+"xogo."
 
 #: kenshi/TutorialsData.cpp:349
 msgid "This opens the 'Build' menu"
-msgstr ""
+msgstr "Isto abre o menú \"Construción\""
 
 #: kenshi/TutorialsData.cpp:369
 msgid ""
@@ -1400,26 +1420,35 @@ msgid ""
 "For more tips and tutorials make sure to check out the Help "
 "menu at the very bottom."
 msgstr ""
+"Aquí podes abrir o inventario, estatísticas de habilidades, mapa do mundo, "
+"tecnoloxía e mais menús de xestión do grupo.\n"
+"\n"
+"Para máis consellos e titoriais, bota unha ollada ao menú de Axuda abaixo de "
+"todo."
 
 #: kenshi/TutorialsData.cpp:389
 msgid ""
 "This shows assigned player jobs and orders for the selected "
 "character."
 msgstr ""
+"Mostra os traballos e ordes asignados polo xogador para o personaxe "
+"seleccionado."
 
 #: kenshi/TutorialsData.cpp:406
 msgid "GUI overview"
-msgstr ""
+msgstr "Vista xeral do GUI"
 
 #: kenshi/TutorialsData.cpp:440
 msgid ""
 "Tap the 'M' key to open up the map. You can use the world map "
 "to navigate and find nearby towns or points of interest"
 msgstr ""
+"Preme a tecla 'M' para abrir o mapa. Podes usar o mapa do mundo para navegar "
+"e descubrir vilas veciñas ou puntos de interese"
 
 #: kenshi/TutorialsData.cpp:468
 msgid "What do I do?"
-msgstr ""
+msgstr "Que fago?"
 
 #: kenshi/TutorialsData.cpp:473
 msgid ""
@@ -1429,6 +1458,11 @@ msgid ""
 "\n"
 "You'll need to explore the world and find your own adventure."
 msgstr ""
+"Non hai ningunha historia linear ou misión para guiarte en Kenshi. Podes ser "
+"un comerciante, un ladrón, un cazador de recompensas, un labrego ou até un "
+"señor da guerra...\n"
+"\n"
+"Terás que explorar o mundo e atopar a túa propia aventura."
 
 #: kenshi/TutorialsData.cpp:475
 msgid ""
@@ -1437,12 +1471,18 @@ msgid ""
 "mine valuable materials from iron ore veins, or you can even "
 "resort to thievery after nightfall."
 msgstr ""
+"O primeiro é o primeiro, precisarás comida e fondos para sobrevivir.\n"
+"Para comezar podes cheirar polas terras distantes na procura de algo que "
+"saquear, extraer minerais valiosos de veas de ferro, ou podes até recorrer "
+"ao roubo após o anoitecer."
 
 #: kenshi/TutorialsData.cpp:476
 msgid ""
 "To cash in your loot, you'll need to find a store.\n"
 "Use the map to navigate to a nearby town and find shops."
 msgstr ""
+"Para vender o que saqueaches precisarás atopar unha loxa.\n"
+"Usa o mapa para navegar a unha vila próxima e atopa loxas."
 
 #: kenshi/TutorialsData.cpp:477
 msgid ""
@@ -1456,22 +1496,34 @@ msgid ""
 "Train hard, pick your fights wisely and don't be afraid to run "
 "like crazy!"
 msgstr ""
+"Sobrevivir en solitario no mundo de Kenshi non será doado, mais contratar "
+"novos recrutas pode axudar. Revisa os bares da vila na procura de "
+"mercenarios, ou merca animais de compañía en algunha das granxas fóra da "
+"vila.\n"
+"\n"
+"Lembra: non es especial nin es máis forte que os demais.\n"
+"Adestra duro, escolle as loitas de forma sabia, e non teñas medo de saír a "
+"fume de carozo!"
 
 #: kenshi/TutorialsData.cpp:511
 msgid ""
 "To cash in your loot, you'll need to find a store.\n"
 "Hold 'ALT' key to show nearby shop signs."
 msgstr ""
+"Para vender o que saqueaches precisarás atopar unha loxa.\n"
+"Mantén pulsada a tecla 'ALT' para mostrar letreiros de loxas próximas."
 
 #: kenshi/TutorialsData.cpp:538
 msgid "What do I do? (Towns)"
-msgstr ""
+msgstr "Que fago? (Vilas)"
 
 #: kenshi/TutorialsData.cpp:542
 msgid ""
 "You've discovered your first town!\n"
 "Towns are perfect for stocking up on supplies and selling loot."
 msgstr ""
+"Atopaches a túa primeira vila!\n"
+"As vilas son perfectas para reabastecer suministros e vender o saqueado."
 
 #: kenshi/TutorialsData.cpp:544
 msgid ""
@@ -1481,6 +1533,10 @@ msgid ""
 "by selecting the building.\n"
 "Also most shops close at night."
 msgstr ""
+"Ten coidado cando entres en edificios privados. Os residentes non adoitan "
+"gustar dos intrusos.\n"
+"Podes descubrir se un edificio é público ou privado seleccionándoo.\n"
+"Alén diso, a maioría de loxas pecha á noite."
 
 #: kenshi/TutorialsData.cpp:581
 msgid ""
@@ -1488,16 +1544,21 @@ msgid ""
 "green bars in the health panel show your health, the red bars "
 "show bleeding damage. Bleeding damage will need first aid."
 msgstr ""
+"Demasiado dano pode rematar en KO, eivamento e morte. As barras verdes no "
+"panel de saúde mostran a túa saúde, as barras vermellas o dano de "
+"sangramento. O dano de sangramento precisará primeiros auxilios."
 
 #: kenshi/TutorialsData.cpp:598
 msgid "You are injured"
-msgstr ""
+msgstr "Estás ferid/OA/"
 
 #: kenshi/TutorialsData.cpp:602
 msgid ""
 "In order to heal, you'll need to get a First Aid Kit. You can "
 "buy or steal them from stores in town."
 msgstr ""
+"Para te curar, precisarás un kit de primeiros auxilios. Podes mercalos ou "
+"roubalos en loxas na vila."
 
 #: kenshi/TutorialsData.cpp:636
 msgid ""
@@ -1506,6 +1567,10 @@ msgid ""
 "Aid' from the menu, or simply right click the heal icon over "
 "the injured person."
 msgstr ""
+"Para curar un personaxe precisarás un kit de primeiros auxilios no "
+"inventario. Fai clic dereito e mantén sobre o obxectivo, despois escolle "
+"'Primeiros auxilios' no menú, ou simplemente fai clic dereito na icona de "
+"curar sobre a persoa ferida."
 
 #: kenshi/TutorialsData.cpp:681
 msgid ""
@@ -1513,6 +1578,8 @@ msgid ""
 "command menu. This will heal all wounded squad members within "
 "range."
 msgstr ""
+"Outra posibilidade é clicar no botón médico no menú de comandos da dereita. "
+"Isto curará a todos os membros de equipo dentro do alcance."
 
 #: kenshi/TutorialsData.cpp:704
 msgid ""
@@ -1521,6 +1588,10 @@ msgid ""
 "If any of them fall below 0, you will pass out, and if they "
 "reach -100 then you will die."
 msgstr ""
+"Todas as partes do corpo están afectadas á súa maneira. A cabeza, peito e "
+"estómago son as partes vitais.\n"
+"Se calquera delas cae por debaixo de 0, desmaiaraste, e se chega a -100 "
+"morrerás."
 
 #: kenshi/TutorialsData.cpp:733
 msgid ""
@@ -1529,6 +1600,10 @@ msgid ""
 "speed up recovery and improve the limb's function until "
 "recovered."
 msgstr ""
+"Se algún dos teus membros cae por debaixo de 0, non serás quen de loitar ou "
+"camiñar como é debido.\tPodes usar un kit de talas en membros rotos para "
+"acelerar a velocidade de recuperación e mellorar a funcionalidade dese "
+"membro até que se recupere."
 
 #: kenshi/TutorialsData.cpp:761
 msgid ""
@@ -1536,16 +1611,20 @@ msgid ""
 "slowly recovered over time, but if it drops below 0 you will "
 "pass out."
 msgstr ""
+"O atributo de sangue mostra como de rápido estás a desangrarte. O sangue "
+"recupérase lentamente co tempo, mais se cae por debaixo de 0 desmaiarás."
 
 #: kenshi/TutorialsData.cpp:785
 msgid "You are injured 2"
-msgstr ""
+msgstr "Estás ferid/OA/ 2"
 
 #: kenshi/TutorialsData.cpp:790
 msgid ""
 "The yellow areas of the health bars show bandaged health. Over "
 "time, this will slowly heal back to a healthy green."
 msgstr ""
+"As partes amarelas das barras de saúde mostran a saúde vendada. Co tempo, "
+"ela irase curando lentamente até volverse verde."
 
 #: kenshi/TutorialsData.cpp:794
 msgid ""
@@ -1554,6 +1633,10 @@ msgid ""
 "You can either build your own beds and camp beds or stay at a "
 "bar in town for a fee."
 msgstr ""
+"Despois de usar un kit de primeiros auxilios para vendar as túas feridas, "
+"durmir nunha cama pode axudar a recuperarse por completo máis rápido.\n"
+"Podes construír as túas propias camas e camas de campamento ou ficar nun bar "
+"da vila por un custo."
 
 #: kenshi/TutorialsData.cpp:832
 msgid ""
@@ -1564,10 +1647,17 @@ msgid ""
 "- Chases focuses on chasing down enemies until KO'd.\n"
 "- Taunt focuses on drawing enemy attacks."
 msgstr ""
+"Podes seleccionar modos de combate máis específicos no menú de comandos da "
+"dereita:\n"
+"- Bloqueo céntrase en defensa sobre ataque.\n"
+"- Pasividade céntrase en evitar o combate a menos que sexa atacado primeiro."
+"\n"
+"- Persecución céntrase en perseguir inimigos até que caian.\n"
+"- Provocación céntrase en atraer ataques de inimigos."
 
 #: kenshi/TutorialsData.cpp:853
 msgid "You're under attack!"
-msgstr ""
+msgstr "Estás baixo ataque!"
 
 #: kenshi/TutorialsData.cpp:856
 msgid ""
@@ -1576,6 +1666,10 @@ msgid ""
 "Use the Space Bar to pause the action. This will give you some "
 "time to think and plan your next step."
 msgstr ""
+"Estás baixo ataque...\n"
+"\n"
+"Usa a barra espaciadora para pausar a acción. Isto darache algo de tempo "
+"para pensar un plan."
 
 #: kenshi/TutorialsData.cpp:857
 msgid ""
@@ -1585,6 +1679,11 @@ msgid ""
 "\n"
 "*Tip: Make sure you have your character(s) selected!"
 msgstr ""
+"Cando estás en inferioridade numérica, se cadra é mellor abandonar o barco e "
+"fuxir.\n"
+"Se escolles fuxir, fai clic dereito no terreo para mover o teu personaxe.\n"
+"\n"
+"Consello: Comproba que tes seleccionado o teu personaxe!"
 
 #: kenshi/TutorialsData.cpp:858
 msgid ""
@@ -1594,6 +1693,11 @@ msgid ""
 "Just right clicking on on an enemy when the cursor is red also "
 "gives an attack order."
 msgstr ""
+"Se escolles ficar e loitar, selecciona os membros do teu grupo, mantén clic "
+"dereito no albo inimigo e selecciona Atacar albo ou Atacar todos no menú de "
+"interacción.\n"
+"Facer clic dereito nun inimigo cando o cursor está vermello tamén conta como "
+"unha orde de ataque."
 
 #: kenshi/TutorialsData.cpp:895
 msgid ""
@@ -1602,20 +1706,25 @@ msgid ""
 "left click dragging over the in-game characters. Select your "
 "new recruit."
 msgstr ""
+"Podes seleccionar distintos membros do grupo facendo clic nas súas iconas no "
+"panel de grupo, ou usando as teclas numéricas, ou facendo clic esquerdo e "
+"arrastrando sobre os personaxes no xogo. Selecciona o teu novo recruta."
 
 #: kenshi/TutorialsData.cpp:920
 msgid ""
 "You can check your character's skill statistics by opening the "
 "Stats menu from the command menu."
 msgstr ""
+"Podes ver as estatísticas de habilidade do teu personaxe abrindo o menú de "
+"Atributos no menú de comando."
 
 #: kenshi/TutorialsData.cpp:946
 msgid "Arrange and rename different squads via the squad menu."
-msgstr ""
+msgstr "Arranxa e renomea diferentes grupos co menú de grupo."
 
 #: kenshi/TutorialsData.cpp:972
 msgid "You've just hired your first recruit"
-msgstr ""
+msgstr "Ves de contratar o teu primeiro recruta"
 
 #: kenshi/TutorialsData.cpp:977
 msgid ""
@@ -1623,14 +1732,17 @@ msgid ""
 "and carry squad members. Hold right click on them, or on their "
 "portrait to bring up the interaction menu."
 msgstr ""
+"Para facer primeiros auxilios, trocar obxectos do inventario, gardar, seguir "
+"e cargar con membros do grupo. Fai clic dereito e mantén sobre eles ou no "
+"seu retrato para mostrar o menú de interacción."
 
 #: kenshi/TutorialsData.cpp:1014
 msgid "You have stolen goods in your inventory"
-msgstr ""
+msgstr "Tes mercadorías roubadas no teu inventario"
 
 #: kenshi/TutorialsData.cpp:1018
 msgid "Thief! You've just stolen from someone..."
-msgstr ""
+msgstr "Ladrón! Roubaches a alguén..."
 
 #: kenshi/TutorialsData.cpp:1019
 msgid ""
@@ -1638,6 +1750,8 @@ msgid ""
 "find yourself in trouble with the law if they catch you "
 "offloading their ally's belongings..."
 msgstr ""
+"Anda con ollo cando vendas bens roubados aos comerciantes, podes atopar "
+"problemas coa lei se te cachan descargando as pertenzas dos seus aliados..."
 
 #: kenshi/TutorialsData.cpp:1020
 msgid ""
@@ -1647,6 +1761,11 @@ msgid ""
 "If the Fencing Chance is low and it was stolen from the same "
 "faction, you'll likely be caught."
 msgstr ""
+"Cando falas cun comerciante e inicias a pantalla de comercio, pasa a o rato "
+"por riba de obxectos roubados para ver a probabilidade de tráfico exitoso "
+"antes de vender.\n"
+"Se a probabilidade de traficar é é baixa e a mercadoría foi roubada na mesma "
+"facción, é probábel que te cachen."
 
 #: kenshi/TutorialsData.cpp:1021
 msgid ""
@@ -1656,10 +1775,16 @@ msgid ""
 "Thieves will buy any item off you risk free, however their "
 "prices are much less profitable than official merchant prices."
 msgstr ""
+"A túa mellor opción á hora de vender bens roubados é vendelos a un "
+"comerciante de outra vila e facción, ou atopar un ladrón nun dos bares da "
+"vila.\n"
+"Os ladróns mercaranche calquera obxecto sen riscos, porén os seus baixos "
+"prezos deixaranche uns beneficios menores que cos prezos de comerciantes "
+"oficiais."
 
 #: kenshi/TutorialsData.cpp:1058
 msgid "Select your KO'd character."
-msgstr ""
+msgstr "Selecciona o teu personaxe nocauteado."
 
 #: kenshi/TutorialsData.cpp:1079
 msgid ""
@@ -1667,14 +1792,17 @@ msgid ""
 "of the health panel. This counts down how long until the "
 "character wakes up again."
 msgstr ""
+"Cando o teu personaxe estea inconsciente, verás un contador de KO no alto do "
+"panel de saúde. Este contador mostra o tempo que falta para que o personaxe "
+"acorde."
 
 #: kenshi/TutorialsData.cpp:1096
 msgid "You are KO'd (1/2)"
-msgstr ""
+msgstr "Estás KO (1/2)"
 
 #: kenshi/TutorialsData.cpp:1100
 msgid "You've been knocked out..."
-msgstr ""
+msgstr "Sufriches un nocaute..."
 
 #: kenshi/TutorialsData.cpp:1102
 msgid ""
@@ -1683,6 +1811,9 @@ msgid ""
 "another character. If they don't get first aid in time they "
 "will eventually die."
 msgstr ""
+"Se ten feridas graves, o estado de inconsciente mudará para 'morrendo' e o "
+"personaxe non se erguerá até que sexa curado por outro personaxe. Se non "
+"recibe primeiros auxilios a tempo acabará por morrer."
 
 #: kenshi/TutorialsData.cpp:1103
 msgid ""
@@ -1691,6 +1822,10 @@ msgid ""
 "enter the character into a recovery coma until their vitals "
 "have improved above 0."
 msgstr ""
+"Incluso despois da cura, un personaxe precisará tempo para recuperarse antes "
+"de recuperar a consciencia. Feridas particularmente graves deixarán o "
+"personaxe nun coma de recuperación até que as partes vitais melloren por "
+"riba de 0."
 
 #: kenshi/TutorialsData.cpp:1104
 msgid ""
@@ -1699,6 +1834,9 @@ msgid ""
 "be improved each time you are KO'd. This will increase your KO "
 "recovery threshold over time."
 msgstr ""
+"Ser nocauteado pode parecer un fracaso, mais lembra que aprendemos máis dos "
+"nosos fracasos. A túa dureza e atributos de defensa mellorarán cada vez que "
+"sufras un KO. Isto mellorará o límite de recuperación de KO co tempo."
 
 #: kenshi/TutorialsData.cpp:1130
 msgid ""
@@ -1706,10 +1844,12 @@ msgid ""
 "automatically cary them to a bed if there are any availiable in "
 "the vicinity."
 msgstr ""
+"O traballo de rescate atopará aliados inconscientes próximos e os levará "
+"automaticamente para unha cama se hai algunha dispoñíbel nos arredores."
 
 #: kenshi/TutorialsData.cpp:1142
 msgid "You are KO'd (2/2)"
-msgstr ""
+msgstr "Estás KO (2/2)"
 
 #: kenshi/TutorialsData.cpp:1146
 msgid ""
@@ -1717,12 +1857,17 @@ msgid ""
 "safety. Hold right click on the KO'd character and select Pick "
 "Up from the interaction menu."
 msgstr ""
+"Podes facer que os personaxes conscientes carguen cos inconscientes a un "
+"lugar seguro. Fai clic dereito e mantén no personaxe inconsciente e "
+"selecciona Recoller no menú de interacción."
 
 #: kenshi/TutorialsData.cpp:1147
 msgid ""
 "To help a KO'd character recover their wounds more quickly, you "
 "can carry them to a bed."
 msgstr ""
+"Podes levar un personaxe nocauteado para unha cama para axudalo a "
+"recuperarse das súas feridas máis rápido."
 
 #: kenshi/TutorialsData.cpp:1188
 msgid ""
@@ -1732,6 +1877,11 @@ msgid ""
 "cage to bring up the interaction menu. Select lockpick.\n"
 "The character must be concious."
 msgstr ""
+"Para escapar dunha cela de prisión precisarás usar as túas habilidades de "
+"fozar en fechaduras.\n"
+"Selecciona o teu personaxe aprisionado e mantén clid dereito na gaiola para "
+"abrir o menú de interacción. Selecciona fozar na fechadura.\n"
+"O personaxe precisa estar consciente."
 
 #: kenshi/TutorialsData.cpp:1261
 msgid ""
@@ -1739,10 +1889,13 @@ msgid ""
 "The speed it takes to pick a lock is dependent on each "
 "individual's thievery skill level."
 msgstr ""
+"Agora agarda polo éxito.\n"
+"A velocidade que lle leve abrir a fechadura dependerá do nivel da habilidade "
+"de roubo de cada un."
 
 #: kenshi/TutorialsData.cpp:1290
 msgid "How to escape a prison"
-msgstr ""
+msgstr "Como fuxir da prisión"
 
 #: kenshi/TutorialsData.cpp:1294
 msgid ""
@@ -1750,6 +1903,9 @@ msgid ""
 "You can either wait out your sentence, have another squad "
 "member bail you out, or you can try to escape..."
 msgstr ""
+"Cometiches un crime e fuches aprisionado.\n"
+"podes agardar até a fin da pena, que outro membro do grupo pague a fianza, "
+"ou intentar escapar..."
 
 #: kenshi/TutorialsData.cpp:1297
 msgid ""
@@ -1757,16 +1913,20 @@ msgid ""
 "escape. You may want to wait until any nearby captors are "
 "distracted."
 msgstr ""
+"Unha vez teñas éxito, mantén o clic dereito na gaiola e selecciona escapar. "
+"Igual deberías agardar até que os teus captores estean distraídos."
 
 #: kenshi/TutorialsData.cpp:1325
 msgid "How to escape a prison (cannibal)"
-msgstr ""
+msgstr "Como fuxir da prisión (caníbal)"
 
 #: kenshi/TutorialsData.cpp:1328
 msgid ""
 "You've been captured!\n"
 "Make an escape before you get turned into a cannibal banquet!"
 msgstr ""
+"Fuches capturado!\n"
+"Busca unha forma de fuxir antes de convertirte no banquete dun caníbal!"
 
 #: kenshi/TutorialsData.cpp:1331
 msgid ""
@@ -1777,10 +1937,16 @@ msgid ""
 " Hint: Sometimes it's a good idea to use a character as a decoy "
 "while the other's escape. Harsh but necessary..."
 msgstr ""
+"Unha vez teñas éxito, mantén clic dereito de novo na gaiola e selecciona "
+"escapar.\n"
+"Igual deberías agardar até que os captores próximos estean distraídos.\n"
+"\n"
+"Consello: ás veces é unha boa idea usar un personaxe como engado mentres o "
+"outro escapa. Duro, mais necesario..."
 
 #: kenshi/TutorialsData.cpp:1351
 msgid "Sneaking"
-msgstr ""
+msgstr "Esgueirando"
 
 #: kenshi/TutorialsData.cpp:1355
 msgid ""
@@ -1788,6 +1954,8 @@ msgid ""
 "this mode you can perform stealth knockouts, kidnaps and steal "
 "stuff."
 msgstr ""
+"Ao pulsar o botón de furtividade, entrar en modo de furtividade. Neste modo "
+"podes facer nocautes furtivos, secuestros e roubar cousas."
 
 #: kenshi/TutorialsData.cpp:1356
 msgid ""
@@ -1796,6 +1964,9 @@ msgid ""
 "nearby NPCs. When the eyeball is blue, it means that you are "
 "currently out of anyone's line of sight."
 msgstr ""
+"O cursor de furtividade indica dúas iconas: un ollo e un sol. Cando o ollo "
+"fica vermello, significa que estás á vista de NPCs próximos. Cando fica "
+"azul, significa que non estás á vista de ninguén."
 
 #: kenshi/TutorialsData.cpp:1357
 msgid ""
@@ -1803,6 +1974,9 @@ msgid ""
 "are at your least visible. Hint: Nightfall is prime time for "
 "sneaking!"
 msgstr ""
+"O icono do sol mostra o nivel de luminosidade. Cando o sol está sombreado, "
+"estás menos visíbel. Consello: o caír da noite é o mellor momento para "
+"esgueirar!"
 
 #: kenshi/TutorialsData.cpp:1358
 msgid ""
@@ -1810,16 +1984,21 @@ msgid ""
 "sneaking. The percentage shows the chance of success. The "
 "higher your Assassination skill, the higher the chance."
 msgstr ""
+"Para facer un nocaute furtivo, fai clic dereito nun NPC cando andas "
+"esgueirando. A porcentaxe mostra a probabilidade de éxito. Canto maior sexa "
+"a túa habilidade de Asasinato, maior será a probabilidade."
 
 #: kenshi/TutorialsData.cpp:1359
 msgid ""
 "To kidnap an KO'd NPC, hold right click on them, and select "
 "Kidnap from the command menu."
 msgstr ""
+"Para secuestrar un NPC que estea KO, mantén clic dereito nel e selecciona "
+"Secuestrar no menú de comando."
 
 #: kenshi/TutorialsData.cpp:1384
 msgid "How to steal"
-msgstr ""
+msgstr "Como roubar"
 
 #: kenshi/TutorialsData.cpp:1388
 msgid ""
@@ -1828,6 +2007,9 @@ msgid ""
 "As a rule, if the cursor shows red, then that action is hostile "
 "or illegal."
 msgstr ""
+"Ten coidado, tentar abrir obxectos fechados e portas é ilegal e pode meterte "
+"en problemas... Ben, só se te cachan facéndoo, claro. Como regra xeral, se o "
+"cursor está vermello, a acción é hostil ou ilegal."
 
 #: kenshi/TutorialsData.cpp:1389
 msgid ""
@@ -1835,6 +2017,9 @@ msgid ""
 "caught while committing crimes. You can find the Sneak button "
 "at the bottom right of the UI."
 msgstr ""
+"Entrar no modo de furtividade axudará a reducir a probabilidade de te cachen "
+"cometendo crimes. Podes atopar o botón de Furtividade no fondo dereito da "
+"interface."
 
 #: kenshi/TutorialsData.cpp:1390
 msgid ""
@@ -1843,12 +2028,17 @@ msgid ""
 "number, the longer it will take to pick. Your lock picking "
 "speed depends on the Thievery skill stat."
 msgstr ""
+"Mantén o botón dereito do rato e selecciona Fozar na fechadura. A porcentaxe "
+"mostra a probabilidade de éxito. Canto máis baixo o número, máis tempo vai "
+"levar. A túa velocidade dependerá do atributo da habilidade de Roubo."
 
 #: kenshi/TutorialsData.cpp:1391
 msgid ""
 "To steal individual items displayed on shelves and tables, hold "
 "ALT and right click on the item."
 msgstr ""
+"Para roubar obxectos individuais expostos en estantes e mesas, mantén "
+"premida a tecla ALT e fai clic dereito no obxecto."
 
 #: kenshi/TutorialsData.cpp:1410
 msgid ""
@@ -1856,10 +2046,13 @@ msgid ""
 "somebody has a bounty in their status panel.\n"
 "Mouse over this panel to check which faction set the bounty.\n"
 msgstr ""
+"A cabeza desta persoa ten unha recompensa. Podes comprobar se alguén ten "
+"unha recompensa no seu panel de estado.\n"
+"Pasa o rato sobre este panel para saber que facción estipulou a recompensa.\n"
 
 #: kenshi/TutorialsData.cpp:1427
 msgid "How to do bounties"
-msgstr ""
+msgstr "Como cazar recompensas"
 
 #: kenshi/TutorialsData.cpp:1432
 msgid ""
@@ -1867,50 +2060,63 @@ msgid ""
 "station. First, knock the person out, then pick them up and "
 "carry them to the nearest town."
 msgstr ""
+"Para capturar recompensas, precisarás levar o foraxido até unha comisaría. "
+"Primeiro déixao KO, despois recólleo do chan e carga con el até a vila máis "
+"próxima."
 
 #: kenshi/TutorialsData.cpp:1433
 msgid ""
 "To pick up a bounty, hold and right click the mouse on them to "
 "bring up the interaction menu."
 msgstr ""
+"Para recoller alguén con recompensa, fai clic dereito e mantén sobre el para "
+"mostrar o menú de interacción."
 
 #: kenshi/TutorialsData.cpp:1434
 msgid ""
 "Once you've found a police station, talk to the station's "
 "police chief for your reward."
-msgstr ""
+msgstr "Unha vez atopes unha comisaría, fala co xefe para levar a recompensa."
 
 #: kenshi/TutorialsData.cpp:1466
 msgid "Your character is hungry..."
-msgstr ""
+msgstr "O teu personaxe ten fame..."
 
 #: kenshi/TutorialsData.cpp:1470
 msgid ""
 "You need food to survive in this world or you'll starve. You "
 "can grow food, buy it, hunt it, or steal it."
 msgstr ""
+"Precisas comida para sobrevivir neste mundo ou morrerás de fame. Podes "
+"cultivar comida, comprala, cazala ou roubala."
 
 #: kenshi/TutorialsData.cpp:1471
 msgid ""
 "Your squad will automatically eat whatever food is in their "
 "inventory. Make sure all of your squad are stocked up!"
 msgstr ""
+"O teu equipo comerá automaticamente calquera alimento que leven no "
+"inventario. Asegúrate de que estean todos abastecidos!"
 
 #: kenshi/TutorialsData.cpp:1500
 msgid ""
 "If enemies are still nearby, a character may play dead in order "
 "to avoid further fighting and injury."
 msgstr ""
+"Se hai inimigos preto, un personaxe pode facer o morto para evitar loitar e "
+"sufrir máis danos."
 
 #: kenshi/TutorialsData.cpp:1517
 msgid "Playing dead"
-msgstr ""
+msgstr "Facendo o morto"
 
 #: kenshi/TutorialsData.cpp:1522
 msgid ""
 "To get up, right click to move. Just make sure there are no "
 "enemies around!"
 msgstr ""
+"Para erguerse, fai clic dereito para mover. Comproba antes que non hai "
+"inimigos nos arredores!"
 
 #: kenshi/TutorialsData.cpp:1552
 msgid ""
@@ -1919,10 +2125,14 @@ msgid ""
 "other production jobs, since assigned characters will "
 "automatically store and replenish raw materials as they work."
 msgstr ""
+"Podes organizar o teu equipo asignándolles tarefas no Menú de ordes. Isto é "
+"especialmente útil para plantacións, minas e outros traballos produtivos, xa "
+"que os personaxes asignados almacenarán e reporán materias primas "
+"automaticamente mentres traballan."
 
 #: kenshi/TutorialsData.cpp:1572
 msgid "You can remove a job at any time by pressing the X button."
-msgstr ""
+msgstr "Podes quitar unha tarefa en calquera momento premento o botón X."
 
 #: kenshi/TutorialsData.cpp:1589
 msgid "Perma-Jobs"
