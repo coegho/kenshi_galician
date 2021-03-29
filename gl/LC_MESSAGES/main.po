@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-03-20 00:39+0000\n"
+"PO-Revision-Date: 2021-03-30 01:39+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -2136,7 +2136,7 @@ msgstr "Podes quitar unha tarefa en calquera momento premento o botón X."
 
 #: kenshi/TutorialsData.cpp:1589
 msgid "Perma-Jobs"
-msgstr ""
+msgstr "Tarefas permanentes"
 
 #: kenshi/TutorialsData.cpp:1594
 msgid ""
@@ -2144,6 +2144,9 @@ msgid ""
 "right clicking to interact with the object or building you wish "
 "to assign them to."
 msgstr ""
+"Para asignar unha tarefa, selecciona un personaxe. Despois mantén pulsado "
+"Shift mentres fas clic dereito para interactuar co obxecto ou edificio ao "
+"que desexes asignalo."
 
 #: kenshi/TutorialsData.cpp:1595
 msgid ""
@@ -2151,6 +2154,9 @@ msgid ""
 "Orders Menu will always take priority over lower assigned jobs. "
 "You can drag jobs to re-order them."
 msgstr ""
+"Podes asignar varias tarefas aos personaxes. As tarefas que estean máis "
+"arriba no Menú de Ordes sempre terán precedencia sobre as que están debaixo. "
+"Podes arrastrar tarefas para reordenalas."
 
 #: kenshi/TutorialsData.cpp:1633
 msgid ""
@@ -2158,38 +2164,49 @@ msgid ""
 "master. If you want to escape, you'll need to dismiss the "
 "Obedient Slave auto job by pressing the X."
 msgstr ""
+"O teu personaxe sempre actuará de forma \"obediente\" co seu amo. Se queres "
+"fuxir, precisarás desactivar a tarefa automática Escravo obediente pulsando "
+"no X."
 
 #: kenshi/TutorialsData.cpp:1650
 msgid "Being a slave"
-msgstr ""
+msgstr "Sendo un escravo"
 
 #: kenshi/TutorialsData.cpp:1654
 msgid ""
 "You've been enslaved. You can either live out the rest of your "
 "life as a slave, or you can break free and escape."
 msgstr ""
+"Escravizáronte. Podes vivir o resto da túa vida na escravitude, ou ceibarte "
+"e fuxir."
 
 #: kenshi/TutorialsData.cpp:1656
 msgid ""
 "You can then hold right click on your character to bring up the "
 "interaction menu and unlock your shackles to escape."
 msgstr ""
+"Fai clic dereito no teu personaxe para abrir o menú de interacción e "
+"desbloquea as túas grilletas para escapar."
 
 #: kenshi/TutorialsData.cpp:1657
 msgid ""
 "Careful, even if you successfully escape, you're now branded a "
 "slave. If anyone recognises you, you'll be recaptured."
 msgstr ""
+"Ollo, mesmo se consegues fuxir, estás marcado como escravo. Se alguén te "
+"recoñece, capturarante de novo."
 
 #: kenshi/TutorialsData.cpp:1687
 msgid ""
 "Your character's status will show as Disguised when you are "
 "hidden in full uniform."
 msgstr ""
+"O estado do teu personaxe aparecerá como Disfrazado cando te escondas con "
+"uniforme completo."
 
 #: kenshi/TutorialsData.cpp:1704
 msgid "Disguises & uniforms"
-msgstr ""
+msgstr "Disfraces e uniformes"
 
 #: kenshi/TutorialsData.cpp:1708
 msgid ""
@@ -2197,12 +2214,16 @@ msgid ""
 "to disguise yourself. Disguise success is dependent on the "
 "Stealth skill stat."
 msgstr ""
+"Se tes o traxe completo, podes usar uniformes de facción para te disfrazar. "
+"O éxito do disfrace dependerá do atributo da habilidade Furtividade."
 
 #: kenshi/TutorialsData.cpp:1710
 msgid ""
 "Careful you don't get caught wearing a faction's uniform, most "
 "people don't take too kindly to imposters."
 msgstr ""
+"Anda con coidado para que non te cachen levando uniforme de facción, á "
+"maioría da xente non lle gustan demasiado os impostores."
 
 #: kenshi/TutorialsData.cpp:1767
 msgid ""
@@ -2211,18 +2232,21 @@ msgid ""
 "produced them. You won't be able to produce anything else until "
 "you've shifted these materials."
 msgstr ""
+"A túa máquina está chea. As máquinas e edificios teñen unha cantidade máxima "
+"de materiais que poden conter despois de producilos. Non poderás producir "
+"nada máis até que leves fóra eses materiais."
 
 #: kenshi/TutorialsData.cpp:1784
 msgid "Your machine is full"
-msgstr ""
+msgstr "A túa máquina está chea"
 
 #: kenshi/TutorialsData.cpp:1789
 msgid "Build Storage Boxes to hold excess materials."
-msgstr ""
+msgstr "Constrúe caixas de almacenamento para conter o exceso de materiais."
 
 #: kenshi/TutorialsData.cpp:1825
 msgid "Building gates and walls"
-msgstr ""
+msgstr "Construíndo portóns e muros"
 
 #: kenshi/TutorialsData.cpp:1829
 msgid ""
@@ -2230,31 +2254,36 @@ msgid ""
 "facing inside out. The arrows you see show the OUTSIDE facing "
 "direction of the walls."
 msgstr ""
+"Ao construír muros tes que ter coidado de non colocalos mirando cara dentro. "
+"As frechas indican cal é a parte dos muros que debería ficar cara fóra."
 
 #: kenshi/TutorialsData.cpp:1830
 msgid ""
 "You can use the < and > buttons to rotate before placing them."
-msgstr ""
+msgstr "Podes usar os botóns < e > para rotar antes de posicionalos."
 
 #: kenshi/TutorialsData.cpp:1831
 msgid ""
 "As with other buildings, you can only place them when they glow "
 "green."
 msgstr ""
+"Así como as outras construcións, só é posíbel colocalos cando fican verdes."
 
 #: kenshi/TutorialsData.cpp:1832
 msgid ""
 "Once you're happy, left click to set it down. To finish the "
 "link, right click."
 msgstr ""
+"Cando esteas conforme, fai clic esquerdo para colocar. Para finalizar a "
+"ligazón, fai clic dereito."
 
 #: kenshi/TutorialsData.cpp:1851
 msgid "To craft items, open the Tech menu"
-msgstr ""
+msgstr "Para fabricar obxectos, abre o menú de Tecnoloxía"
 
 #: kenshi/TutorialsData.cpp:1878
 msgid "Open the Crafting tab"
-msgstr ""
+msgstr "Abre o menú de Fabricación"
 
 #: kenshi/TutorialsData.cpp:1904
 msgid ""
@@ -2262,22 +2291,29 @@ msgid ""
 "section. The bottom panel shows how much time and materials "
 "you'll need to make that item."
 msgstr ""
+"Isto mostrará os obxectos dispoñíbeis que podes fabricar na sección do "
+"medio. O panel de abaixo mostra canto tempo e materiais precisarás para "
+"fabricar o obxecto."
 
 #: kenshi/TutorialsData.cpp:1921
 msgid "How to craft"
-msgstr ""
+msgstr "Como fabricar"
 
 #: kenshi/TutorialsData.cpp:1927
 msgid ""
 "First, you need to select a station from the section on the "
 "left side of the menu."
 msgstr ""
+"Primeiro, tes que seleccionar unha estación da sección no lado esquerdo do "
+"menú."
 
 #: kenshi/TutorialsData.cpp:1929
 msgid ""
 "Left click to select an item to craft. You can queue multiple "
 "items, or alternatively you can cancel them with the X."
 msgstr ""
+"Clica para seleccionar un obxecto para fabricar. Podes poñer en cola "
+"múltiples obxectos, ou cancelalos co X."
 
 #: kenshi/TutorialsData.cpp:1930
 msgid ""
@@ -2285,20 +2321,25 @@ msgid ""
 "which is crafting these items. You'll also need pleny of raw "
 "materials before you start crafting."
 msgstr ""
+"Agora, asegúrate de que tes traballadores asignados á estación de traballo "
+"na que se fabrican eses obxectos. Tamén precisarás as suficientes materias "
+"primas antes de comezar a fabricar."
 
 #: kenshi/TutorialsData.cpp:1931
 msgid "You can buy blueprints or research new items to craft."
-msgstr ""
+msgstr "Podes mercar planos ou pesquisar novos obxectos para fabricar."
 
 #: kenshi/TutorialsData.cpp:1961
 msgid ""
 "To craft items, you need to build a workbench from the Crafting "
 "section of the build menu."
 msgstr ""
+"Para fabricar obxectos precisarás construír un banco de traballo na sección "
+"de Fabricación do menú de construcción."
 
 #: kenshi/TutorialsData.cpp:1978
 msgid "How to craft (No bench)"
-msgstr ""
+msgstr "Como fabricar (sen banco)"
 
 #: kenshi/TutorialsData.cpp:1983
 msgid ""
@@ -2306,28 +2347,35 @@ msgid ""
 "the necessary buildings, equipment and schematics needed for "
 "crafting."
 msgstr ""
+"Primeiro o máis importante, precisarás pesquisar todos os edificios, "
+"equipamentos e esquemas necesarios para a fabricación."
 
 #: kenshi/TutorialsData.cpp:1984
 msgid "Build a Research Bench to learn new tech and crafts."
 msgstr ""
+"Constrúe un Banco de Pesquisa para aprender novas tecnoloxías e técnicas."
 
 #: kenshi/TutorialsData.cpp:2015
 msgid "Left click to select your new building and view its info."
 msgstr ""
+"Clica co botón esquerdo para seleccionar a túa nova construción e ver a súa "
+"información."
 
 #: kenshi/TutorialsData.cpp:2030
 msgid "This shows the current state of the building."
-msgstr ""
+msgstr "Mostra o actual estado da construción."
 
 #: kenshi/TutorialsData.cpp:2050
 msgid "Some buildings will need a power supply."
-msgstr ""
+msgstr "Algunhas construcións requiren suministro de enerxía."
 
 #: kenshi/TutorialsData.cpp:2079
 msgid ""
 "To save power for other buildings, you can use the Power switch "
 "to turn off specific buildings."
 msgstr ""
+"Para aforrar enerxía para outras construcións, podes usar o interruptor de "
+"Enerxía para desactivar construcións específicas."
 
 #: kenshi/TutorialsData.cpp:2108
 msgid ""
