@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-03-30 01:39+0000\n"
+"PO-Revision-Date: 2021-04-01 22:49+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -2383,6 +2383,9 @@ msgid ""
 "bar shows how many workers are currently operating the machine "
 "and the maximum possible amount of them."
 msgstr ""
+"Algunhas máquinas e construcións precisan de traballadores para operalas. "
+"Esta barra mostra a cantidade de traballadores operando a máquina no momento "
+"e a cantidade máxima posíbel."
 
 #: kenshi/TutorialsData.cpp:2137
 msgid ""
@@ -2390,18 +2393,20 @@ msgid ""
 "to run. This panel shows exactly what items are needed to add "
 "to it."
 msgstr ""
+"Moitas máquinas e construcións precisan de determinadas materias primas para "
+"funcionar. Este panel mostra exactamente que obxectos deben ser engadidos."
 
 #: kenshi/TutorialsData.cpp:2163
 msgid "You've built your first production building"
-msgstr ""
+msgstr "Construíches a túa primeira construción de produción"
 
 #: kenshi/TutorialsData.cpp:2167
 msgid "Production buildings rely on a number of factors."
-msgstr ""
+msgstr "As construcións de produción dependen de diversos factores."
 
 #: kenshi/TutorialsData.cpp:2173
 msgid "The more workers, the faster the output."
-msgstr ""
+msgstr "Cantos máis traballadores, máis rápida a produción."
 
 #: kenshi/TutorialsData.cpp:2211
 msgid ""
@@ -2411,10 +2416,13 @@ msgid ""
 "But, before you can build a Research Bench, you need a building "
 "to house it."
 msgstr ""
+"Para pesquisar novas tecnoloxías como construcións, armas defensivas ou "
+"fabricación, precisas construír un Banco de Pesquisa no menú Construción.\n"
+"Mais antes de construír a bancada, precisarás un edificio onde metela."
 
 #: kenshi/TutorialsData.cpp:2228
 msgid "How to research tech (Benches)"
-msgstr ""
+msgstr "Como pesquisar tecnoloxías (bancos)"
 
 #: kenshi/TutorialsData.cpp:2233
 msgid ""
@@ -2422,38 +2430,49 @@ msgid ""
 "house outside of an NPC town.\n"
 "Left click on a building to check if it is for sale."
 msgstr ""
+"Podes mercar unha casa na vila ou construír a túa propia casa fóra dunha "
+"vila NPC.\n"
+"Clica nun edificio para comprobar se está á venda."
 
 #: kenshi/TutorialsData.cpp:2263
 msgid ""
 "Some buildings are availiable for purchase. This panel will "
 "tell you how much the building costs, with a button to buy it."
 msgstr ""
+"Algunhas construcións están dispoñíbeis para a compra. Este panel dirache "
+"cando custa a construción, cun botón para mercala."
 
 #: kenshi/TutorialsData.cpp:2275
 msgid "Buildings for sale"
-msgstr ""
+msgstr "Edificios á venda"
 
 #: kenshi/TutorialsData.cpp:2279
 msgid ""
 "You can also often buy destroyed buildings for a cheaper rate. "
 "You must then repair the building before it can be used."
 msgstr ""
+"Ás veces podes mercar construcións destruídas por un prezo menor. Despois "
+"terás que reparalas antes de poder usalas."
 
 #: kenshi/TutorialsData.cpp:2299
 msgid ""
 "Next, you'll need to select tech to research. Select TEC from "
 "the panel."
 msgstr ""
+"Despois, precisarás seleccionar unha tecnoloxía para pesquisar. Selecciona "
+"TEC no panel."
 
 #: kenshi/TutorialsData.cpp:2316
 msgid "How to research tech (Researching)"
-msgstr ""
+msgstr "Como pesquisar tecnoloxías (pesquisa)"
 
 #: kenshi/TutorialsData.cpp:2320
 msgid ""
 "To learn new tech you can buy blueprints from merchants. Or, "
 "you can research new tech yourself."
 msgstr ""
+"Para aprender novas tecnoloxías podes mercar planos dos comerciantes. Tamén "
+"podes pesquisar nova tecnoloxía pola túa conta."
 
 #: kenshi/TutorialsData.cpp:2321
 msgid ""
@@ -2462,26 +2481,35 @@ msgid ""
 "your Research Bench and select Use Machine. Research speed will "
 "depend on your assigned scientist's Science skill stat."
 msgstr ""
+"Para pesquisar deberás ter un científico asignado ao teu Banco de Pesquisa. "
+"Selecciona un membro do equipo, mantén pulsado o clic dereito no Banco de "
+"Pesquisa e selecciona Usar máquina. A velocidade de pesquisa dependerá do "
+"atributo da habilidade de CIencia do teu científico."
 
 #: kenshi/TutorialsData.cpp:2323
 msgid ""
 "Select any tech you want to research by left clicking it. You "
 "can queue up as many as you want."
 msgstr ""
+"Selecciona calquera tecnoloxía que queiras pesquisar clicando sobre ela. "
+"Podes poñer en cola todas as que queiras."
 
 #: kenshi/TutorialsData.cpp:2350
 msgid "How to research tech (Blueprints)"
-msgstr ""
+msgstr "Como pesquisar tecnoloxías (planos)"
 
 #: kenshi/TutorialsData.cpp:2354
 msgid "You found a blueprint"
-msgstr ""
+msgstr "Atopaches un plano"
 
 #: kenshi/TutorialsData.cpp:2355
 msgid ""
 "Blueprints allow you to learn Tech instantly. To learn a "
 "blueprint, open your inventory and right click it to learn it."
 msgstr ""
+"Os planos permítenche aprender unha tecnoloxía instantaneamente. Para "
+"estudar un plano, abre o inventario e fai clic dereito sobre el para "
+"estudalo."
 
 #: kenshi/TutorialsData.cpp:2356
 msgid ""
@@ -2489,6 +2517,8 @@ msgid ""
 "that the blueprint doesn't switch between your inventory when "
 "you try to use it."
 msgstr ""
+"Se levas unha mochila, péchaa antes para que o plano non mude de inventario "
+"cando intentes usalo."
 
 #: kenshi/TutorialsData.cpp:2402
 msgid ""
@@ -2497,10 +2527,14 @@ msgid ""
 "Hint: Building a small shack will allow you to build a Research "
 "Bench inside, with this you can learn and unlock new tech."
 msgstr ""
+"Primeiro, selecciona a construción que desexes montar no panel.\n"
+"\n"
+"Consello: Construír unha barraca pequena permitirache construír un Banco de "
+"Traballo dentro. Con isto poderás aprender e desbloquear novas tecnoloxías."
 
 #: kenshi/TutorialsData.cpp:2432
 msgid "Welcome to Build mode"
-msgstr ""
+msgstr "Benvido ao modo de Construción"
 
 #: kenshi/TutorialsData.cpp:2434
 msgid ""
@@ -2509,6 +2543,10 @@ msgid ""
 "place it. If blue, you're too close to another town. If green, "
 "you're good to go!"
 msgstr ""
+"Despois, escolle onde colocar a construción. Se a construción fica vermella, "
+"significa que hai unha obstrución e non poderá ser posicionada. Se fica "
+"azul, significa que estás demasiado preto de outra vila. Se fica verde, todo "
+"está correcto!"
 
 #: kenshi/TutorialsData.cpp:2435
 msgid ""
@@ -2516,44 +2554,56 @@ msgid ""
 "Once you're happy, left click to place the building and hit the "
 "Confirm button. "
 msgstr ""
+"Para rotar a posición da construción usa as teclas < e >. Unha vez esteas "
+"conforme, clica co esquerdo para posicionar a construción e preme o botón "
+"Confirmar. "
 
 #: kenshi/TutorialsData.cpp:2436
 msgid ""
 "Select squad members and right click the construction to begin "
 "adding materialsif they have them."
 msgstr ""
+"Selecciona membros do equipo e fai clic dereito n aconstrución para comezar "
+"a engadir os materiais se os teñen."
 
 #: kenshi/TutorialsData.cpp:2437
 msgid ""
 "Construction will be much quicker depending on the number of "
 "people who are assigned, and their Engineer skill stats."
 msgstr ""
+"A construción será moito máis rápida dependendo do número de xente asignada "
+"e a súa habilidade de Enxeñaría."
 
 #: kenshi/TutorialsData.cpp:2456
 msgid ""
 "This shows how many building materials are needed to complete "
 "the construction."
 msgstr ""
+"Mostra cantos materiais de construcións son necesarios para concluír o "
+"edificio."
 
 #: kenshi/TutorialsData.cpp:2504
 msgid ""
 "Once the Condition bar is filled, the construction is complete "
 "and ready to use."
 msgstr ""
+"Cando a barra de Condición estea chea, a construción estará concluída e "
+"lista para usar."
 
 #: kenshi/TutorialsData.cpp:2551
 msgid "Building (Construction)"
-msgstr ""
+msgstr "Construír (Construción)"
 
 #: kenshi/TutorialsData.cpp:2555
 msgid "Select your construction to check it's status."
-msgstr ""
+msgstr "Selecciona a túa construción para verificar o seu estado."
 
 #: kenshi/TutorialsData.cpp:2584
 msgid ""
 "The prospecting window tells you information about the "
 "resources in the current area."
 msgstr ""
+"A xanela de prospección mostra información sobre os recursos na área actual."
 
 #: kenshi/TutorialsData.cpp:2585
 msgid ""
@@ -2566,10 +2616,18 @@ msgid ""
 "Characters with a higher science skill will be able to detect "
 "resources from farther away."
 msgstr ""
+"A sección superior é información sobre a localización na que se atopa o "
+"personaxe.\n"
+"\n"
+"A sección inferior é un mapa dos recursos nas proximidades.\n"
+"Podes seleccionar o tipo de recurso que se mostra no mapa.\n"
+"\n"
+"Personaxes cunha habilidade de ciencia máis alta poderán detectar recursos "
+"máis distantes."
 
 #: kenshi/TutorialsData.cpp:2598
 msgid "Missing a limb"
-msgstr ""
+msgstr "Faltando un membro"
 
 #: kenshi/TutorialsData.cpp:2599
 msgid ""
@@ -2580,6 +2638,11 @@ msgid ""
 "\n"
 "You can buy various robotic limbs from robotics vendors."
 msgstr ""
+"Parece que che falta un membro.\n"
+"\n"
+"É útil ter membros, polo que igual che interesa reemprazalo.\n"
+"\n"
+"Podes mercar varios membros robóticos dos vendedores de robótica."
 
 #: kenshi/TutorialsData.cpp:2600
 msgid ""
@@ -2591,28 +2654,35 @@ msgid ""
 "damage but it can be restored to its full health in a skeleton "
 "repair bed."
 msgstr ""
+"Instala novos membros usando a xanela de robótica dispoñíbel no inventario "
+"do personaxe.\n"
+"\n"
+"Os membros robóticos precisan kits de reparación de esquelete para ser "
+"arranxalos.\n"
+"A saúde máxima do membro vai ir diminuíndo a medida que reciba dano, mais "
+"pode recuperarse ao nivel máximo nunha cama de reparación de esquelete."
 
 #: kenshi/appearance.cpp:2305
 msgid "Error: Character model for race '{1}' not found"
-msgstr ""
+msgstr "Erro: Non se atopou modelo de personaxe para a raza '{1}'"
 
 #: kenshi/appearanceManager.cpp:624
 #: kenshi/appearanceManager.cpp:631
 #: kenshi/appearanceManager.cpp:636
 msgid "Editor problem"
-msgstr ""
+msgstr "Problema co editor"
 
 #: kenshi/appearanceManager.cpp:624
 msgid "Editor values missing for the race '{1}'"
-msgstr ""
+msgstr "Valores de editor ausentes para a raza '{1}'"
 
 #: kenshi/appearanceManager.cpp:631
 msgid "Editor values missing for the race '{1}' for both genders."
-msgstr ""
+msgstr "Valores do editor ausentes para a raza '{1}' de ambos xéneros."
 
 #: kenshi/appearanceManager.cpp:636
 msgid "Editor values missing for the race '{1}' for gender: {2}."
-msgstr ""
+msgstr "Valores de editor ausentes para a raza '{1}' do xénero: {2}."
 
 #: kenshi/basebuilding.cpp:3212 kenshi/basebuilding.cpp:3239
 msgid ""
@@ -2620,165 +2690,173 @@ msgid ""
 "its inventory.\n"
 "Precious research artifacts and stuff, don't lose them."
 msgstr ""
+"Non podes borrar esta construción mentres teña obxectos no seu inventario.\n"
+"Evita perder artefactos de pesquisa valiosos e cousas así."
 
 #: kenshi/basebuilding.cpp:3216 kenshi/basebuilding.cpp:3243
 msgid ""
 "There are still items in the inventory, they will be lost.\n"
 "Are you sure you want to destroy this building?"
 msgstr ""
+"Aínda hai obxectos no inventario, vanse perder.\n"
+"Estás seguro de querer destruír o edificio?"
 
 #: kenshi/basebuilding.cpp:3224
 msgid ""
 "You cannot delete this building while it has mounted buildings."
 msgstr ""
+"Non podes borrar esta construción mentres teña construcións montadas sobre "
+"ela."
 
 #: kenshi/basebuilding.cpp:3250 kenshi/basebuilding.cpp:3257
 #: kenshi/getGUIData.cpp:349 kenshi/mess.cpp:3114
 msgid "Dismantle"
-msgstr ""
+msgstr "Desmantelar"
 
 #: kenshi/basebuilding.cpp:3250
 msgid ""
 "Dismantling this building will destroy all furniture.\n"
 "Do you want to continue?"
 msgstr ""
+"Se desmantelas este edificio destruirás todo o mobiliario.\n"
+"Queres continuar?"
 
 #: kenshi/basebuilding.cpp:3257
 msgid "Are you sure?"
-msgstr ""
+msgstr "Estás seguro?"
 
 #: kenshi/basebuilding.cpp:4150
 msgid "Building '{1}' construction complete at '{2}'."
-msgstr ""
+msgstr "Construción de '{1}' rematada en '{2}'."
 
 #: kenshi/basebuilding.cpp:4154
 msgid "Building '{1}' construction complete."
-msgstr ""
+msgstr "Construción de '{1}' rematada."
 
 #: kenshi/basebuilding.cpp:4233
 msgid "Building construction complete"
-msgstr ""
+msgstr "Construción rematada"
 
 #: kenshi/blackboardPackages.cpp:599
 #: kenshi/blackboardPackages.cpp:601
 msgid "Contract with "
-msgstr ""
+msgstr "Contrato con "
 
 #: kenshi/blackboardPackages.cpp:599
 msgid "has been terminated."
-msgstr ""
+msgstr "foi concluído."
 
 #: kenshi/blackboardPackages.cpp:601
 msgid "has ended."
-msgstr ""
+msgstr "rematou."
 
 #: kenshi/blackboardPackages.cpp:611
 msgid "Bodyguard Contract"
-msgstr ""
+msgstr "Contrato de escolta"
 
 #: kenshi/blackboardPackages.cpp:616
 #: kenshi/blackboardPackages.cpp:640
 msgid "-Protecting:"
-msgstr ""
+msgstr "-Protexendo:"
 
 #: kenshi/blackboardPackages.cpp:618
 #: kenshi/blackboardPackages.cpp:642
 msgid "-Expires in:"
-msgstr ""
+msgstr "-Expira en:"
 
 #: kenshi/blackboardPackages.cpp:635
 msgid "Base Defence Contract"
-msgstr ""
+msgstr "Contrato de defensa de base"
 
 #. TRANSLATORS: {1} is a faction name, {2} is a town name
 #: kenshi/blackboardPackages.cpp:1750
 msgid "{1} squad has been removed from {2}"
-msgstr ""
+msgstr "Equipo {1} foi retirado de {2}"
 
 #: kenshi/character/AI.cpp:3780
 msgid "{1} has been enslaved"
-msgstr ""
+msgstr "{1} caeu na escravitude"
 
 #: kenshi/character/GOAP.cpp:490
 msgid "I don't have any materials"
-msgstr ""
+msgstr "Non teño materiais"
 
 #: kenshi/character/GOAP.cpp:493 kenshi/character/GOAP.cpp:496
 msgid "I need a medkit."
-msgstr ""
+msgstr "Preciso un kit médico."
 
 #: kenshi/character/GOAP.cpp:494
 msgid "My legs are messed up."
-msgstr ""
+msgstr "As miñas pernas están eivadas."
 
 #: kenshi/character/GOAP.cpp:495 kenshi/character/GOAP.cpp:497
 msgid "I need a repair kit."
-msgstr ""
+msgstr "Preciso un kit de reparación."
 
 #: kenshi/character/GOAP.cpp:498
 msgid "I don't have any tools"
-msgstr ""
+msgstr "Non teño ferramentas"
 
 #: kenshi/character/GOAP.cpp:504
 msgid "My arms are messed up..."
-msgstr ""
+msgstr "Os meus brazos están eivados..."
 
 #: kenshi/character/GOAP.cpp:505 kenshi/character/GOAP.cpp:506
 msgid "I'm not skilled enough..."
-msgstr ""
+msgstr "Non teño habilidade dabondo..."
 
 #: kenshi/character/GOAP.cpp:507
 msgid "My arm is messed up too badly."
-msgstr ""
+msgstr "O meu brazo está demasiado escarallado."
 
 #: kenshi/character/GOAP.cpp:549 kenshi/character/GOAP.cpp:551
 #: kenshi/character/GOAP.cpp:572 kenshi/character/GOAP.cpp:573
 msgid "It's locked."
-msgstr ""
+msgstr "Está fechado."
 
 #: kenshi/character/GOAP.cpp:553
 msgid "I can't get out of here."
-msgstr ""
+msgstr "Non consigo saír de aquí."
 
 #: kenshi/character/GOAP.cpp:554 kenshi/character/GOAP.cpp:555
 msgid "I can't get there."
-msgstr ""
+msgstr "Non podo chegar aí."
 
 #: kenshi/character/GOAP.cpp:558
 msgid "It's empty."
-msgstr ""
+msgstr "Está baleiro."
 
 #: kenshi/character/GOAP.cpp:559
 msgid "The machine is full."
-msgstr ""
+msgstr "A máquina está chea."
 
 #: kenshi/character/GOAP.cpp:566
 msgid "It's out of resources."
-msgstr ""
+msgstr "Non ten recursos."
 
 #: kenshi/character/GOAP.cpp:569
 msgid "I don't have space to pick that up!"
-msgstr ""
+msgstr "Non teño espazo para coller iso!"
 
 #: kenshi/character/GOAP.cpp:587
 msgid "My arm is messed up too badly to lift anything."
-msgstr ""
+msgstr "O meu brazo está demasiado escarallado como para erguer nada."
 
 #: kenshi/character/GOAP.cpp:590
 msgid "It needs electricity."
-msgstr ""
+msgstr "Precisa electricidade."
 
 #: kenshi/character/GOAP.cpp:625
 msgid "He's in the water."
-msgstr ""
+msgstr "Está na auga."
 
 #: kenshi/character/GOAP.cpp:626
 msgid "I'm busy swimming."
-msgstr ""
+msgstr "Estou nadando agora."
 
 #: kenshi/character/character.cpp:1103
 msgid "Ate {1}"
-msgstr ""
+msgstr "Comeu {1}"
 
 #: kenshi/character/character.cpp:2224
 #: kenshi/character/character.cpp:2276
@@ -2792,24 +2870,24 @@ msgstr ""
 #: kenshi/savemanager.cpp:616 kenshi/titlescreen.cpp:500
 #: kenshi/unfinishedFunctions.cpp:2780
 msgid "c.{1,num}"
-msgstr ""
+msgstr "c.{1,num}"
 
 #: kenshi/character/character.cpp:2267
 msgid "-Wanted For:"
-msgstr ""
+msgstr "-Procúrase por:"
 
 #: kenshi/character/character.cpp:2276
 #: kenshi/character/character.cpp:2280
 msgid "Bounty:"
-msgstr ""
+msgstr "Recompensa:"
 
 #: kenshi/character/character.cpp:2294
 msgid "Waiting to be released"
-msgstr ""
+msgstr "Agardando a ser liberado"
 
 #: kenshi/character/character.cpp:2296
 msgid "Imprisoned, sentence time remaining:"
-msgstr ""
+msgstr "Aprisionado, tempo restante da sentenza:"
 
 #: kenshi/character/character.cpp:2296
 #: kenshi/character/character.cpp:2677 kenshi/crafting.cpp:174
@@ -2819,82 +2897,84 @@ msgstr ""
 #: kenshi/research.cpp:83
 msgid "{1,num} hr"
 msgid_plural "{1,num} hrs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{1,num} h"
+msgstr[1] "{1,num} h"
 
 #: kenshi/character/character.cpp:2299
 msgid "Imprisoned, sentence time:"
-msgstr ""
+msgstr "Aprisionado, tempo de sentenza:"
 
 #: kenshi/character/character.cpp:2299
 msgid "FOREVER"
-msgstr ""
+msgstr "PARA SEMPRE"
 
 #: kenshi/character/character.cpp:2309
 msgid ""
 "This character is wanted by the authorities. Turn them in for a "
 "reward."
 msgstr ""
+"Este personaxe está en procura polas autoridades. Captúrao e entrégao para "
+"conseguir unha recompensa."
 
 #: kenshi/character/character.cpp:2321
 msgid "Notorious: The bounty will never expire."
-msgstr ""
+msgstr "Notorio: a recompensa nunca expira."
 
 #: kenshi/character/character.cpp:2328
 msgid "The bounty will expire in {1,num} hr"
 msgid_plural "The bounty will expire in {1,num} hrs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "A recompensa expira en {1,num} h"
+msgstr[1] "A recompensa expira en {1,num} h"
 
 #: kenshi/character/character.cpp:2334
 msgid "This character is not wanted by the local faction"
-msgstr ""
+msgstr "A facción local non procura a este personaxe"
 
 #: kenshi/character/character.cpp:2359
 msgid "Total Weight:"
-msgstr ""
+msgstr "Peso total:"
 
 #: kenshi/character/character.cpp:2366
 #: kenshi/character/character.cpp:2801
 msgid "Overloaded"
-msgstr ""
+msgstr "Sobrecargado"
 
 #: kenshi/character/character.cpp:2370
 #: kenshi/character/character.cpp:2806
 msgid "Heavy"
-msgstr ""
+msgstr "Pesado"
 
 #: kenshi/character/character.cpp:2374
 #: kenshi/character/character.cpp:2811
 msgid "Moderate"
-msgstr ""
+msgstr "Moderado"
 
 #: kenshi/character/character.cpp:2378
 #: kenshi/character/character.cpp:2815
 msgid "Lightweight"
-msgstr ""
+msgstr "Lixeiro"
 
 #: kenshi/character/character.cpp:2382
 #: kenshi/character/character.cpp:2819
 msgid "Weightless"
-msgstr ""
+msgstr "Sen peso"
 
 #: kenshi/character/character.cpp:2392 kenshi/getGUIData.cpp:502
 #: kenshi/gui/mainbar.cpp:2165 kenshi/inventoryManager.cpp:1240
 msgid "Money:"
-msgstr ""
+msgstr "Cartos:"
 
 #: kenshi/character/character.cpp:2399
 msgid "Merchant Info:"
-msgstr ""
+msgstr "Información do mercader:"
 
 #: kenshi/character/character.cpp:2409
 msgid "Prices:"
-msgstr ""
+msgstr "Prezos:"
 
 #: kenshi/character/character.cpp:2414
 msgid "Buys Stolen Goods"
-msgstr ""
+msgstr "Compra de mercadorías roubadas"
 
 #: kenshi/character/character.cpp:2425
 msgid "Clothing disguise:"
