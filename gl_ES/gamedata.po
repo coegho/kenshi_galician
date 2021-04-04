@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: 2021-03-18 20:39+0000\n"
+"PO-Revision-Date: 2021-04-05 20:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
@@ -21668,7 +21668,7 @@ msgstr ""
 #. Name: Son of a Captain
 #: 1985-gamedata.base:11 47924-rebirth.mod:11
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. Type: NEW_GAME_STARTOFF
 #. Name: The Cannibal Hunters
