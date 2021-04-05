@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-01 22:49+0000\n"
+"PO-Revision-Date: 2021-04-05 20:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -2978,33 +2978,33 @@ msgstr "Compra de mercadorías roubadas"
 
 #: kenshi/character/character.cpp:2425
 msgid "Clothing disguise:"
-msgstr ""
+msgstr "Disfrace de roupas:"
 
 #: kenshi/character/character.cpp:2430
 msgid "In secure location:"
-msgstr ""
+msgstr "En lugar seguro:"
 
 #: kenshi/character/character.cpp:2435
 msgid "Same faction:"
-msgstr ""
+msgstr "Mesma facción:"
 
 #: kenshi/character/character.cpp:2440
 msgid "Slave owner recognition:"
-msgstr ""
+msgstr "Identificación do dono do escravo:"
 
 #: kenshi/character/character.cpp:2445
 msgid "Someone knows me personally:"
-msgstr ""
+msgstr "Alguén me coñece persoalmente:"
 
 #: kenshi/character/character.cpp:2451
 msgid "Disguise blown:"
-msgstr ""
+msgstr "Disfrace exposto:"
 
 #: kenshi/character/character.cpp:2451
 msgid "{1,num} sec"
 msgid_plural "{1,num} secs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{1,num} s"
+msgstr[1] "{1,num} s"
 
 #: kenshi/character/character.cpp:2454
 #: kenshi/character/character.cpp:2536
@@ -3013,49 +3013,49 @@ msgstr[1] ""
 #: kenshi/stats.cpp:2387 kenshi/stats.cpp:2555
 #: kenshi/stats.cpp:2661
 msgid "Total:"
-msgstr ""
+msgstr "Total:"
 
 #: kenshi/character/character.cpp:2458
 msgid "Not currently in disguise."
-msgstr ""
+msgstr "Sen disfrace agora mesmo."
 
 #: kenshi/character/character.cpp:2467
 #: kenshi/character/charactereditor.cpp:255
 #: kenshi/character/charactereditor.cpp:1672
 #: kenshi/gui/mainbar.cpp:2015 kenshi/mess.cpp:1437
 msgid "None"
-msgstr ""
+msgstr "Ningún"
 
 #: kenshi/character/character.cpp:2470
 msgid "Disguise:"
-msgstr ""
+msgstr "Disfrace:"
 
 #: kenshi/character/character.cpp:2479
 msgid "Blown!"
-msgstr ""
+msgstr "Exposto!"
 
 #: kenshi/character/character.cpp:2500
 #: kenshi/character/character.cpp:2545
 msgid "Slave of:"
-msgstr ""
+msgstr "Escravo de:"
 
 #: kenshi/character/character.cpp:2500
 msgid "The faction that owns you."
-msgstr ""
+msgstr "A facción que te posee."
 
 #: kenshi/character/character.cpp:2512
 #: kenshi/character/character.cpp:2517
 #: kenshi/character/character.cpp:2522
 msgid "Clothing:"
-msgstr ""
+msgstr "Roupas:"
 
 #: kenshi/character/character.cpp:2525
 msgid "Minimum (Escaping):"
-msgstr ""
+msgstr "Mínimo (en fuga):"
 
 #: kenshi/character/character.cpp:2532
 msgid "Minimum (Ex-Slave):"
-msgstr ""
+msgstr "Mínimo (ex-escravo):"
 
 #: kenshi/character/character.cpp:2537
 msgid ""
@@ -3064,91 +3064,96 @@ msgid ""
 "Try to avoid hanging around too long near people who may "
 "recognise you."
 msgstr ""
+"Até que punto semellas un escravo fuxido. Baseado na roupa que levas. Levar "
+"farrapos e grilletas é bastante delatador. Procura evitar ficar moito tempo "
+"preto de persoas que poidan recoñecerte."
 
 #: kenshi/character/character.cpp:2539
 #: kenshi/character/character.cpp:2546
 msgid "Looks like slave:"
-msgstr ""
+msgstr "Semella un escravo:"
 
 #: kenshi/character/character.cpp:2545
 msgid "You are a free person."
-msgstr ""
+msgstr "Es unha persoa libre."
 
 #: kenshi/character/character.cpp:2546
 msgid "You are no slave."
-msgstr ""
+msgstr "Non es escravo."
 
 #: kenshi/character/character.cpp:2559
 msgid "War Leader"
-msgstr ""
+msgstr "Líder de guerra"
 
 #: kenshi/character/character.cpp:2559
 msgid "This is the Commander in charge of an entire army."
-msgstr ""
+msgstr "Este é o comandante a cargo dun exército enteiro."
 
 #: kenshi/character/character.cpp:2561
 msgid "Leader"
-msgstr ""
+msgstr "Líder"
 
 #: kenshi/character/character.cpp:2561
 msgid "This is the leader of this group."
-msgstr ""
+msgstr "É líder deste grupo."
 
 #: kenshi/character/character.cpp:2565
 #: kenshi/character/character.cpp:2721
 msgid "Kidnapped"
-msgstr ""
+msgstr "Secuestrado"
 
 #: kenshi/character/character.cpp:2565
 #: kenshi/character/character.cpp:2721
 msgid ""
 "This character has been kidnapped, law enforcers will try to "
 "help"
-msgstr ""
+msgstr "Este personaxe foi secuestrado, os axentes da lei intentarán axudar"
 
 #: kenshi/character/character.cpp:2569
 msgid "Diplomatic Status"
-msgstr ""
+msgstr "Status diplomático"
 
 #: kenshi/character/character.cpp:2569
 msgid ""
 "This is a special person with diplomatic importance. Anyone who "
 "attacks this guy will be in serious trouble with his faction."
 msgstr ""
+"Esta é unha persoa especial con importancia diplomática. Calquera que ataque "
+"a este tipo procurarase serios problemas coa súa facción."
 
 #: kenshi/character/character.cpp:2574
 msgid "someone"
-msgstr ""
+msgstr "alguén"
 
 #: kenshi/character/character.cpp:2593
 msgid "Seen!"
-msgstr ""
+msgstr "Visto!"
 
 #: kenshi/character/character.cpp:2598
 msgid "Undiscovered"
-msgstr ""
+msgstr "Sen descubrir"
 
 #: kenshi/character/character.cpp:2601
 msgid "Situation:"
-msgstr ""
+msgstr "Situación:"
 
 #: kenshi/character/character.cpp:2602
 msgid "Looks like a slave:"
-msgstr ""
+msgstr "Semella un escravo:"
 
 #: kenshi/character/character.cpp:2604
 msgid "Time remaining:"
-msgstr ""
+msgstr "Tempo restante:"
 
 #: kenshi/character/character.cpp:2604
 msgid "{1,num} hour"
 msgid_plural "{1,num} hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{1,num} hora"
+msgstr[1] "{1,num} horas"
 
 #: kenshi/character/character.cpp:2609
 msgid "Escaped slave"
-msgstr ""
+msgstr "Escravo fuxido"
 
 #: kenshi/character/character.cpp:2614
 msgid ""
@@ -3156,16 +3161,21 @@ msgid ""
 "clothing or disguises and find a plastic surgeon to restore "
 "your hair. Don't get spotted."
 msgstr ""
+"Mantén o teu nivel [Semella un escravo] o máis baixo posíbel, vestindo "
+"roupas ou disfraces e atopando un cirurxián que restaure o teu cabelo. Non "
+"deixes que te atopen."
 
 #: kenshi/character/character.cpp:2617
 msgid ""
 "A slave of {1} that has been seen escaping. Needs to lay low "
 "for a day and avoid getting spotted. {2}"
 msgstr ""
+"Viuse un escravo de {1} fuxindo. Precisa manter un perfil baixo por un día "
+"para non ser atopado. {2}"
 
 #: kenshi/character/character.cpp:2622
 msgid "Ex-slave"
-msgstr ""
+msgstr "Ex-escravo"
 
 #: kenshi/character/character.cpp:2628
 msgid ""
@@ -3173,16 +3183,21 @@ msgid ""
 "clothing or disguises and find a plastic surgeon to restore "
 "your hair. You should be safe if you stay out of towns."
 msgstr ""
+"Mantén o teu nivel de [Semella un escravo] o máis baixo posíbel, vestindo "
+"roupas ou disfraces e atopando un cirurxián plástico para restaurar o teu "
+"cabelo. Deberías estar a salvo se te mantés fóra das vilas."
 
 #: kenshi/character/character.cpp:2631
 msgid ""
 "Was once a slave of {1} but has now escaped. The heat has died "
 "down but he still needs to avoid getting found out. {2}"
 msgstr ""
+"Foi escrav/OA/ de {1} mais fuxiu. O rastro está frío mais aínda debe evitar "
+"que o atopen. {2}"
 
 #: kenshi/character/character.cpp:2636
 msgid "Slave"
-msgstr ""
+msgstr "Escravo"
 
 #: kenshi/character/character.cpp:2642
 msgid ""
@@ -3191,22 +3206,29 @@ msgid ""
 "work for his master. You can remove this job, but beware of the "
 "consequences..."
 msgstr ""
+"O teu personaxe terá unha tarefa permanente asignada chamada [Escravo "
+"obediente]. Mentres isto permaneza activo, traballará automaticamente para o "
+"seu amo. Podes eliminar esta tarefa, mais ten coidado coas consecuencias..."
 
 #: kenshi/character/character.cpp:2645
 msgid ""
 "A slave belonging to {1}. Not considered a person with rights, "
 "a slave works for his master until death and nothing more. {2}"
 msgstr ""
+"Escrav/OA/ que pertence a {1}. Privado de dereitos, un escravo traballa para "
+"o seu amo até a morte e nada máis. {2}"
 
 #: kenshi/character/character.cpp:2651
 msgid "Committing Crime!"
-msgstr ""
+msgstr "Cometendo crime!"
 
 #: kenshi/character/character.cpp:2657
 msgid ""
 "This character is currently committing {1}, make sure nobody "
 "witnesses it."
 msgstr ""
+"Este personaxe está actualmente cometendo {1}, asegúrate de que non haxa "
+"testemuñas."
 
 #: kenshi/character/character.cpp:2664
 msgid ""
@@ -3214,16 +3236,20 @@ msgid ""
 "with a bounty on his head if he can't vanish. Current bounty is "
 "c.{2,num}"
 msgstr ""
+"Pescaron a este personaxe cometendo {1}! Pode rematar cunha recompensa na "
+"súa cabeza se non desaparece. A recompensa actual é de c.{2,num}"
 
 #: kenshi/character/character.cpp:2668
 msgid ""
 "This character has been caught committing {1}! He might end up "
 "with a bounty on his head if he can't vanish."
 msgstr ""
+"Pescaron a este personaxe cometendo {1}! Pode rematar cunha recompensa na "
+"súa cabeza se non desaparece."
 
 #: kenshi/character/character.cpp:2674
 msgid "Escaped Prisoner"
-msgstr ""
+msgstr "Prisioneiro fuxido"
 
 #: kenshi/character/character.cpp:2676
 msgid ""
@@ -3231,6 +3257,8 @@ msgid ""
 "guards he is in trouble. Leave town to clear this status. "
 "Expires in {1}"
 msgstr ""
+"Este personaxe fuxiu da prisión. Se o atopan os gardas, estará en apuros. "
+"Deixa a vila para librarte desta condición. Expira en {1}"
 
 #: kenshi/character/character.cpp:2739
 #: kenshi/character/character.cpp:2753
@@ -3244,7 +3272,7 @@ msgstr ""
 #: kenshi/mess.cpp:1691 kenshi/rangedCombat.cpp:2626
 #: kenshi/rangedCombat.cpp:2632 kenshi/rangedCombat.cpp:2638
 msgid "State:"
-msgstr ""
+msgstr "Estado:"
 
 #: kenshi/character/character.cpp:2739
 #: kenshi/character/character.cpp:2796
@@ -3254,144 +3282,152 @@ msgstr ""
 #: kenshi/territory.cpp:1429 kenshi/territory.cpp:1444
 #: kenshi/territory.cpp:1457
 msgid "Dead"
-msgstr ""
+msgstr "Morto"
 
 #: kenshi/character/character.cpp:2739
 msgid "This guy is dead and gone."
-msgstr ""
+msgstr "Est/EA/ tip/OA/ morreu de todo."
 
 #: kenshi/character/character.cpp:2753
 msgid "Locked (lvl: {1,num})"
-msgstr ""
+msgstr "Fechado (nv: {1,num})"
 
 #: kenshi/character/character.cpp:2753
 msgid ""
 "You are locked in a cage.\n"
 "The lock has a difficulty level of {1,num}."
 msgstr ""
+"Estás fechado nunha gaiola.\n"
+"A fechadura ten un nivel de dificultade de {1,num}."
 
 #: kenshi/character/character.cpp:2757
 msgid "(Unlocked...)"
-msgstr ""
+msgstr "(Desfechado...)"
 
 #: kenshi/character/character.cpp:2757
 msgid ""
 "The cage you are in is UNLOCKED.\n"
 "Nobody knows this but you, you can escape any time you want."
 msgstr ""
+"A gaiola na que estás está DESFECHADA.\n"
+"Só ti sabes isto, podes fuxir cando queiras."
 
 #: kenshi/character/character.cpp:2764 kenshi/stats.cpp:2153
 msgid "Unconscious"
-msgstr ""
+msgstr "Inconsciente"
 
 #: kenshi/character/character.cpp:2766 kenshi/stats.cpp:2155
 msgid "Rebooting"
-msgstr ""
+msgstr "Reiniciando"
 
 #: kenshi/character/character.cpp:2767
 msgid ""
 "This guy is unconscious and probably needs medical attention "
 "and rest."
 msgstr ""
+"Est/EA/ tip/OA/ está inconsciente e seguramente precise atención médica e "
+"descanso."
 
 #: kenshi/character/character.cpp:2771
 msgid "Sleeping..."
-msgstr ""
+msgstr "Durmindo..."
 
 #: kenshi/character/character.cpp:2779
 msgid "Defensive"
-msgstr ""
+msgstr "Defensivo"
 
 #: kenshi/character/character.cpp:2779
 msgid ""
 "In defensive combat mode the character will not even try to "
 "attack, focusing entirely on defense for a +20 skill bonus."
 msgstr ""
+"En modo de combate defensivo o personaxe non fará por atacar, centrándose "
+"exclusivamente en defensa por un bonus de +20 de habilidade."
 
 #. TRANSLATORS: Normal state building
 #: kenshi/character/character.cpp:2783 kenshi/getGUIData.cpp:166
 #: kenshi/options.cpp:443 kenshi/stats.cpp:2128
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: kenshi/character/character.cpp:2787
 msgid "Goal:"
-msgstr ""
+msgstr "Obxectivo:"
 
 #: kenshi/character/character.cpp:2787
 msgid "Current goal of this character."
-msgstr ""
+msgstr "Obxectivo actual deste personaxe."
 
 #: kenshi/character/character.cpp:2831
 #: kenshi/character/character.cpp:2834 kenshi/stats.cpp:2310
 #: kenshi/stats.cpp:2470 kenshi/stats.cpp:2526
 msgid "Encumbrance:"
-msgstr ""
+msgstr "Sobrecarga:"
 
 #: kenshi/character/character.cpp:2835 kenshi/stats.cpp:2277
 msgid "Athletics XP:"
-msgstr ""
+msgstr "EXP de atletismo:"
 
 #: kenshi/character/character.cpp:2836 kenshi/stats.cpp:2304
 #: kenshi/stats.cpp:2821
 msgid "Strength XP:"
-msgstr ""
+msgstr "EXP de forza:"
 
 #: kenshi/character/character.cpp:2837
 msgid "Run Speed Penalty:"
-msgstr ""
+msgstr "Pen. de veloc. carreira:"
 
 #: kenshi/character/character.cpp:2838
 msgid "Stealth Penalty:"
-msgstr ""
+msgstr "Pen. furtividade:"
 
 #: kenshi/character/character.cpp:2886
 msgid "Accuracy Error:"
-msgstr ""
+msgstr "Erro de precisión:"
 
 #. TRANSLATORS: symbol for degrees (angle)
 #: kenshi/character/character.cpp:2888
 #: kenshi/character/character.cpp:2890
 #: kenshi/character/character.cpp:2892 kenshi/mess.cpp:986
 msgid " degrees"
-msgstr ""
+msgstr " graos"
 
 #: kenshi/character/character.cpp:2890
 msgid "Weapon Accuracy:"
-msgstr ""
+msgstr "Precisión da arma:"
 
 #: kenshi/character/character.cpp:2891
 #: kenshi/character/character.cpp:2964
 msgid "Skill:"
-msgstr ""
+msgstr "Habilidade:"
 
 #: kenshi/character/character.cpp:2892
 msgid "Resulting Accuracy Deviation:"
-msgstr ""
+msgstr "Desviación de precisión resultante:"
 
 #: kenshi/character/character.cpp:2906
 msgid "Heavy:"
-msgstr ""
+msgstr "Pesadas:"
 
 #: kenshi/character/character.cpp:2911
 msgid "Katana:"
-msgstr ""
+msgstr "Katana:"
 
 #: kenshi/character/character.cpp:2916
 msgid "Hacker:"
-msgstr ""
+msgstr "Cortador:"
 
 #: kenshi/character/character.cpp:2921
 msgid "Sabre:"
-msgstr ""
+msgstr "Sabre:"
 
 #: kenshi/character/character.cpp:2926 kenshi/stats.cpp:2801
 msgid "Martial Arts:"
-msgstr ""
+msgstr "Artes marciais:"
 
 #: kenshi/character/character.cpp:2931
 msgid "Polearm:"
-msgstr ""
+msgstr "Arma de hasta:"
 
 #: kenshi/character/character.cpp:2935
 #: kenshi/farmbuilding.cpp:1183 kenshi/farmbuilding.cpp:1186
@@ -3400,20 +3436,20 @@ msgstr ""
 #: kenshi/mess.cpp:985 kenshi/previewbuilding.cpp:4118
 #: kenshi/stats.cpp:2823
 msgid "Damage:"
-msgstr ""
+msgstr "Dano:"
 
 #: kenshi/character/character.cpp:2943 kenshi/stats.cpp:2407
 msgid "Stealth:"
-msgstr ""
+msgstr "Furtividade:"
 
 #: kenshi/character/character.cpp:2949
 msgid "Athletics:"
-msgstr ""
+msgstr "Atletismo:"
 
 #: kenshi/character/character.cpp:2961 kenshi/stats.cpp:3297
 #: kenshi/statswindow.cpp:974
 msgid "Swimming"
-msgstr ""
+msgstr "Nadando"
 
 #: kenshi/character/character.cpp:2961
 #: kenshi/character/character.cpp:2965
@@ -3421,206 +3457,208 @@ msgstr ""
 #: kenshi/stats.cpp:2458 kenshi/stats.cpp:2491
 #: kenshi/stats.cpp:2504
 msgid "{1,num} mph"
-msgstr ""
+msgstr "{1,num} mph"
 
 #: kenshi/character/character.cpp:2965
 msgid "Max Swim Speed:"
-msgstr ""
+msgstr "Máx. vel. nado:"
 
 #: kenshi/character/character.cpp:2970
 msgid "Injuries"
-msgstr ""
+msgstr "Lesións"
 
 #: kenshi/character/character.cpp:2976 kenshi/stats.cpp:2022
 #: kenshi/stats.cpp:2050
 msgid "Hunger"
-msgstr ""
+msgstr "Fame"
 
 #: kenshi/character/character.cpp:2982 kenshi/stats.cpp:3295
 msgid "Encumbrance"
-msgstr ""
+msgstr "Sobrecarga"
 
 #: kenshi/character/character.cpp:2993
 msgid "2 Broken Arms!"
-msgstr ""
+msgstr "2 brazos rotos!"
 
 #: kenshi/character/character.cpp:2996
 msgid "Current Swim Speed:"
-msgstr ""
+msgstr "Vel. nado actual:"
 
 #: kenshi/character/character.cpp:3008
 msgid "Imprisoned:"
-msgstr ""
+msgstr "Aprisionado:"
 
 #: kenshi/character/character.cpp:3352
 #: kenshi/character/character.cpp:3360
 msgid "My arm is broken!"
-msgstr ""
+msgstr "O meu brazo está roto!"
 
 #: kenshi/character/character.cpp:3367
 msgid "I can't carry anyone with this arm."
-msgstr ""
+msgstr "Non podo carregar a ninguén con este brazo."
 
 #: kenshi/character/character.cpp:3374
 msgid "I don't have any building materials."
-msgstr ""
+msgstr "Non teño materiais de construción."
 
 #: kenshi/character/character.cpp:3384
 msgid "I don't have a medkit."
-msgstr ""
+msgstr "Non teño ningún kit médico."
 
 #: kenshi/character/character.cpp:3393
 msgid "I don't have a splint kit."
-msgstr ""
+msgstr "Non teño ningún kit de entalado."
 
 #. TRANSLATORS: {1} is a character name.  You could remove the name if unknown gender causes a problem
 #: kenshi/character/character.cpp:3403
 msgid "{1} can't talk to people"
-msgstr ""
+msgstr "{1} non pode falar coa xente"
 
 #: kenshi/character/character.cpp:3413
 msgid "I don't have a repair kit."
-msgstr ""
+msgstr "Non teño un kit de reparación."
 
 #: kenshi/character/character.cpp:3421
 msgid "I need to go outside to do this."
-msgstr ""
+msgstr "Preciso saír fóra para facer iso."
 
 #: kenshi/character/character.cpp:3424
 msgid "I need to be stood on solid ground."
-msgstr ""
+msgstr "Preciso estar en terra firme."
 
 #: kenshi/character/charactereditor.cpp:277
 msgid "Import character"
-msgstr ""
+msgstr "Importar personaxe"
 
 #: kenshi/character/charactereditor.cpp:277
 #: kenshi/character/charactereditor.cpp:867
 #: kenshi/savemanager.cpp:686
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: kenshi/character/charactereditor.cpp:759
 msgid "Randomise"
-msgstr ""
+msgstr "Aleatorio"
 
 #: kenshi/character/charactereditor.cpp:763
 #: kenshi/transformEditor.cpp:73
 msgid "Reset"
-msgstr ""
+msgstr "Reiniciar"
 
 #: kenshi/character/charactereditor.cpp:767
 msgid "Randomise All"
-msgstr ""
+msgstr "Todo aleatorio"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:772
 msgid "Body"
-msgstr ""
+msgstr "Corpo"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:780
 #: kenshi/character/charactereditor.cpp:1644
 msgid "Face"
-msgstr ""
+msgstr "Cara"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:787
 #: kenshi/character/charactereditor.cpp:1688
 msgid "Hair"
-msgstr ""
+msgstr "Cabelo"
 
 #: kenshi/character/charactereditor.cpp:871
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 #: kenshi/character/charactereditor.cpp:875
 msgid "Clothes"
-msgstr ""
+msgstr "Roupas"
 
 #: kenshi/character/charactereditor.cpp:879
 #: kenshi/previewbuilding.cpp:3673 kenshi/previewbuilding.cpp:4156
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmar"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:886
 msgid "Race"
-msgstr ""
+msgstr "Raza"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:890
 msgid "Subrace"
-msgstr ""
+msgstr "Sub-raza"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:894
 msgid "Gender"
-msgstr ""
+msgstr "Xénero"
 
 #: kenshi/character/charactereditor.cpp:897
 msgid "Change Character"
-msgstr ""
+msgstr "Mudar personaxe"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:901
 msgid "Race Description"
-msgstr ""
+msgstr "Descrición de raza"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:905
 msgid "Race Stats"
-msgstr ""
+msgstr "Atributos da raza"
 
 #. TRANSLATORS: Health context.
 #: kenshi/character/charactereditor.cpp:930
 msgid "Hit Points:"
-msgstr ""
+msgstr "Puntos de vida:"
 
 #. TRANSLATORS: Health context.
 #: kenshi/character/charactereditor.cpp:934
 msgid "No bleeding"
-msgstr ""
+msgstr "Sen sangramento"
 
 #: kenshi/character/charactereditor.cpp:1372
 msgid ""
 "Error loading appearance file '{1}'. The file is in an old "
 "format or invalid."
 msgstr ""
+"Erro ao carregar ficheiro de apariencia '{1}'. O ficheiro está nun formato "
+"antigo ou non válido."
 
 #: kenshi/character/charactereditor.cpp:1500
 msgid "Character '{1}' exported to file {2}"
-msgstr ""
+msgstr "Personaxe '{1}' exportado ao ficheiro {2}"
 
 #: kenshi/character/charactereditor.cpp:1595
 msgid "Idle stance"
-msgstr ""
+msgstr "Postura ociosa"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:1693
 msgid "Beard"
-msgstr ""
+msgstr "Barba"
 
 #. TRANSLATORS: Biological context.
 #: kenshi/character/charactereditor.cpp:1710
 msgid "Hair colour"
-msgstr ""
+msgstr "Cor do cabelo"
 
 #: kenshi/character/charactereditor.cpp:1717
 msgid "Colour"
-msgstr ""
+msgstr "Cor"
 
 #: kenshi/character/charactereditor.cpp:1724
 msgid "Saturation"
-msgstr ""
+msgstr "Saturación"
 
 #: kenshi/character/charactereditor.cpp:1731
 msgid "Brightness"
-msgstr ""
+msgstr "Brillo"
 
 #: kenshi/character/charactereditor.cpp:2177 kenshi/grass.cpp:409
 msgid "Warning"
-msgstr ""
+msgstr "Advertencia"
 
 #: kenshi/character/charactereditor.cpp:2177
 msgid ""
@@ -3628,48 +3666,52 @@ msgid ""
 "changed.\n"
 "Are you sure you want to continue?"
 msgstr ""
+"Hai outros personaxes cuxas apariencias non mudaron.\n"
+"Estás certo de que queres continuar?"
 
 #: kenshi/character/medical.cpp:168
 msgid "Acid Rain ({1} protection)"
-msgstr ""
+msgstr "Chuvia ácida (protección de {1})"
 
 #: kenshi/character/medical.cpp:170
 msgid ""
 "It is currently raining acid, and you aren't wearing anything "
 "to protect your skin.  Best to find shelter soon."
 msgstr ""
+"Está chovendo ácido e non levas nada que protexa a túa pel. É mellor atopar "
+"abeiro canto antes."
 
 #: kenshi/character/medical.cpp:172
 msgid ""
 "It is currently raining acid, but your gear is providing you "
 "with total protection."
-msgstr ""
+msgstr "Está chovendo ácido, mais o teu equipamento protéxete por completo."
 
 #: kenshi/character/medical.cpp:174
 msgid ""
 "It is currently raining acid, your gear is providing you with "
 "{1} protection."
-msgstr ""
+msgstr "Está chovendo ácido, o teu equipamento proporciona {1} de protección."
 
 #: kenshi/character/medical.cpp:194
 msgid "Acid!"
-msgstr ""
+msgstr "Ácido!"
 
 #: kenshi/character/medical.cpp:195
 msgid ""
 "You are currently submersed in acid, get out of there as soon "
 "as you can."
-msgstr ""
+msgstr "Estás mergullado en ácido, sae de aí canto antes."
 
 #: kenshi/character/medical.cpp:218
 msgid "Feet Burning!"
-msgstr ""
+msgstr "Pés queimando!"
 
 #: kenshi/character/medical.cpp:219
 msgid ""
 "The ground here is acidic and burns your feet, find some "
 "footwear!"
-msgstr ""
+msgstr "O chan aquí é ácido e queima os teus pés, atopa algún calzado!"
 
 #: kenshi/character/medical.cpp:252
 msgid "Poison Gas ({1} protection)"
