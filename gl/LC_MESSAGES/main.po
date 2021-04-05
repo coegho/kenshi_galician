@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-05 20:41+0000\n"
+"PO-Revision-Date: 2021-04-06 21:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -3715,286 +3715,293 @@ msgstr "O chan aquí é ácido e queima os teus pés, atopa algún calzado!"
 
 #: kenshi/character/medical.cpp:252
 msgid "Poison Gas ({1} protection)"
-msgstr ""
+msgstr "Gas velenoso (protección de {1})"
 
 #: kenshi/character/medical.cpp:254
 msgid "You are currently breathing in poison gas."
-msgstr ""
+msgstr "Estás respirando gas velenoso."
 
 #: kenshi/character/medical.cpp:256
 msgid "Your gear is protecting you from breathing in any poisons."
-msgstr ""
+msgstr "O teu equipo protéxete de respirar veleno ningún."
 
 #: kenshi/character/medical.cpp:258
 msgid ""
 "You are currently breathing in poison gas, your gear is "
 "providing you with {1} protection."
 msgstr ""
+"Estás respirando gas velenoso, o teu equipo proporciónache unha protección "
+"de {1}."
 
 #: kenshi/character/medical.cpp:295
 msgid "Burning ({1} protection)"
-msgstr ""
+msgstr "Queimadura (protección de {1})"
 
 #: kenshi/character/medical.cpp:297
 msgid "You are currently on fire."
-msgstr ""
+msgstr "Estás ardendo."
 
 #: kenshi/character/medical.cpp:299
 msgid "Your gear is protecting you from being horribly burnt."
-msgstr ""
+msgstr "O teu equipo protéxete de queimarte horribelmente."
 
 #: kenshi/character/medical.cpp:301
 msgid ""
 "You are currently on fire, your gear is providing you with {1} "
 "protection."
-msgstr ""
+msgstr "Estás ardendo, o teu equipo proporciónache {1} de protección."
 
 #: kenshi/character/medical.cpp:330
 msgid "Dust Storm ({1} protection)"
-msgstr ""
+msgstr "Tormenta de poeira (protección de {1})"
 
 #: kenshi/character/medical.cpp:332
 msgid ""
 "You are in a dust storm, it affects your accuracy in combat."
-msgstr ""
+msgstr "Estás nunha tormenta de poeira, afecta a túa precisión en combate."
 
 #: kenshi/character/medical.cpp:334
 msgid "Your gear is protecting you from the storm."
-msgstr ""
+msgstr "O teu equipo protéxete da tormenta."
 
 #: kenshi/character/medical.cpp:336
 msgid ""
 "You are in a dust storm, your gear is providing you with {1} "
 "protection."
 msgstr ""
+"Estás nunha tormenta de poeira, o teu equipo proporciónache unha protección "
+"de {1}."
 
 #: kenshi/character/medical.cpp:425
 msgid "{1} has been eaten alive."
-msgstr ""
+msgstr "{1} foi devorad/OA/ viv/OA/."
 
 #: kenshi/character/medical.cpp:2908
 #: kenshi/character/medical.cpp:2915
 msgid "Load Error: Character stat was corrupted and fixed: {1}"
 msgstr ""
+"Erro de carga: O atributo do personaxe estaba corrompido e corrixiuse: {1}"
 
 #: kenshi/character/movement.cpp:1194 kenshi/engine
 #: src/camera.cpp:439
 msgid "Beta limitation: Can't go that way."
-msgstr ""
+msgstr "Limitación da beta: camiño impedido."
 
 #: kenshi/character/robotlimbs.cpp:140
 msgid "ROBOTICS"
-msgstr ""
+msgstr "ROBÓTICA"
 
 #: kenshi/crafting.cpp:59
 msgid "Repeat Queue"
-msgstr ""
+msgstr "Repetir cola"
 
 #: kenshi/crafting.cpp:68
 msgid "Stations"
-msgstr ""
+msgstr "Estacións"
 
 #: kenshi/crafting.cpp:71 kenshi/levelEditor.cpp:663
 msgid "Items"
-msgstr ""
+msgstr "Obxectos"
 
 #: kenshi/crafting.cpp:74 kenshi/mapscreen.cpp:150
 msgid "Queue"
-msgstr ""
+msgstr "Cola"
 
 #: kenshi/crafting.cpp:77 kenshi/mapscreen.cpp:153
 #: kenshi/statswindow.cpp:122
 msgid "Description"
-msgstr ""
+msgstr "Descrición"
 
 #: kenshi/crafting.cpp:141
 msgid "In production..."
-msgstr ""
+msgstr "En produción..."
 
 #: kenshi/crafting.cpp:147
 msgid "Out of resources"
-msgstr ""
+msgstr "Sen recursos"
 
 #: kenshi/crafting.cpp:151 kenshi/farmbuilding.cpp:1252
 #: kenshi/getGUIData.cpp:1261
 msgid "Output full"
-msgstr ""
+msgstr "Saída chea"
 
 #: kenshi/crafting.cpp:155
 msgid "Upgrade required"
-msgstr ""
+msgstr "Actualización necesaria"
 
 #: kenshi/crafting.cpp:162
 msgid "Not assigned to a craft bench"
-msgstr ""
+msgstr "Sen banca de traballo asignada"
 
 #: kenshi/crafting.cpp:181 kenshi/crafting.cpp:285
 #: kenshi/mapscreen.cpp:634
 msgid "ETA:"
-msgstr ""
+msgstr "Tempo estimado:"
 
 #: kenshi/crafting.cpp:191
 msgid " ("
-msgstr ""
+msgstr " ("
 
 #: kenshi/crafting.cpp:191
 msgid ")"
-msgstr ""
+msgstr ")"
 
 #: kenshi/crafting.cpp:192
 msgid "-Current Smith:"
-msgstr ""
+msgstr "-Ferreiro actual:"
 
 #: kenshi/crafting.cpp:192
 msgid " (skill: {1,num}{2})"
-msgstr ""
+msgstr " (habilidade: {1,num}{2})"
 
 #: kenshi/crafting.cpp:203 kenshi/crafting.cpp:216
 msgid "-Predicted Result:"
-msgstr ""
+msgstr "-Resultado previsto:"
 
 #: kenshi/crafting.cpp:213
 msgid "-Material Costs:"
-msgstr ""
+msgstr "-Custos de material:"
 
 #: kenshi/crafting.cpp:222
 msgid "-Critical Success Chance:"
-msgstr ""
+msgstr "-Probabilidade de éxito crítico:"
 
 #: kenshi/crafting.cpp:357
 msgid ""
 "No items available to craft. You need to buy blueprints or "
 "research new items to craft them here"
 msgstr ""
+"Non hai obxectos dispoñíbeis para fabricar. Precisas mercar planos ou "
+"pesquisar novos obxectos para fabricalos aquí"
 
 #: kenshi/crafting.cpp:530
 msgid "Estimated Craft Time:"
-msgstr ""
+msgstr "Tempo estimado de fabricación:"
 
 #: kenshi/crafting.cpp:535
 msgid "-Materials Cost:"
-msgstr ""
+msgstr "-Custo de materiais:"
 
 #: kenshi/crafting.cpp:536
 msgid "-Fabrics Cost:"
-msgstr ""
+msgstr "-Custo de tecidos:"
 
 #: kenshi/crafting.cpp:540
 msgid "-Materials Costs:"
-msgstr ""
+msgstr "-Custo de materiais:"
 
 #: kenshi/crafting.cpp:574
 msgid " x{1,num}"
-msgstr ""
+msgstr " x{1,num}"
 
 #: kenshi/crafting.cpp:578 kenshi/mess.cpp:888
 msgid "Ingredients"
-msgstr ""
+msgstr "Ingredientes"
 
 #: kenshi/crafting.cpp:1474
 msgid "Invalid item!"
-msgstr ""
+msgstr "Obxecto non válido!"
 
 #: kenshi/crafting.cpp:1483
 msgid "Empty!"
-msgstr ""
+msgstr "Baleiro!"
 
 #: kenshi/crafting.cpp:1869
 msgid ""
 "Failed to learn from blueprint: Technology requirements not met"
-msgstr ""
+msgstr "Fallou ao estudar plano: non se cumpren os requisitos de tecnoloxía"
 
 #: kenshi/crafting.cpp:1875 kenshi/mapscreen.cpp:969
 #: kenshi/mess.cpp:1304
 msgid "Research already known"
-msgstr ""
+msgstr "Pesquisa xa coñecida"
 
 #: kenshi/dayCycle.cpp:621
 msgid "Day: {1,num}"
-msgstr ""
+msgstr "Día: {1,num}"
 
 #: kenshi/dialogue.cpp:1081
 msgid "Selling Slaves"
-msgstr ""
+msgstr "Vendendo escravos"
 
 #: kenshi/dialogue.cpp:1081
 msgid "Sell"
-msgstr ""
+msgstr "Vender"
 
 #: kenshi/dialogue.cpp:1098 kenshi/getGUIData.cpp:137
 msgid "Name:"
-msgstr ""
+msgstr "Nome:"
 
 #: kenshi/dialogue.cpp:1099
 msgid "WARNING: Character will become a slave!"
-msgstr ""
+msgstr "AVISO: O personaxe tornarase un escravo!"
 
 #: kenshi/dialogue.cpp:1148
 msgid "Buying Slaves"
-msgstr ""
+msgstr "Comprando escravos"
 
 #: kenshi/dialogue.cpp:1148 kenshi/dialogue.cpp:1244
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 #: kenshi/dialogue.cpp:1169 kenshi/dialogue.cpp:1262
 #: kenshi/dialogue.cpp:1374 kenshi/mess.cpp:1695
 #: kenshi/stats.cpp:2965
 msgid "Strength:"
-msgstr ""
+msgstr "Forza:"
 
 #: kenshi/dialogue.cpp:1170 kenshi/dialogue.cpp:1375
 #: kenshi/stats.cpp:2974
 msgid "Dexterity:"
-msgstr ""
+msgstr "Destreza:"
 
 #: kenshi/dialogue.cpp:1171 kenshi/dialogue.cpp:1376
 #: kenshi/stats.cpp:2982
 msgid "Toughness:"
-msgstr ""
+msgstr "Dureza:"
 
 #: kenshi/dialogue.cpp:1172 kenshi/dialogue.cpp:1263
 #: kenshi/dialogue.cpp:1377
 msgid "Melee Attack:"
-msgstr ""
+msgstr "Ataque corpo a corpo:"
 
 #: kenshi/dialogue.cpp:1173 kenshi/dialogue.cpp:1378
 msgid "Melee Defence:"
-msgstr ""
+msgstr "Defensa corpo a corpo:"
 
 #: kenshi/dialogue.cpp:1174 kenshi/dialogue.cpp:1379
 msgid "Labouring:"
-msgstr ""
+msgstr "Traballo físico:"
 
 #: kenshi/dialogue.cpp:1175 kenshi/dialogue.cpp:1380
 msgid "Farming:"
-msgstr ""
+msgstr "Agricultura:"
 
 #: kenshi/dialogue.cpp:1176 kenshi/dialogue.cpp:1381
 #: kenshi/statswindow.cpp:824
 msgid "Cooking:"
-msgstr ""
+msgstr "Cociña:"
 
 #: kenshi/dialogue.cpp:1177 kenshi/dialogue.cpp:1382
 msgid "Engineering:"
-msgstr ""
+msgstr "Enxeñaría:"
 
 #: kenshi/dialogue.cpp:1178 kenshi/dialogue.cpp:1383
 msgid "Medic:"
-msgstr ""
+msgstr "Médico de campo:"
 
 #: kenshi/dialogue.cpp:1244
 msgid "Buying Animals"
-msgstr ""
+msgstr "Comprando animais"
 
 #: kenshi/dialogue.cpp:1266 kenshi/stats.cpp:516
 #: kenshi/stats.cpp:2781
 msgid "Age:"
-msgstr ""
+msgstr "Idade:"
 
 #: kenshi/dialogue.cpp:1268
 msgid "Gender:"
-msgstr ""
+msgstr "Xénero:"
 
 #: kenshi/dialogue.cpp:1268 Working
 #: copy/data/editor/editor_data_bone_people.xml:62
@@ -4006,7 +4013,7 @@ msgstr ""
 #: copy/data/editor/editor_data_stick_soldier.xml:42
 #: copy/data/editor/editor_data_sundemon.xml:54
 msgid "Female"
-msgstr ""
+msgstr "Femia"
 
 #: kenshi/dialogue.cpp:1268 Working
 #: copy/data/editor/editor_data_Fishman.xml:3
@@ -4019,11 +4026,11 @@ msgstr ""
 #: copy/data/editor/editor_data_stick_soldier.xml:3
 #: copy/data/editor/editor_data_sundemon.xml:3
 msgid "Male"
-msgstr ""
+msgstr "Macho"
 
 #: kenshi/dialogue.cpp:1360
 msgid "Pay Bounty"
-msgstr ""
+msgstr "Pagar recompensa"
 
 #: kenshi/dialogue.cpp:1360
 msgid "Pay"
