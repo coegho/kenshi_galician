@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-06 21:41+0000\n"
+"PO-Revision-Date: 2021-04-08 19:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -4034,99 +4034,99 @@ msgstr "Pagar recompensa"
 
 #: kenshi/dialogue.cpp:1360
 msgid "Pay"
-msgstr ""
+msgstr "Pagar"
 
 #: kenshi/dialogue.cpp:1373 kenshi/tooltip.cpp:336
 #: kenshi/tooltip.cpp:427
 msgid "Faction:"
-msgstr ""
+msgstr "Facción:"
 
 #: kenshi/dialogue.cpp:1492
 msgid "Relations with {1} improved by {2}"
-msgstr ""
+msgstr "Relacións con {1} aumentadas en {2}"
 
 #: kenshi/dialogue.cpp:1494
 msgid "Relations with {1} decreased by {2}"
-msgstr ""
+msgstr "Relacións con {1} diminuídas en {2}"
 
 #: kenshi/dialogue.cpp:1525
 msgid "Received"
-msgstr ""
+msgstr "Recibido"
 
 #: kenshi/dialogue.cpp:1739
 msgid ""
 "Sorry, you cannot create female characters in the demo, buy the "
 "full game!"
-msgstr ""
+msgstr "Non podes crear personaxes femininos na demo, merca o xogo completo!"
 
 #: kenshi/dialogue.cpp:1754
 msgid "It looks like your squad is a little full."
-msgstr ""
+msgstr "Parece que o teu grupo está un pouco cheo."
 
 #: kenshi/dialogue.cpp:1763
 msgid ""
 "If you want to hire any more men, you will need to buy the full "
 "game!"
-msgstr ""
+msgstr "Se queres contratar máis homes terás que mercar o xogo completo!"
 
 #. TRANSLATORS: Notification when freed from slavery and chains
 #: kenshi/dialogue.cpp:1866
 msgid "Free!"
-msgstr ""
+msgstr "Liberdade!"
 
 #: kenshi/dialogue.cpp:2180
 msgid "Paid c.{1}k"
-msgstr ""
+msgstr "Pagou c.{1}k"
 
 #: kenshi/dialogue.cpp:2184
 msgid "Paid c.{1}"
-msgstr ""
+msgstr "Pagou c.{1}"
 
 #: kenshi/dialogue.cpp:4500
 msgid "{1} has been discovered smuggling {2}"
-msgstr ""
+msgstr "Cacharon a {1} contrabandeando {2}"
 
 #. TRANSLATORS: This is a fallback for the wordswaps /YOURNAME/ and /YOURFACTION/.  In case the person talking has no target, he will just use the word "you"
 #: kenshi/dialogue.cpp:4978 kenshi/dialogue.cpp:4984
 msgid "you"
-msgstr ""
+msgstr "ti"
 
 #: kenshi/factionDiplomatSquads.cpp:506
 msgid "Squads:"
-msgstr ""
+msgstr "Grupos:"
 
 #: kenshi/factionDiplomatSquads.cpp:516
 msgid "Prosperity:"
-msgstr ""
+msgstr "Prosperidade:"
 
 #: kenshi/factionRelations.cpp:220
 msgid "{1} are now hostile towards you"
-msgstr ""
+msgstr "{1} agora son hostís contigo"
 
 #: kenshi/factionRelations.cpp:222
 msgid "{1} are no longer hostile towards you"
-msgstr ""
+msgstr "{1} xa non son hostís contigo"
 
 #: kenshi/factionRelations.cpp:224
 msgid "{1} are no longer your ally"
-msgstr ""
+msgstr "{1} xa non son os teus aliados"
 
 #: kenshi/factionRelations.cpp:226
 msgid "{1} are now your allies"
-msgstr ""
+msgstr "{1} agora son os teus aliados"
 
 #: kenshi/factionRelations.cpp:355
 msgid "War breaks out between {1} and {2}"
-msgstr ""
+msgstr "Comezou unha guerra entre {1} e {2}"
 
 #: kenshi/farmbuilding.cpp:823 kenshi/mapscreen.cpp:2946
 #: kenshi/previewbuilding.cpp:2619
 msgid "Environment:"
-msgstr ""
+msgstr "Ambiente:"
 
 #: kenshi/farmbuilding.cpp:826 kenshi/farmbuilding.cpp:831
 msgid "Farmers Skill:"
-msgstr ""
+msgstr "Habilidade de labrego:"
 
 #: kenshi/farmbuilding.cpp:834
 msgid ""
@@ -4134,61 +4134,67 @@ msgid ""
 "that you get less crops from a harvest. Skillful farmers are "
 "important."
 msgstr ""
+"Esta é a porcentaxe de rendemento da leira. Un número menor significa que "
+"recibirás unha colleita menor. Os labregos habilidosos son importantes."
 
 #: kenshi/farmbuilding.cpp:837
 msgid ""
 "WARNING! Crop yield is too low to be productive, probably the "
 "crop is not suitable for this area."
 msgstr ""
+"AVISO! O rendemento da colleita é demasiado baixo como para ser produtivo, "
+"probabelmente a planta non é adecuada para esta área."
 
 #: kenshi/farmbuilding.cpp:842
 msgid "Crop Yield"
-msgstr ""
+msgstr "Rendemento da colleita"
 
 #: kenshi/farmbuilding.cpp:856
 msgid "Normal Growth Time:"
-msgstr ""
+msgstr "Tempo normal de crecemento:"
 
 #: kenshi/farmbuilding.cpp:857
 msgid "Environment Effect:"
-msgstr ""
+msgstr "Efecto do ambiente:"
 
 #: kenshi/farmbuilding.cpp:860 kenshi/farmbuilding.cpp:863
 #: kenshi/farmbuilding.cpp:1197 kenshi/farmbuilding.cpp:1200
 #: kenshi/getGUIData.cpp:666 kenshi/getGUIData.cpp:670
 #: kenshi/gui/mainbar.cpp:1958
 msgid "Power:"
-msgstr ""
+msgstr "Potencia:"
 
 #: kenshi/farmbuilding.cpp:867 kenshi/farmbuilding.cpp:1206
 msgid "No Water:"
-msgstr ""
+msgstr "Sen auga:"
 
 #: kenshi/farmbuilding.cpp:869
 msgid "Actual Growth Time:"
-msgstr ""
+msgstr "Tempo real de crecemento:"
 
 #: kenshi/farmbuilding.cpp:874
 msgid "Growth Rate"
-msgstr ""
+msgstr "Taxa de crecemento"
 
 #: kenshi/farmbuilding.cpp:974
 msgid "Failed"
-msgstr ""
+msgstr "Fallou"
 
 #: kenshi/farmbuilding.cpp:1133 kenshi/farmbuilding.cpp:1245
 msgid "Growing"
-msgstr ""
+msgstr "Crecendo"
 
 #: kenshi/farmbuilding.cpp:1134
 msgid ""
 "Once the plants have grown 100% you can begin to harvest them. "
 "Until then all you have to do is make sure the farm has water."
 msgstr ""
+"No momento no que nas plantas crezan ao 100% poderás colleitalas. Até entón, "
+"chegará con que te asegures de que a leira teña auga."
 
 #: kenshi/farmbuilding.cpp:1137
 msgid "Plant Condition"
-msgstr ""
+msgstr "Condición da planta"
 
 #: kenshi/farmbuilding.cpp:1138
 msgid ""
@@ -4196,205 +4202,220 @@ msgid ""
 "are fully grown, or if they run out of water. If it reaches 0 "
 "then the dead plants will have to be cleared and re-planted."
 msgstr ""
+"A saúde das plantas comezará a dexenerar a partir de ter crecido de todo ou "
+"cando queden sen auga. Se chegan a 0, será preciso limpalas e plantalas de "
+"novo."
 
 #: kenshi/farmbuilding.cpp:1141
 msgid "Number of Plants"
-msgstr ""
+msgstr "Número de plantas"
 
 #: kenshi/farmbuilding.cpp:1142
 msgid ""
 "The number of plants remaining. This number will decrease when "
 "you harvest them, or if some pest starts eating them."
 msgstr ""
+"O número restante de plantas. Este número diminuirá cando as colleites, ou "
+"se as pragas comezan a comelas."
 
 #: kenshi/farmbuilding.cpp:1150 kenshi/farmbuilding.cpp:1155
 msgid "Time left to harvest"
-msgstr ""
+msgstr "Tempo restante para colleitar"
 
 #: kenshi/farmbuilding.cpp:1151
 msgid "Time left to harvest all plants before they go bad."
 msgstr ""
+"Tempo restante para colleitar todas as plantas antes de que se estraguen."
 
 #: kenshi/farmbuilding.cpp:1175 kenshi/getGUIData.cpp:634
 #: kenshi/previewbuilding.cpp:4124
 msgid "Efficiency:"
-msgstr ""
+msgstr "Eficiencia:"
 
 #: kenshi/farmbuilding.cpp:1216 kenshi/getGUIData.cpp:704
 #: kenshi/getGUIData.cpp:711
 msgid "Workers:"
-msgstr ""
+msgstr "Traballadores:"
 
 #: kenshi/farmbuilding.cpp:1217
 msgid "No workers required until the crop is ready to harvest."
-msgstr ""
+msgstr "Ningún traballador é preciso até que a colleita estea lista."
 
 #: kenshi/farmbuilding.cpp:1237
 msgid ""
 "The soil here is unsuitable for growing crops. This farm is "
 "useless."
-msgstr ""
+msgstr "O solo non é o axeitado para esta planta. Esta leira é inútil."
 
 #: kenshi/farmbuilding.cpp:1241
 msgid "Needs water"
-msgstr ""
+msgstr "Precisa de auga"
 
 #: kenshi/farmbuilding.cpp:1241
 msgid ""
 "Out of water. Growth rate will be significantly reduced and "
 "your plants may die."
 msgstr ""
+"Sen auga. A taxa de crecemento vaise reducir significativamente e as túas "
+"plantas poden morrer."
 
 #: kenshi/farmbuilding.cpp:1245
 msgid ""
 "Your crops are growing nicely. You don't have to do anything."
-msgstr ""
+msgstr "O cultivo está crecendo correctamente. Non tes que facer nada."
 
 #: kenshi/farmbuilding.cpp:1252
 msgid ""
 "The output is full. Empty out the items and put them in a "
 "storage box or something."
 msgstr ""
+"A saída de produción está chea. Baleira os obxectos e ponos nunha caixa de "
+"almacenamento ou algo."
 
 #: kenshi/farmbuilding.cpp:1256
 msgid "Ready To harvest"
-msgstr ""
+msgstr "Lista para colleitar"
 
 #: kenshi/farmbuilding.cpp:1256
 msgid ""
 "Nobody is working at this farm at the present moment, you need "
 "to hurry up and harvest them before they die."
 msgstr ""
+"Ninguén está traballando nesta leira agora mesmo, apura e colleita as "
+"plantas antes de que morran."
 
 #: kenshi/farmbuilding.cpp:1260
 msgid "Harvesting"
-msgstr ""
+msgstr "Colleitando"
 
 #: kenshi/farmbuilding.cpp:1260
 msgid "Working..."
-msgstr ""
+msgstr "Traballando..."
 
 #: kenshi/farmbuilding.cpp:1265
 msgid "Your crops are dead. Clear them out to start again"
-msgstr ""
+msgstr "As túas plantas están mortas. Límpaas para comezar de novo"
 
 #: kenshi/gatecodes.cpp:721
 msgid ""
 "Wall termites! - Your base became inaccessible.  You need at "
 "least 1 gate in your walls."
 msgstr ""
+"Termitas da muralla! - A túa base volveuse inaccesíbel.  Precisas polo menos "
+"un portón nas túas murallas."
 
 #: kenshi/getGUIData.cpp:59 kenshi/previewbuilding.cpp:4025
 #: kenshi/previewbuilding.cpp:4029 kenshi/previewbuilding.cpp:4033
 msgid "Type:"
-msgstr ""
+msgstr "Tipo:"
 
 #: kenshi/getGUIData.cpp:65 kenshi/getGUIData.cpp:509
 #: kenshi/getGUIData.cpp:918 kenshi/getGUIData.cpp:995
 #: kenshi/getGUIData.cpp:1098 kenshi/getGUIData.cpp:1516
 msgid "Town:"
-msgstr ""
+msgstr "Vila:"
 
 #: kenshi/getGUIData.cpp:101 kenshi/gui/mainbar.cpp:1952
 msgid "Open to public:"
-msgstr ""
+msgstr "Aberto ao público:"
 
 #: kenshi/getGUIData.cpp:114 kenshi/getGUIData.cpp:123
 msgid "Public"
-msgstr ""
+msgstr "Público"
 
 #: kenshi/getGUIData.cpp:114 kenshi/getGUIData.cpp:123
 #: kenshi/getGUIData.cpp:531
 msgid "Private"
-msgstr ""
+msgstr "Privado"
 
 #: kenshi/getGUIData.cpp:131
 msgid "For sale:"
-msgstr ""
+msgstr "Á venda:"
 
 #. TRANSLATORS: Broken building
 #: kenshi/getGUIData.cpp:157 kenshi/getGUIData.cpp:177
 #: kenshi/getGUIData.cpp:1237 kenshi/mess.cpp:1670
 msgid "Broken"
-msgstr ""
+msgstr "Rota"
 
 #: kenshi/getGUIData.cpp:157 kenshi/getGUIData.cpp:177
 #: kenshi/getGUIData.cpp:1237
 msgid ""
 "This machine has broken down as a result of damage. Send one of "
 "your engineers to repair it."
-msgstr ""
+msgstr "Esa máquina rompeu debido aos danos. Manda un enxeñeiro para reparala."
 
 #: kenshi/getGUIData.cpp:161 kenshi/getGUIData.cpp:181
 #: kenshi/getGUIData.cpp:1241
 msgid "Under construction"
-msgstr ""
+msgstr "En construción"
 
 #: kenshi/getGUIData.cpp:161 kenshi/getGUIData.cpp:181
 #: kenshi/getGUIData.cpp:1241
 msgid "This machine is currently under construction."
-msgstr ""
+msgstr "Esta máquina aínda está en construción."
 
 #: kenshi/getGUIData.cpp:166
 msgid "Building is in good condition."
-msgstr ""
+msgstr "A construción está en boas condicións."
 
 #. TRANSLATORS: Reloading weapon
 #: kenshi/getGUIData.cpp:188 kenshi/rangedCombat.cpp:2626
 msgid "Reloading..."
-msgstr ""
+msgstr "Recarregando..."
 
 #: kenshi/getGUIData.cpp:188
 msgid "Turret is currently reloading."
-msgstr ""
+msgstr "A torreta está recarregando."
 
 #. TRANSLATORS: Unused building
 #: kenshi/getGUIData.cpp:193
 msgid "Unused"
-msgstr ""
+msgstr "Sen uso"
 
 #: kenshi/getGUIData.cpp:193
 msgid "Nobody is manning this turret."
-msgstr ""
+msgstr "Ninguén está manexando esta torreta."
 
 #. TRANSLATORS: Tracking target
 #: kenshi/getGUIData.cpp:198
 msgid "Tracking"
-msgstr ""
+msgstr "Rastrexando"
 
 #: kenshi/getGUIData.cpp:198
 msgid "Gunner is tracking a target, about to take a shot."
 msgstr ""
+"O artilleiro está trastrexando un obxectivo e está a piques de disparar."
 
 #. TRANSLATORS: Ready state
 #: kenshi/getGUIData.cpp:205
 msgid "Ready"
-msgstr ""
+msgstr "Preparada"
 
 #: kenshi/getGUIData.cpp:205
 msgid "Turret is ready to fire."
-msgstr ""
+msgstr "A torreta está lista para disparar."
 
 #: kenshi/getGUIData.cpp:241
 msgid "Condition"
-msgstr ""
+msgstr "Condición"
 
 #: kenshi/getGUIData.cpp:241
 msgid "Building Condition"
-msgstr ""
+msgstr "Condición da construción"
 
 #: kenshi/getGUIData.cpp:249
 msgid "The building is damaged."
-msgstr ""
+msgstr "A construción ten danos."
 
 #: kenshi/getGUIData.cpp:253
 msgid "The building is in good condition."
-msgstr ""
+msgstr "A construción está en boas condicións."
 
 #: kenshi/getGUIData.cpp:258
 msgid ""
 "The building is under construction and at {1,num}% completion."
-msgstr ""
+msgstr "A construción está completada nun {1,num}%."
 
 #. TRANSLATORS: {1} number of Building Materials
 #: kenshi/getGUIData.cpp:274
@@ -4402,288 +4423,305 @@ msgid ""
 "{1} more 'Building Materials' will be needed to complete this "
 "construction."
 msgstr ""
+"Precísase {1} 'Materiais de Construción' adicionais para completar esta "
+"construción."
 
 #: kenshi/getGUIData.cpp:278
 msgid "All necessary materials are ready."
-msgstr ""
+msgstr "Todos os materiais necesarios están listos."
 
 #: kenshi/getGUIData.cpp:298 kenshi/getGUIData.cpp:324
 #: kenshi/getGUIData.cpp:1043
 msgid "Upgrade"
-msgstr ""
+msgstr "Mellorar"
 
 #: kenshi/getGUIData.cpp:302
 msgid "Upgrades To:"
-msgstr ""
+msgstr "Mellora a:"
 
 #: kenshi/getGUIData.cpp:317 kenshi/getGUIData.cpp:819
 #: kenshi/getGUIData.cpp:824 kenshi/getGUIData.cpp:831
 #: kenshi/getGUIData.cpp:837 kenshi/getGUIData.cpp:864
 msgid "Power"
-msgstr ""
+msgstr "Enerxía"
 
 #: kenshi/getGUIData.cpp:331 kenshi/getGUIData.cpp:341
 msgid "Downgrade"
-msgstr ""
+msgstr "Rebaixar"
 
 #: kenshi/getGUIData.cpp:335
 msgid "Downgrade To:"
-msgstr ""
+msgstr "Rebaixa a:"
 
 #: kenshi/getGUIData.cpp:354 kenshi/getGUIData.cpp:358
 msgid "PAUSE CONSTRUCTION"
-msgstr ""
+msgstr "PAUSAR CONSTRUCIÓN"
 
 #: kenshi/getGUIData.cpp:356
 msgid "[PAUSED]"
-msgstr ""
+msgstr "[EN PAUSA]"
 
 #: kenshi/getGUIData.cpp:381 kenshi/getGUIData.cpp:386
 msgid "Door Condition"
-msgstr ""
+msgstr "Condición da porta"
 
 #: kenshi/getGUIData.cpp:382
 msgid "The door is damaged."
-msgstr ""
+msgstr "A porta ten danos."
 
 #: kenshi/getGUIData.cpp:387
 msgid "The door is in good condition."
-msgstr ""
+msgstr "A porta está en boas condicións."
 
 #: kenshi/getGUIData.cpp:403
 msgid "The door is broken"
-msgstr ""
+msgstr "A porta está rota"
 
 #: kenshi/getGUIData.cpp:407
 msgid "The door is open"
-msgstr ""
+msgstr "A porta está aberta"
 
 #: kenshi/getGUIData.cpp:411 kenshi/getGUIData.cpp:415
 msgid "The door is closed"
-msgstr ""
+msgstr "A porta está pechada"
 
 #: kenshi/getGUIData.cpp:420 kenshi/getGUIData.cpp:424
 msgid "Open/Close:"
-msgstr ""
+msgstr "Abrir/pechar:"
 
 #: kenshi/getGUIData.cpp:429
 msgid "It will no longer close and needs to be repaired."
-msgstr ""
+msgstr "Non pechará máis, precisa ser reparada."
 
 #: kenshi/getGUIData.cpp:442 kenshi/getGUIData.cpp:544
 msgid "Locked"
-msgstr ""
+msgstr "Fechada"
 
 #: kenshi/getGUIData.cpp:446 kenshi/getGUIData.cpp:548
 #: kenshi/mess.cpp:1675
 msgid "Unlocked"
-msgstr ""
+msgstr "Desfechada"
 
 #: kenshi/getGUIData.cpp:449 kenshi/mapscreen.cpp:633
 #: kenshi/mess.cpp:1680 kenshi/mess.cpp:1695
 msgid "lvl {1,num}"
-msgstr ""
+msgstr "nv {1,num}"
 
 #: kenshi/getGUIData.cpp:453 kenshi/getGUIData.cpp:457
 msgid "Security:"
-msgstr ""
+msgstr "Seguridade:"
 
 #: kenshi/getGUIData.cpp:462
 msgid "The door is locked and will keep out intruders."
-msgstr ""
+msgstr "A porta está fechada e manterá os intrusos fóra."
 
 #: kenshi/getGUIData.cpp:466
 msgid "The door is unlocked."
-msgstr ""
+msgstr "A porta está desfechada."
 
 #: kenshi/getGUIData.cpp:514 kenshi/getGUIData.cpp:1306
 msgid "Empty"
-msgstr ""
+msgstr "Baleiro"
 
 #: kenshi/getGUIData.cpp:519
 msgid "Training:"
-msgstr ""
+msgstr "Adestrando:"
 
 #: kenshi/getGUIData.cpp:531 kenshi/getGUIData.cpp:533
 #: kenshi/getGUIData.cpp:1004
 msgid "Cost to use:"
-msgstr ""
+msgstr "Custo para usar:"
 
 #: kenshi/getGUIData.cpp:533 kenshi/getGUIData.cpp:1004
 msgid "Pay c.{1,num}"
-msgstr ""
+msgstr "Pagar c.{1,num}"
 
 #: kenshi/getGUIData.cpp:551
 msgid "Lock state:"
-msgstr ""
+msgstr "Estado da fechadura:"
 
 #: kenshi/getGUIData.cpp:558 kenshi/getGUIData.cpp:562
 msgid "Lock complexity:"
-msgstr ""
+msgstr "Complexidade da fechadura:"
 
 #: kenshi/getGUIData.cpp:558
 msgid "Level {1,num}"
-msgstr ""
+msgstr "Nivel {1,num}"
 
 #: kenshi/getGUIData.cpp:593
 msgid "Healing bonus:"
-msgstr ""
+msgstr "Bonus de cura:"
 
 #: kenshi/getGUIData.cpp:593
 msgid "x{1,num}"
-msgstr ""
+msgstr "x{1,num}"
 
 #: kenshi/getGUIData.cpp:601
 msgid "Max Skill Level:"
-msgstr ""
+msgstr "Nivel de habilidade máximo:"
 
 #: kenshi/getGUIData.cpp:601
 msgid ""
 "This is the maximum skill a person can train up to using this "
 "equipment. For anyone higher it is a waste of time."
 msgstr ""
+"Este é o máximo nivel de habilidade até o que pode adestrar unha persoa "
+"usando este equipamento. A partir de aí é unha perda de tempo."
 
 #: kenshi/getGUIData.cpp:615 kenshi/getGUIData.cpp:1181
 #: kenshi/getGUIData.cpp:1574
 msgid "Max possible efficiency:"
-msgstr ""
+msgstr "Máxima eficiencia posíbel:"
 
 #: kenshi/getGUIData.cpp:676 kenshi/getGUIData.cpp:680
 msgid "Num workers:"
-msgstr ""
+msgstr "Núm. traballadores:"
 
 #: kenshi/getGUIData.cpp:688
 msgid "Max efficiency:"
-msgstr ""
+msgstr "Eficiencia máxima:"
 
 #: kenshi/getGUIData.cpp:705
 msgid "This machine is fully automatic."
-msgstr ""
+msgstr "Esta máquina é totalmente automática."
 
 #: kenshi/getGUIData.cpp:714
 msgid "The machine is fully staffed."
-msgstr ""
+msgstr "Esta máquina ten todo o persoal preciso."
 
 #: kenshi/getGUIData.cpp:718
 msgid "The machine is under-staffed."
-msgstr ""
+msgstr "A esta máquina fáltalle persoal."
 
 #: kenshi/getGUIData.cpp:763
 msgid "Power In"
-msgstr ""
+msgstr "Entrada de enerxía"
 
 #: kenshi/getGUIData.cpp:764
 msgid ""
 "If the battery is charging this is the amount of power it is "
 "consuming."
 msgstr ""
+"Se a batería está carregando, esta é a cantidade de enerxía que consume."
 
 #: kenshi/getGUIData.cpp:767
 msgid "Power Out"
-msgstr ""
+msgstr "Saída de enerxía"
 
 #: kenshi/getGUIData.cpp:768
 msgid ""
 "The power output when the battery is in use and being drained."
-msgstr ""
+msgstr "A saída de enerxía cando a batería está en uso e sendo drenada."
 
 #: kenshi/getGUIData.cpp:773
 msgid "Power Stored"
-msgstr ""
+msgstr "Enerxía almacenada"
 
 #: kenshi/getGUIData.cpp:774
 msgid ""
 "The amount of power currently stored in the battery for use in "
 "emergencies."
 msgstr ""
+"A cantidade de enerxía acumulada actualmente na batería para o seu uso "
+"durante emerxencias."
 
 #: kenshi/getGUIData.cpp:784 kenshi/getGUIData.cpp:1381
 msgid "Power Output"
-msgstr ""
+msgstr "Produción de enerxía"
 
 #: kenshi/getGUIData.cpp:788 kenshi/getGUIData.cpp:1385
 msgid "Power is switched off."
-msgstr ""
+msgstr "Enerxía desconectada."
 
 #: kenshi/getGUIData.cpp:792
 msgid "Power output is running at maximum."
-msgstr ""
+msgstr "A produción de enerxía está ao máximo."
 
 #: kenshi/getGUIData.cpp:796
 msgid "Currently out of fuel, so power output is zero"
-msgstr ""
+msgstr "Actualmente sen combustíbel, polo que a produción de enerxía é cero"
 
 #: kenshi/getGUIData.cpp:800 kenshi/getGUIData.cpp:1397
 msgid ""
 "Power output is running at reduced efficiency due to damage."
-msgstr ""
+msgstr "Produción de enerxía reducida por danos."
 
 #: kenshi/getGUIData.cpp:804
 msgid "Fuel Consumption"
-msgstr ""
+msgstr "Consumo de combustíbel"
 
 #: kenshi/getGUIData.cpp:805
 msgid ""
 "Fuel is being burned at {1,num}% speed. It will be used up more "
 "slowly when less power is being used"
 msgstr ""
+"O combustíbel estase queimando a unha velocidade de {1,num}%. O consumo será "
+"máis lento ao usar menos enerxía"
 
 #: kenshi/getGUIData.cpp:819 kenshi/rangedCombat.cpp:2638
 msgid "No Power!"
-msgstr ""
+msgstr "Sen enerxía!"
 
 #: kenshi/getGUIData.cpp:820
 msgid ""
 "No power is getting to this machine. You need to build some "
 "generators, or fix or fuel your existing ones or something."
 msgstr ""
+"Non chega enerxía a esta máquina. Terás que construír algúns xeradores, ou "
+"arranxar ou abastecer de combustíbel os xa existentes, ou algo."
 
 #: kenshi/getGUIData.cpp:824
 msgid "Switched Off"
-msgstr ""
+msgstr "Desconectada"
 
 #: kenshi/getGUIData.cpp:825
 msgid "You have ordered for this machine to remain switched off."
-msgstr ""
+msgstr "Ordenaches que esta máquina se manteña desconectada."
 
 #: kenshi/getGUIData.cpp:831
 msgid "Inactive"
-msgstr ""
+msgstr "Inactiva"
 
 #: kenshi/getGUIData.cpp:832
 msgid ""
 "Nobody is operating this machine at the moment, so it is not "
 "consuming power."
 msgstr ""
+"Ninguén está operando esta máquina neste momento, polo que non está "
+"consumindo enerxía."
 
 #: kenshi/getGUIData.cpp:850
 msgid "Battery"
-msgstr ""
+msgstr "Batería"
 
 #: kenshi/getGUIData.cpp:856
 msgid ""
 "This machine will run off of battery power if the main "
 "generators should run low or break down."
 msgstr ""
+"Esta máquina funcionará usando enerxía de batería se os xeradores principais "
+"fican baixos de potencia ou rompen."
 
 #: kenshi/getGUIData.cpp:860
 msgid ""
 "This machine will NOT run off of battery power if the main "
 "generators should run low or break down."
 msgstr ""
+"Esta máquina NON funcionará usando enerxía de batería se os xeradores "
+"principais fican baixos de potencia ou rompen."
 
 #: kenshi/getGUIData.cpp:870
 msgid "This machine is switched On"
-msgstr ""
+msgstr "Esta máquina está conectada"
 
 #. TRANSLATORS: {1} = internal color value, keep in place
 #: kenshi/getGUIData.cpp:875
 msgid "This machine is switched {1}Off"
-msgstr ""
+msgstr "Esta máquina está {1}desconectada"
 
 #: kenshi/getGUIData.cpp:896
 msgid "This machine is working fine."
-msgstr ""
+msgstr "Esta máquina está funcionando correctamente."
 
 #. TRANSLATORS: {1} and {3} = internal color values, keep in place
 #: kenshi/getGUIData.cpp:901
@@ -4691,66 +4729,70 @@ msgid ""
 "This machine is working fine, but due to low power is only "
 "operating at {1}{2,num}% {3}of its full potential."
 msgstr ""
+"Esta máquina está funcionando ben, mais debido á baixa enerxía está operando "
+"a un {1}{2,num}% {3} do seu potencial."
 
 #: kenshi/getGUIData.cpp:923 kenshi/getGUIData.cpp:927
 #: kenshi/getGUIData.cpp:953 kenshi/getGUIData.cpp:957
 msgid "Crafting:"
-msgstr ""
+msgstr "Fabricando:"
 
 #: kenshi/getGUIData.cpp:927 kenshi/getGUIData.cpp:957
 #: kenshi/gui/inventoryLayout.cpp:1567
 msgid "Nothing Queued"
-msgstr ""
+msgstr "Nada na cola"
 
 #: kenshi/getGUIData.cpp:927 kenshi/getGUIData.cpp:957
 msgid "Nothing has been ordered for crafting."
-msgstr ""
+msgstr "Non hai pedidos de fabricación."
 
 #: kenshi/getGUIData.cpp:967
 msgid "Needs upgrading"
-msgstr ""
+msgstr "Precisa ser mellorado"
 
 #: kenshi/getGUIData.cpp:967
 msgid ""
 "You are trying to craft something that this craft bench cannot "
 "do. It needs upgrading to produce this item."
 msgstr ""
+"Estás tentando fabricar algo que este banco de traballo non pode facer. É "
+"preciso melloralo para producir este obxecto."
 
 #: kenshi/getGUIData.cpp:1043
 msgid "Upgradeable to:"
-msgstr ""
+msgstr "Mellorábel a:"
 
 #: kenshi/getGUIData.cpp:1080
 msgid "Dismantle All:"
-msgstr ""
+msgstr "Desmantelar todo:"
 
 #: kenshi/getGUIData.cpp:1080
 msgid "Dismantle All"
-msgstr ""
+msgstr "Desmantelar todo"
 
 #: kenshi/getGUIData.cpp:1138
 msgid "Iron Quality:"
-msgstr ""
+msgstr "Calidade do ferro:"
 
 #: kenshi/getGUIData.cpp:1142
 msgid "Stone Richness:"
-msgstr ""
+msgstr "Riqueza da pedra:"
 
 #: kenshi/getGUIData.cpp:1146
 msgid "Copper Quality:"
-msgstr ""
+msgstr "Calidade do cobre:"
 
 #: kenshi/getGUIData.cpp:1150
 msgid "Carbon Quality:"
-msgstr ""
+msgstr "Calidade do carbón:"
 
 #: kenshi/getGUIData.cpp:1154
 msgid "Water Available:"
-msgstr ""
+msgstr "Auga dispoñíbel:"
 
 #: kenshi/getGUIData.cpp:1158 kenshi/getGUIData.cpp:1210
 msgid "Ground Fertility:"
-msgstr ""
+msgstr "Fertilidade do solo:"
 
 #. TRANSLATORS: {1} = iron, stone, copper, carbon, or water
 #: kenshi/getGUIData.cpp:1167
@@ -4758,10 +4800,12 @@ msgid ""
 "The richness of natural {1} present in this location. Anything "
 "over 50% is considered good."
 msgstr ""
+"A riqueza de {1} natural está presente no lugar. Calquera cousa por riba de "
+"50% é considerada boa."
 
 #: kenshi/getGUIData.cpp:1190
 msgid "Iron under ground:"
-msgstr ""
+msgstr "Ferro no subsolo:"
 
 #: kenshi/getGUIData.cpp:1194
 msgid "Stone under ground:"
