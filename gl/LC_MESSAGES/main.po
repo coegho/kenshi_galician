@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-08 19:41+0000\n"
+"PO-Revision-Date: 2021-04-10 23:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -4809,110 +4809,118 @@ msgstr "Ferro no subsolo:"
 
 #: kenshi/getGUIData.cpp:1194
 msgid "Stone under ground:"
-msgstr ""
+msgstr "Pedra no subsolo:"
 
 #: kenshi/getGUIData.cpp:1198
 msgid "Copper under ground:"
-msgstr ""
+msgstr "Cobre no subsolo:"
 
 #: kenshi/getGUIData.cpp:1202
 msgid "Carbon under ground:"
-msgstr ""
+msgstr "Carbón no subsolo:"
 
 #: kenshi/getGUIData.cpp:1206
 msgid "Water under ground:"
-msgstr ""
+msgstr "Auga no subsolo:"
 
 #: kenshi/getGUIData.cpp:1245
 msgid "Switched off"
-msgstr ""
+msgstr "Desconectada"
 
 #: kenshi/getGUIData.cpp:1245
 msgid "This machine is switched off."
-msgstr ""
+msgstr "Esta máquina está desconectada."
 
 #: kenshi/getGUIData.cpp:1249 kenshi/getGUIData.cpp:1265
 msgid "No power"
-msgstr ""
+msgstr "Sen enerxía"
 
 #: kenshi/getGUIData.cpp:1253
 msgid "Production queue empty"
-msgstr ""
+msgstr "Cola de produción baleira"
 
 #: kenshi/getGUIData.cpp:1253
 msgid ""
 "No items have been queued up for crafting, so there is nothing "
 "to do."
 msgstr ""
+"Non hai obxectos na cola para fabricar, polo que non hai nada que facer."
 
 #: kenshi/getGUIData.cpp:1257
 msgid "Out of resource"
-msgstr ""
+msgstr "Sen recursos"
 
 #: kenshi/getGUIData.cpp:1257
 msgid ""
 "The machine has run out of raw materials to work with. Find "
 "some more and fill it up."
 msgstr ""
+"Esta máquina ficou sen materia prima para traballar. Atopa máis e abastécea."
 
 #: kenshi/getGUIData.cpp:1261
 msgid ""
 "The machine output is full. Empty out the items and put them in "
 "a storage box or something."
 msgstr ""
+"A saída de produción da máquina está chea. Baleira os obxectos e ponos nunha "
+"caixa de almacenamento ou algo."
 
 #: kenshi/getGUIData.cpp:1265
 msgid ""
 "This machine needs electricity to function. Build a power "
 "generator or windmill."
 msgstr ""
+"Esta máquina precisa de electricidade para funcionar. Constrúe un xerador de "
+"enerxía ou un muíño de vento."
 
 #: kenshi/getGUIData.cpp:1269
 msgid "No workers"
-msgstr ""
+msgstr "Sen traballadores"
 
 #: kenshi/getGUIData.cpp:1269
 msgid ""
 "Nobody is working at this machine at the present moment, so "
 "nothing is getting done."
 msgstr ""
+"Ninguén está traballando nesta máquina agora, polo que non se está facendo "
+"nada."
 
 #: kenshi/getGUIData.cpp:1273
 msgid "Working"
-msgstr ""
+msgstr "Traballando"
 
 #: kenshi/getGUIData.cpp:1284
 msgid "Out of fuel"
-msgstr ""
+msgstr "Sen combustíbel"
 
 #: kenshi/getGUIData.cpp:1284
 msgid ""
 "It has ran out of fuel. Find some more fuel and fill it up."
-msgstr ""
+msgstr "Ficou sen combustíbel. Atopa máis e enche o tanque."
 
 #: kenshi/getGUIData.cpp:1302
 msgid "Fully Charged"
-msgstr ""
+msgstr "Totalmente carregada"
 
 #: kenshi/getGUIData.cpp:1302
 msgid "This battery is fully charged."
-msgstr ""
+msgstr "Esta batería está totalmente carregada."
 
 #: kenshi/getGUIData.cpp:1306
 msgid "This battery is flat, it needs to be charged up."
-msgstr ""
+msgstr "Esta batería está seca e precisa ser carregada."
 
 #: kenshi/getGUIData.cpp:1310
 msgid "Charging"
-msgstr ""
+msgstr "Carregando"
 
 #: kenshi/getGUIData.cpp:1310
 msgid "This battery is being charged."
-msgstr ""
+msgstr "Esta batería está sendo carregada."
 
 #: kenshi/getGUIData.cpp:1314
 msgid "Draining"
-msgstr ""
+msgstr "Drenando"
 
 #: kenshi/getGUIData.cpp:1314
 msgid "This battery is in use and being drained of its power."
