@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-10 23:41+0000\n"
+"PO-Revision-Date: 2021-04-12 19:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -4924,125 +4924,127 @@ msgstr "Drenando"
 
 #: kenshi/getGUIData.cpp:1314
 msgid "This battery is in use and being drained of its power."
-msgstr ""
+msgstr "Esta batería está en uso e a enerxía está sendo consumida."
 
 #: kenshi/getGUIData.cpp:1318
 msgid "Stored"
-msgstr ""
+msgstr "Almacenada"
 
 #: kenshi/getGUIData.cpp:1318
 msgid "This battery is not in use."
-msgstr ""
+msgstr "Esta batería non está en uso."
 
 #: kenshi/getGUIData.cpp:1336
 msgid "No Wind"
-msgstr ""
+msgstr "Sen vento"
 
 #: kenshi/getGUIData.cpp:1336
 msgid "There is currently not enough wind to drive the machine."
-msgstr ""
+msgstr "Vento insuficiente para mover a máquina neste momento."
 
 #: kenshi/getGUIData.cpp:1368
 msgid "Wind"
-msgstr ""
+msgstr "Vento"
 
 #: kenshi/getGUIData.cpp:1370
 msgid "The current amount of wind."
-msgstr ""
+msgstr "A cantidade de vento."
 
 #: kenshi/getGUIData.cpp:1374
 msgid ""
 "Operating wind speed is between {1,num=fix,p=2} mph and {2,"
 "num=fix,p=2} mph."
 msgstr ""
+"A velocidade eólica operacional está entre {1,num=fix,p=2} mph e "
+"{2,num=fix,p=2} mph."
 
 #: kenshi/getGUIData.cpp:1389
 msgid "Power output is at maximum."
-msgstr ""
+msgstr "Produción de enerxía está no máximo."
 
 #: kenshi/getGUIData.cpp:1393
 msgid "Currently not enough wind to generate any power"
-msgstr ""
+msgstr "Neste momento, o vento é insuficiente para xerar enerxía"
 
 #: kenshi/getGUIData.cpp:1407
 msgid "Wind Speed"
-msgstr ""
+msgstr "Velocidade do vento"
 
 #: kenshi/getGUIData.cpp:1407 kenshi/mapscreen.cpp:2944
 msgid "{1,num=fix,p=1} mph"
-msgstr ""
+msgstr "{1,num=fix,p=1} mph"
 
 #: kenshi/getGUIData.cpp:1407
 msgid "The current wind speed"
-msgstr ""
+msgstr "A velocidade actual do vento"
 
 #: kenshi/getGUIData.cpp:1425
 msgid "Collecting"
-msgstr ""
+msgstr "Recollendo"
 
 #: kenshi/getGUIData.cpp:1425
 msgid "Rain is being collected."
-msgstr ""
+msgstr "A choiva está a ser recollida."
 
 #: kenshi/getGUIData.cpp:1426
 msgid "Not Raining"
-msgstr ""
+msgstr "Non está chovendo"
 
 #: kenshi/getGUIData.cpp:1426
 msgid "It is not raining. Nothing to collect."
-msgstr ""
+msgstr "Non está chovendo. Non hai nada para recoller."
 
 #: kenshi/getGUIData.cpp:1432
 msgid "Rain strength:"
-msgstr ""
+msgstr "Forza da choiva:"
 
 #: kenshi/getGUIData.cpp:1456
 msgid "Total Metals:"
-msgstr ""
+msgstr "Total de metais:"
 
 #: kenshi/getGUIData.cpp:1461
 msgid "ON"
-msgstr ""
+msgstr "ON"
 
 #: kenshi/getGUIData.cpp:1465
 msgid "OFF"
-msgstr ""
+msgstr "OFF"
 
 #: kenshi/getGUIData.cpp:1468
 msgid "Active:"
-msgstr ""
+msgstr "Activo:"
 
 #: kenshi/getGUIData.cpp:1471
 msgid "Warning:"
-msgstr ""
+msgstr "Aviso:"
 
 #: kenshi/getGUIData.cpp:1471
 msgid "Switching on will incinerate the entire inventory!"
-msgstr ""
+msgstr "Se encendes isto incinerarás todo o inventario!"
 
 #: kenshi/getGUIData.cpp:1488
 msgid "Underground water:"
-msgstr ""
+msgstr "Auga subterránea:"
 
 #. TRANSLATORS: m = meters
 #: kenshi/getGUIData.cpp:1529 kenshi/getGUIData.cpp:1644
 #: kenshi/getGUIData.cpp:1666 kenshi/getGUIData.cpp:1683
 #: kenshi/mapscreen.cpp:2906 kenshi/mapscreen.cpp:2913
 msgid "{1,num} m"
-msgstr ""
+msgstr "{1,num} m"
 
 #. TRANSLATORS: height is distance above ground, altitude
 #: kenshi/getGUIData.cpp:1531
 msgid "Height:"
-msgstr ""
+msgstr "Altura:"
 
 #: kenshi/getGUIData.cpp:1531
 msgid "The turrets height above the last target we aimed at."
-msgstr ""
+msgstr "A altura da torreta por riba do último albo ao que apuntamos."
 
 #: kenshi/getGUIData.cpp:1532
 msgid "Height bonus:"
-msgstr ""
+msgstr "Bonus de altura:"
 
 #. TRANSLATORS: {1} = altitude value (e.g. 12 m)
 #: kenshi/getGUIData.cpp:1538
@@ -5050,6 +5052,8 @@ msgid ""
 "The additional penalty to range, speed and power that resulted "
 "from having a height difference of {1} below the last target."
 msgstr ""
+"A penalización adicional de alcance, velocidade e potencia que resultou "
+"nunha diferencia de altura de {1} por debaixo do último albo."
 
 #. TRANSLATORS: {1} = altitude value (e.g. 12 m)
 #: kenshi/getGUIData.cpp:1543
@@ -5057,159 +5061,164 @@ msgid ""
 "The additional bonus to range, speed and power that resulted "
 "from having a height difference of {1} above the last target."
 msgstr ""
+"A bonificación adicional de alcance, velocidade e potencia que resultou "
+"nunha diferencia de altura de {1} por riba do último albo."
 
 #: kenshi/getGUIData.cpp:1643
 msgid "Default damage:"
-msgstr ""
+msgstr "Dano por defecto:"
 
 #: kenshi/getGUIData.cpp:1644
 msgid "Default range:"
-msgstr ""
+msgstr "Alcance por defecto:"
 
 #: kenshi/getGUIData.cpp:1645
 msgid "Default aim speed:"
-msgstr ""
+msgstr "Velocidade de mira total:"
 
 #: kenshi/getGUIData.cpp:1649 kenshi/getGUIData.cpp:1650
 #: kenshi/getGUIData.cpp:1651
 msgid "Power supply:"
-msgstr ""
+msgstr "Suministro de enerxía:"
 
 #: kenshi/getGUIData.cpp:1655 kenshi/getGUIData.cpp:1656
 #: kenshi/getGUIData.cpp:1657
 msgid "Condition:"
-msgstr ""
+msgstr "Condición:"
 
 #. TRANSLATORS: a bonus granted to a weapon as a result of being on top of a wall.  the wall gives an advantage.
 #: kenshi/getGUIData.cpp:1660 kenshi/getGUIData.cpp:1664
 #: kenshi/getGUIData.cpp:1668
 msgid "Wall bonus:"
-msgstr ""
+msgstr "Bonus do muro:"
 
 #: kenshi/getGUIData.cpp:1661 kenshi/getGUIData.cpp:1665
 msgid "Height advantage:"
-msgstr ""
+msgstr "Vantaxe de altura:"
 
 #: kenshi/getGUIData.cpp:1662
 msgid "Total damage:"
-msgstr ""
+msgstr "Dano total:"
 
 #: kenshi/getGUIData.cpp:1666
 msgid "Total range:"
-msgstr ""
+msgstr "Alcance total:"
 
 #: kenshi/getGUIData.cpp:1669 kenshi/stats.cpp:2491
 msgid "Total speed:"
-msgstr ""
+msgstr "Velocidade total:"
 
 #: kenshi/getGUIData.cpp:1671
 msgid "Base Accuracy Deviation:"
-msgstr ""
+msgstr "Desviación na precisión de base:"
 
 #: kenshi/getGUIData.cpp:1672 kenshi/getGUIData.cpp:1708
 msgid "User Skill:"
-msgstr ""
+msgstr "Habilidade do usuario:"
 
 #: kenshi/getGUIData.cpp:1674
 msgid "User Accuracy Deviation:"
-msgstr ""
+msgstr "Desviación na precisión do usuario:"
 
 #: kenshi/getGUIData.cpp:1675
 msgid ""
 "The amount of accuracy error, in degrees. Higher numbers are "
 "poor, 0 is perfect accuracy."
 msgstr ""
+"A cantidade en graos de erro na precisión. Os números altos son maus, 0 é "
+"precisión perfecta."
 
 #: kenshi/getGUIData.cpp:1681
 msgid "Deviation:"
-msgstr ""
+msgstr "Desviación:"
 
 #: kenshi/getGUIData.cpp:1683 kenshi/mess.cpp:990
 #: kenshi/statswindow.cpp:711
 msgid "Range:"
-msgstr ""
+msgstr "Alcance:"
 
 #. TRANSLATORS: the speed that a gun can turn, how fast it can aim
 #: kenshi/getGUIData.cpp:1685
 msgid "Aim speed:"
-msgstr ""
+msgstr "Velocidade de mira:"
 
 #. TRANSLATORS: multiply symbol for maths
 #. TRANSLATORS: x is multiply symbol
 #: kenshi/getGUIData.cpp:1687 kenshi/mess.cpp:998
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: kenshi/getGUIData.cpp:1703
 msgid "Loaded"
-msgstr ""
+msgstr "Carregada"
 
 #: kenshi/getGUIData.cpp:1707
 msgid "Base Reload Speed:"
-msgstr ""
+msgstr "Velocidade de recarga de base:"
 
 #: kenshi/getGUIData.cpp:1707
 msgid "{1,num=fix,p=2}-{2,num=fix,p=2} seconds"
-msgstr ""
+msgstr "{1,num=fix,p=2}-{2,num=fix,p=2} segundos"
 
 #: kenshi/getGUIData.cpp:1714
 msgid "User Reload Speed:"
-msgstr ""
+msgstr "Velocidade de recarga do usuario:"
 
 #: kenshi/getGUIData.cpp:1714
 msgid "{1,num=fix,p=2} second"
 msgid_plural "{1,num=fix,p=2} seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{1n,num=fix,p=2} segundo"
+msgstr[1] "{1n,num=fix,p=2} segundos"
 
 #: kenshi/grass.cpp:409
 msgid "Don't put grass and meshes in the same foliage layer!"
-msgstr ""
+msgstr "Non poñas herba e mallas na mesma capa de follaxe!"
 
 #: kenshi/gui/inventoryGUI.cpp:805
 msgid "STORAGE"
-msgstr ""
+msgstr "ALMACENAMENTO"
 
 #: kenshi/gui/inventoryGUI.cpp:1570
 msgid "{1,num} location added to the map."
 msgid_plural "{1,num} locations added to the map."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{1,num} localización engadida ao mapa."
+msgstr[1] "{1,num} localizacións engadidas ao mapa."
 
 #: kenshi/gui/inventoryGUI.cpp:1575
 msgid ""
 "You already know all these locations, no new information can be "
 "learned."
 msgstr ""
+"Xa coñeces todas esas localizacións, non hai información nova para aprender."
 
 #: kenshi/gui/inventoryGUI.cpp:2317
 msgid "Stealing chance:"
-msgstr ""
+msgstr "Probabilidade de roubar:"
 
 #: kenshi/gui/inventoryGUI.cpp:2338
 msgid "Illegal goods?"
-msgstr ""
+msgstr "Mercadorías ilegais?"
 
 #: kenshi/gui/inventoryGUI.cpp:2339
 #: kenshi/gui/inventoryGUI.cpp:2371
 msgid "No problem!"
-msgstr ""
+msgstr "Sen problema!"
 
 #: kenshi/gui/inventoryGUI.cpp:2342
 msgid "ILLEGAL GOODS!"
-msgstr ""
+msgstr "MERCADORÍAS ILEGAIS!"
 
 #: kenshi/gui/inventoryGUI.cpp:2343
 msgid "NO!"
-msgstr ""
+msgstr "NON!"
 
 #: kenshi/gui/inventoryGUI.cpp:2370
 msgid "Stolen goods?"
-msgstr ""
+msgstr "Mercadorías roubadas?"
 
 #: kenshi/gui/inventoryGUI.cpp:2375
 msgid "Fencing chance:"
-msgstr ""
+msgstr "Probabilidade de contrabandear:"
 
 #: kenshi/gui/inventoryGUI.cpp:3260
 msgid ""
@@ -5217,46 +5226,48 @@ msgid ""
 "item.\n"
 "Fence it anyway?"
 msgstr ""
+"Tes unha probabilidade do {1}% de ser cazado vendendo este obxecto roubado.\n"
+"Contrabandear igualmente?"
 
 #: kenshi/gui/inventoryGUI.cpp:3338
 msgid "Out of trading range."
-msgstr ""
+msgstr "Fóra do alcance de negocio."
 
 #: kenshi/gui/inventoryGUI.cpp:3341 kenshi/inventory.cpp:445
 msgid "No room for that item."
-msgstr ""
+msgstr "Sen espazo para ese obxecto."
 
 #: kenshi/gui/inventoryGUI.cpp:3344
 msgid "You can't afford that."
-msgstr ""
+msgstr "Non podes permitirte iso."
 
 #: kenshi/gui/inventoryGUI.cpp:3347
 msgid "The shopkeeper can't afford that."
-msgstr ""
+msgstr "O loxista non pode permitirse o gasto."
 
 #: kenshi/gui/inventoryGUI.cpp:3350
 msgid "That's not for sale."
-msgstr ""
+msgstr "Iso non está á venda."
 
 #: kenshi/gui/inventoryGUI.cpp:3353
 msgid "Got caught stealing."
-msgstr ""
+msgstr "Cacháronte roubando."
 
 #: kenshi/gui/inventoryGUI.cpp:3356
 msgid "Got caught selling stolen item."
-msgstr ""
+msgstr "Cacháronte vendendo mercadoría roubada."
 
 #: kenshi/gui/inventoryGUI.cpp:3359
 msgid "Target is conscious."
-msgstr ""
+msgstr "O albo está inconsciente."
 
 #: kenshi/gui/inventoryGUI.cpp:3362
 msgid "Can't wear that item."
-msgstr ""
+msgstr "Non podes equipar ese obxecto."
 
 #: kenshi/gui/inventoryGUI.cpp:3365
 msgid "Item is locked in place."
-msgstr ""
+msgstr "O obxecto está amarrado no sitio."
 
 #: kenshi/gui/inventoryGUI.cpp:3368
 msgid "Invalid container type."
