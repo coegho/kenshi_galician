@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: 2021-04-12 19:41+0000\n"
+"PO-Revision-Date: 2021-04-13 20:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
@@ -18220,7 +18220,7 @@ msgstr ""
 #. Name: Head
 #: 32-gamedata.quack
 msgid "Head"
-msgstr ""
+msgstr "Cabeza"
 
 #. Type: LOCATIONAL_DAMAGE
 #. Name: Left Arm
