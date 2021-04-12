@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-12 19:41+0000\n"
+"PO-Revision-Date: 2021-04-13 20:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -5271,71 +5271,71 @@ msgstr "O obxecto está amarrado no sitio."
 
 #: kenshi/gui/inventoryGUI.cpp:3368
 msgid "Invalid container type."
-msgstr ""
+msgstr "Tipo de recipiente inválido."
 
 #: kenshi/gui/inventoryGUI.cpp:3371
 msgid "Smugglers only buy illegal goods."
-msgstr ""
+msgstr "Contrabandistas só compran mercadorías ilegais."
 
 #: kenshi/gui/inventoryGUI.cpp:3374
 msgid "Attempted smuggling!"
-msgstr ""
+msgstr "Tentativa de contrabando!"
 
 #: kenshi/gui/inventoryGUI.cpp:3377
 msgid "What is that a uniform? I don't want that!"
-msgstr ""
+msgstr "Que uniforme é ese? Non quero iso!"
 
 #: kenshi/gui/inventoryGUI.cpp:3380
 msgid "Container cannot be placed here unless it is empty."
-msgstr ""
+msgstr "Non é posíbel posicionar un recipiente aquí, a menos que estea baleiro."
 
 #: kenshi/gui/inventoryLayout.cpp:141
 #: kenshi/gui/inventoryLayout.cpp:348
 msgid "Backpack"
-msgstr ""
+msgstr "Mochila"
 
 #: kenshi/gui/inventoryLayout.cpp:144
 msgid "Weapon I"
-msgstr ""
+msgstr "Arma I"
 
 #: kenshi/gui/inventoryLayout.cpp:147
 msgid "Weapon II"
-msgstr ""
+msgstr "Arma II"
 
 #: kenshi/gui/inventoryLayout.cpp:150
 msgid "Shirt"
-msgstr ""
+msgstr "Camisa"
 
 #: kenshi/gui/inventoryLayout.cpp:153
 msgid "Head"
-msgstr ""
+msgstr "Cabeza"
 
 #. TRANSLATORS: trousers
 #: kenshi/gui/inventoryLayout.cpp:157
 msgid "Pants"
-msgstr ""
+msgstr "Calzas"
 
 #: kenshi/gui/inventoryLayout.cpp:160
 msgid "Armor"
-msgstr ""
+msgstr "Armadura"
 
 #: kenshi/gui/inventoryLayout.cpp:163
 msgid "Boots"
-msgstr ""
+msgstr "Botas"
 
 #: kenshi/gui/inventoryLayout.cpp:166
 msgid "Belt"
-msgstr ""
+msgstr "Cinto"
 
 #: kenshi/gui/inventoryLayout.cpp:169
 #: kenshi/gui/inventoryLayout.cpp:351 kenshi/mess.cpp:3052
 msgid "Inventory"
-msgstr ""
+msgstr "Inventario"
 
 #: kenshi/gui/inventoryLayout.cpp:172
 #: kenshi/gui/inventoryLayout.cpp:354
 msgid "Open bag"
-msgstr ""
+msgstr "Abrir mochila"
 
 #: kenshi/gui/inventoryLayout.cpp:175
 #: kenshi/gui/inventoryLayout.cpp:238
@@ -5343,51 +5343,51 @@ msgstr ""
 #: kenshi/gui/inventoryLayout.cpp:538
 #: kenshi/gui/inventoryLayout.cpp:619
 msgid "Arrange"
-msgstr ""
+msgstr "Organizar"
 
 #: kenshi/gui/inventoryLayout.cpp:178
 msgid "Limbs"
-msgstr ""
+msgstr "Membros"
 
 #: kenshi/gui/inventoryLayout.cpp:519
 msgid "Max Capacity:"
-msgstr ""
+msgstr "Capacidade máxima:"
 
 #: kenshi/gui/inventoryLayout.cpp:523
 msgid "Full"
-msgstr ""
+msgstr "Cheo"
 
 #: kenshi/gui/inventoryLayout.cpp:541
 msgid "Show research"
-msgstr ""
+msgstr "Mostrar pesquisa"
 
 #: kenshi/gui/inventoryLayout.cpp:710
 #: kenshi/gui/inventoryLayout.cpp:1579
 msgid "Input"
 msgid_plural "Inputs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Entrada"
+msgstr[1] "Entradas"
 
 #: kenshi/gui/inventoryLayout.cpp:721
 #: kenshi/gui/inventoryLayout.cpp:1611
 msgid "Output"
-msgstr ""
+msgstr "Saída"
 
 #: kenshi/gui/inventoryLayout.cpp:1362
 msgid "Queue..."
-msgstr ""
+msgstr "Cola..."
 
 #: kenshi/gui/inventoryLayout.cpp:1646
 msgid "Arms"
-msgstr ""
+msgstr "Brazos"
 
 #: kenshi/gui/inventoryLayout.cpp:1652
 msgid "Legs"
-msgstr ""
+msgstr "Pernas"
 
 #: kenshi/gui/mainbar.cpp:66
 msgid "Money"
-msgstr ""
+msgstr "Cartos"
 
 #: kenshi/gui/mainbar.cpp:97
 msgid ""
@@ -5397,116 +5397,124 @@ msgid ""
 "PROSPECT button. You will also need building materials to "
 "finish construction."
 msgstr ""
+"Abre o menú CONSTRUCIÓN.  Aquí podes posicionar as construcións e comezar o "
+"teu propio posto avanzado en calquera lugar do mundo, mais escolle unha área "
+"segura e verifica a dispoñibilidade de recursos usando o botón PROSPECTAR. "
+"Tamén precisarás materiais de construción para rematala."
 
 #. TRANSLATORS: Abbreviation of Inventory
 #: kenshi/gui/mainbar.cpp:202
 msgid "INV"
-msgstr ""
+msgstr "INV"
 
 #: kenshi/gui/mainbar.cpp:204
 msgid "Open character inventory"
-msgstr ""
+msgstr "Abrir inventario de personaxe"
 
 #. TRANSLATORS: Abbreviation of Stats
 #: kenshi/gui/mainbar.cpp:208
 msgid "STA"
-msgstr ""
+msgstr "HAB"
 
 #: kenshi/gui/mainbar.cpp:210
 msgid "Open character status window"
-msgstr ""
+msgstr "Abrir xanela de condición de personaxe"
 
 #. TRANSLATORS: Abbreviation of Map
 #: kenshi/gui/mainbar.cpp:214
 msgid "MAP"
-msgstr ""
+msgstr "MAPA"
 
 #: kenshi/gui/mainbar.cpp:216
 msgid "Open world map"
-msgstr ""
+msgstr "Abrir mapa do mundo"
 
 #. TRANSLATORS: Abbreviation of Technology
 #: kenshi/gui/mainbar.cpp:220
 msgid "TEC"
-msgstr ""
+msgstr "TEC"
 
 #: kenshi/gui/mainbar.cpp:222
 msgid "Open research window"
-msgstr ""
+msgstr "Abrir xanela de pesquisa"
 
 #. TRANSLATORS: Abbreviation of Squad
 #: kenshi/gui/mainbar.cpp:226
 msgid "SQD"
-msgstr ""
+msgstr "GRP"
 
 #: kenshi/gui/mainbar.cpp:228
 msgid "Open squad management window"
-msgstr ""
+msgstr "Abrir xanela de xestión do grupo"
 
 #. TRANSLATORS: Abbreviation of Help
 #: kenshi/gui/mainbar.cpp:232
 msgid "HLP"
-msgstr ""
+msgstr "AXU"
 
 #: kenshi/gui/mainbar.cpp:234
 msgid "Open help window"
-msgstr ""
+msgstr "Abrir xanela de axuda"
 
 #: kenshi/gui/mainbar.cpp:244 kenshi/gui/mainbar.cpp:492
 #: kenshi/previewbuilding.cpp:3723 kenshi/previewbuilding.cpp:4167
 #: kenshi/previewbuilding.cpp:4188 kenshi/previewbuilding.cpp:4199
 msgid "Floor {1,num}"
-msgstr ""
+msgstr "Andar {1,num}"
 
 #: kenshi/gui/mainbar.cpp:246 kenshi/previewbuilding.cpp:3725
 msgid ""
 "Change the selected floor, use to move to a certain floor of a "
 "building, 0 is ground floor (also: Page Down key)"
 msgstr ""
+"Troca o andar seleccionado, úsao para ir a un andar específico dunha "
+"construción, 0 é a planta baixa (tamén: tecla Av. Páx.)"
 
 #: kenshi/gui/mainbar.cpp:247 kenshi/previewbuilding.cpp:3726
 msgid ""
 "Change the selected floor, use to move to a certain floor of a "
 "building, 0 is ground floor (also: Page Up key)"
 msgstr ""
+"Troca o andar seleccionado, úsao para ir a un andar específico dunha "
+"construción, 0 é a planta baixa (tamén: tecla Re. Páx.)"
 
 #: kenshi/gui/mainbar.cpp:255
 msgid "PAUSED"
-msgstr ""
+msgstr "PAUSADO"
 
 #: kenshi/gui/mainbar.cpp:259
 msgid "Loading..."
-msgstr ""
+msgstr "Carregando..."
 
 #: kenshi/gui/mainbar.cpp:1215
 msgid "Block"
-msgstr ""
+msgstr "Bloquear"
 
 #. TRANSLATORS: short for "hold position" eg don't run away to fight enemies
 #: kenshi/gui/mainbar.cpp:1219
 msgid "Hold"
-msgstr ""
+msgstr "Manter"
 
 #. TRANSLATORS: non-combat, no fighting
 #: kenshi/gui/mainbar.cpp:1223
 msgid "Passive"
-msgstr ""
+msgstr "Pasivo"
 
 #: kenshi/gui/mainbar.cpp:1226
 msgid "Jobs"
-msgstr ""
+msgstr "Tarefas"
 
 #: kenshi/gui/mainbar.cpp:1229
 msgid "Taunt"
-msgstr ""
+msgstr "Provocar"
 
 #: kenshi/gui/mainbar.cpp:1232 kenshi/statswindow.cpp:1060
 msgid "Ranged"
-msgstr ""
+msgstr "A dist."
 
 #: kenshi/gui/mainbar.cpp:1238
 msgid "Sneak"
-msgstr ""
+msgstr "Furtivo"
 
 #: kenshi/gui/mainbar.cpp:1259
 msgid ""
@@ -5517,6 +5525,11 @@ msgid ""
 "for keeping your weaker characters alive when they are "
 "outclassed."
 msgstr ""
+"Isto porá os personaxes seleccionados en modo de combate defensivo. No modo "
+"defensivo, un personaxe concentrarase en permanecer vivo e gañará 20 de "
+"habilidade de defensa corpo a corpo. Entretanto, non tentará atacar. Este "
+"modo é útil para manter vivos personaxes máis débiles ao enfrontarse a "
+"inimigos máis fortes."
 
 #: kenshi/gui/mainbar.cpp:1262
 msgid ""
@@ -5528,6 +5541,12 @@ msgid ""
 "position fighters, or just to keep non-combatants away from the "
 "fighting."
 msgstr ""
+"MANTER POSICIÓN significa que o personaxe seleccionado non correrá para "
+"loitar cos inimigos, nin sequera para protexer aos aliados. Manterá a "
+"posición e só atacará aos inimigos en curto alcance. Continuará a usar a "
+"bésta normalmente, mais non evitará os obstáculos para disparar. Usa esta "
+"configuración para posicionar loitadores tacticamente, ou apenas para manter "
+"aos non combatentes fóra do combate."
 
 #: kenshi/gui/mainbar.cpp:1265
 msgid ""
@@ -5536,12 +5555,17 @@ msgid ""
 "when directly attacked, and is less likely to be targeted by "
 "enemies."
 msgstr ""
+"En modo pasivo o personaxe nunca entrará en combate, mesmo se os seus "
+"aliados estiveran loitando ou precisaran axuda. Apenas loitará ao ser "
+"atacado directamente, e ten unha menor probabilidade de se tornar albo de "
+"inimigos."
 
 #: kenshi/gui/mainbar.cpp:1268
 msgid ""
 "If this is disabled then the character won't do any of the jobs "
 "listed."
 msgstr ""
+"Se isto está desactivado o personaxe non fará ningunha das tarefas listadas."
 
 #: kenshi/gui/mainbar.cpp:1272
 msgid ""
@@ -5550,11 +5574,15 @@ msgid ""
 "him. Using this enables your experienced and well armoured "
 "characters to draw trouble away from your more vulnerable ones."
 msgstr ""
+"O personaxe porase nunha actitude ofensiva, fará barullo e chamará a "
+"atención para tentar que os inimigos o ataquen. Isto permitirá que os "
+"personaxes máis experimentados e mellor equipados afasten o perigo de outros "
+"máis vulnerábeis."
 
 #: kenshi/gui/mainbar.cpp:1275
 msgid ""
 "Activates sneak mode so the character will try to go unnoticed."
-msgstr ""
+msgstr "Activa o modo furtivo para que o personaxe se mova ás agachadas."
 
 #: kenshi/gui/mainbar.cpp:1275
 msgid ""
@@ -5562,12 +5590,17 @@ msgid ""
 "If the character is unconscious, when he wakes up he will stay "
 "down on the ground and crawl to avoid detection."
 msgstr ""
+"\n"
+"Se o personaxe está inconsciente, no momento de acordar ficará no chan e "
+"arrastrarase para evitar que o detecten."
 
 #: kenshi/gui/mainbar.cpp:1278
 msgid ""
 "If enabled then the character will prioritise ranged attacks, "
 "melee will be a last resort."
 msgstr ""
+"Se está activado o personaxe priorizará ataques a distancia, o corpo a corpo "
+"será o último recurso."
 
 #: kenshi/gui/mainbar.cpp:1288
 msgid ""
@@ -5575,10 +5608,13 @@ msgid ""
 "automatically heal everyone else in the squad, including "
 "themselves. They will need a medkit in their inventory."
 msgstr ""
+"Premer este botón ordenará aos teus personaxes seleccionados que curen "
+"automaticamente a calquera que o precise no grupo, incluídos eles mesmos. "
+"Precisarán ter un kit médico no inventario."
 
 #: kenshi/gui/mainbar.cpp:1291
 msgid "Rescue"
-msgstr ""
+msgstr "Rescatar"
 
 #: kenshi/gui/mainbar.cpp:1293
 msgid ""
@@ -5587,10 +5623,13 @@ msgid ""
 "the wounded and put them in beds. Make sure to heal their "
 "wounds first."
 msgstr ""
+"Isto ordenará aos teus personaxes seleccionados que recollan a todos os teus "
+"aliados feridos. Se tes construcións preto, levará aos feridos e colocaraos "
+"en camas. Asegúrate de curar os seus ferimentos primeiro."
 
 #: kenshi/gui/mainbar.cpp:1297
 msgid "Prospect"
-msgstr ""
+msgstr "Prospectar"
 
 #: kenshi/gui/mainbar.cpp:1299
 msgid ""
@@ -5598,56 +5637,61 @@ msgid ""
 "your location. Stone, iron, water, fertility... It's important "
 "to check for these things before building an outpost."
 msgstr ""
+"Isto dará información da riqueza de recursos na túa localización. Pedra, "
+"ferro, auga, fertilidade... É importante verificar estas cousas antes de "
+"construír un asentamento."
 
 #: kenshi/gui/mainbar.cpp:1305
 msgid "No jobs assigned"
-msgstr ""
+msgstr "Sen tarefas asignadas"
 
 #: kenshi/gui/mainbar.cpp:1305
 msgid "To add jobs, hold shift key when giving an order"
-msgstr ""
+msgstr "Para adicionar tarefas, mantén a tecla shift mentres das unha orde"
 
 #: kenshi/gui/mainbar.cpp:1955
 msgid "Research:"
-msgstr ""
+msgstr "Pesquisa:"
 
 #: kenshi/gui/mainbar.cpp:1961
 msgid "Battery charge:"
-msgstr ""
+msgstr "Carga da batería:"
 
 #: kenshi/gui/mainbar.cpp:2238 kenshi/gui/mainbar.cpp:2319
 msgid "c. {1,num}"
-msgstr ""
+msgstr "c. {1,num}"
 
 #: kenshi/gui/mainbar.cpp:2666
 msgid "Buyer's money:"
-msgstr ""
+msgstr "Cartos do comprador:"
 
 #: kenshi/gui_utilities.cpp:352
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: kenshi/gui_utilities.cpp:352
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #: kenshi/gui_utilities.cpp:352
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #: kenshi/gui_utilities.cpp:352
 msgid "Abort"
-msgstr ""
+msgstr "Cancelar"
 
 #: kenshi/interface.cpp:388
 msgid ""
 "Seems packaging the crash dump failed miserably. There should "
 "be a .dmp file there instead."
 msgstr ""
+"Semella que o empaquetado do volcado de memoria fallou totalmente. No seu "
+"lugar debería haber un ficheiro .dmp aquí."
 
 #: kenshi/interface.cpp:388
 msgid "Crash fail"
-msgstr ""
+msgstr "Erro"
 
 #: kenshi/interface.cpp:447
 msgid ""
@@ -5659,96 +5703,102 @@ msgid ""
 "very quickly.\n"
 "Your help would be appreciated."
 msgstr ""
+"Kenshi crashou. Un informe do crash xerouse no teu directorio de instalación "
+"principal:{1}{2}.zip.\n"
+"Acude ao foro de informes de erros en www.lofigames.com/forum/. Se subes o "
+"ficheiro aí, co máximo de información posíbel sobre o que sucedeu "
+"exactamente, é probábel que este bug sexa corrixido rapidamente.\n"
+"Agradecemos a túa axuda."
 
 #: kenshi/interface.cpp:514
 msgid "An exception occurred!"
-msgstr ""
+msgstr "Saltou unha excepción!"
 
 #: kenshi/inventory.cpp:449
 msgid "I can't afford that."
-msgstr ""
+msgstr "Non podo permitirme iso."
 
 #: kenshi/itemManager.cpp:933 kenshi/playerinterface.cpp:966
 #: kenshi/playerinterface.cpp:1182 kenshi/playerinterface.cpp:1213
 msgid "Hold down the ALT key to steal items"
-msgstr ""
+msgstr "Mantén a tecla ALT para roubar obxectos"
 
 #: kenshi/items.cpp:904
 msgid "{1} has been butchered"
-msgstr ""
+msgstr "Trucidaron a {1}"
 
 #: kenshi/items.cpp:1325
 msgid "{1,num} cats added."
-msgstr ""
+msgstr "{1,num} cats engadidos."
 
 #: kenshi/levelEditor.cpp:358
 msgid "Regenerate sector"
-msgstr ""
+msgstr "Rexenerar sector"
 
 #: kenshi/levelEditor.cpp:375
 msgid "Foliage removal"
-msgstr ""
+msgstr "Eliminación de follaxe"
 
 #: kenshi/levelEditor.cpp:376
 msgid "Render all"
-msgstr ""
+msgstr "Renderizar todo"
 
 #: kenshi/levelEditor.cpp:377
 msgid "Render selection"
-msgstr ""
+msgstr "Renderizar selección"
 
 #: kenshi/levelEditor.cpp:378
 msgid "Erase selection"
-msgstr ""
+msgstr "Borrar selección"
 
 #: kenshi/levelEditor.cpp:379
 msgid "Project roads"
-msgstr ""
+msgstr "Proxectar estradas"
 
 #: kenshi/levelEditor.cpp:380
 msgid "Validate road network"
-msgstr ""
+msgstr "Validar rede de estradas"
 
 #: kenshi/levelEditor.cpp:381 kenshi/levelEditor.cpp:1554
 msgid "Hidden"
-msgstr ""
+msgstr "Oculto"
 
 #: kenshi/levelEditor.cpp:382 kenshi/levelEditor.cpp:1553
 msgid "Road width"
-msgstr ""
+msgstr "Largura da estrada"
 
 #: kenshi/levelEditor.cpp:392
 msgid "NavMesh"
-msgstr ""
+msgstr "NavMesh"
 
 #: kenshi/levelEditor.cpp:393
 msgid "Roads"
-msgstr ""
+msgstr "Estradas"
 
 #: kenshi/levelEditor.cpp:643
 msgid "Town Placement"
-msgstr ""
+msgstr "Posición da vila"
 
 #: kenshi/levelEditor.cpp:647
 msgid "Reset Population"
-msgstr ""
+msgstr "Reiniciar poboación"
 
 #: kenshi/levelEditor.cpp:651
 msgid "Navmesh Tools"
-msgstr ""
+msgstr "Ferramentas de NavMesh"
 
 #: kenshi/levelEditor.cpp:655
 msgid "Terrain Features"
-msgstr ""
+msgstr "Características do terreo"
 
 #: kenshi/levelEditor.cpp:659
 msgid "Terrain Fog"
-msgstr ""
+msgstr "Néboa do terreo"
 
 #: kenshi/levelEditor.cpp:667 kenshi/options.cpp:527
 #: kenshi/previewbuilding.cpp:3667
 msgid "Buildings"
-msgstr ""
+msgstr "Construcións"
 
 #: kenshi/levelEditor.cpp:671
 msgid "Fix stuff"
