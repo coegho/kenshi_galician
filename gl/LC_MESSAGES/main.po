@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-13 20:41+0000\n"
+"PO-Revision-Date: 2021-04-17 21:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -5802,53 +5802,53 @@ msgstr "Construcións"
 
 #: kenshi/levelEditor.cpp:671
 msgid "Fix stuff"
-msgstr ""
+msgstr "Arranxar cousas"
 
 #: kenshi/levelEditor.cpp:675
 msgid "Save Mod"
-msgstr ""
+msgstr "Gardar mod"
 
 #: kenshi/levelEditor.cpp:679 kenshi/titlescreen.cpp:100
 #: kenshi/titlescreen.cpp:650 kenshi/titlescreen.cpp:781
 msgid "Exit"
-msgstr ""
+msgstr "Saír"
 
 #: kenshi/levelEditor.cpp:2214 kenshi/levelEditor.cpp:2229
 #: kenshi/savemanager.cpp:781
 msgid "Save"
-msgstr ""
+msgstr "Gardar"
 
 #: kenshi/levelEditor.cpp:2216 kenshi/levelEditor.cpp:2231
 msgid "Del"
-msgstr ""
+msgstr "Borrar"
 
 #: kenshi/levelEditor.cpp:2221
 msgid "None selected"
-msgstr ""
+msgstr "Nada seleccionado"
 
 #: kenshi/levelEditor.cpp:2224
 msgid "Show Interior"
-msgstr ""
+msgstr "Mostrar interior"
 
 #: kenshi/levelEditor.cpp:2237
 msgid "Clear"
-msgstr ""
+msgstr "Limpar"
 
 #: kenshi/levelEditor.cpp:2242
 msgid "Clear Nodes"
-msgstr ""
+msgstr "Limpar nodos"
 
 #: kenshi/levelEditor.cpp:2246
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 #: kenshi/levelEditor.cpp:2249
 msgid "Interior edit mode"
-msgstr ""
+msgstr "Modo de edición de interior"
 
 #: kenshi/levelEditor.cpp:2276 kenshi/previewbuilding.cpp:4025
 msgid "Interior"
-msgstr ""
+msgstr "Interior"
 
 #: kenshi/levelEditor.cpp:2276
 msgid "Furniture"
@@ -5856,15 +5856,15 @@ msgstr "Mobiliario"
 
 #: kenshi/levelEditor.cpp:2279 kenshi/previewbuilding.cpp:4029
 msgid "Exterior"
-msgstr ""
+msgstr "Exterior"
 
 #: kenshi/levelEditor.cpp:2279
 msgid "Signs and NPCs"
-msgstr ""
+msgstr "Sinais e NPCs"
 
 #: kenshi/levelEditor.cpp:2680 kenshi/levelEditor.cpp:2690
 msgid "Level Editor"
-msgstr ""
+msgstr "Editor de nivel"
 
 #: kenshi/levelEditor.cpp:2681
 msgid ""
@@ -5872,6 +5872,9 @@ msgid ""
 "that reference it.\n"
 "Are you sure you want to delete it?"
 msgstr ""
+"Isto eliminará este interior de todos os edificios deste tipo que o teñan "
+"como referencia.\n"
+"Seguro que queres borralo?"
 
 #: kenshi/levelEditor.cpp:2691
 msgid ""
@@ -5879,26 +5882,29 @@ msgid ""
 "that reference it.\n"
 "Are you sure you want to delete it?"
 msgstr ""
+"Isto eliminará este interior de todos os edificios deste tipo que o teñan "
+"como referencia.\n"
+"Seguro que queres borralo?"
 
 #: kenshi/loadSave.cpp:284
 msgid "Autosaved"
-msgstr ""
+msgstr "Autogardado"
 
 #: kenshi/loadSave.cpp:288
 msgid "Save successful"
-msgstr ""
+msgstr "Gardado con éxito"
 
 #: kenshi/loadSave.cpp:296
 msgid "Error saving game. Please try again."
-msgstr ""
+msgstr "Erro gardando xogo. Téntao de novo."
 
 #: kenshi/loadSave.cpp:305
 msgid "Failed to save game. Please try again."
-msgstr ""
+msgstr "Erro gardando xogo. Téntao de novo."
 
 #: kenshi/loadSave.cpp:583
 msgid "Updates"
-msgstr ""
+msgstr "Actualizacións"
 
 #: kenshi/loadSave.cpp:583
 msgid ""
@@ -5907,70 +5913,79 @@ msgid ""
 "to start a fresh new game world with your existing squad.\n"
 "Otherwise some of the world's content may be missing or buggy."
 msgstr ""
+"Kenshi foi actualizado á versión v{1}.\n"
+"Deberías voltar ao menú principal e premer en [Importar xogo]\n"
+"para comezar nun novo mundo de xogo fresco co teu grupo actual.\n"
+"En caso contrario, parte do contido do mundo poderá faltar ou funcionar con "
+"erros."
 
 #: kenshi/loadSave.cpp:762
 msgid ""
 "Load game error! Your squad has been salvaged. Awarded 10000 "
 "cats as compensation."
 msgstr ""
+"Erro ao carregar o xogo! O teu grupo foi recuperado. Déronseche 10000 cats "
+"como compensación."
 
 #: kenshi/main.cpp:245
 msgid "Demo mode"
-msgstr ""
+msgstr "Modo demo"
 
 #: kenshi/main.cpp:245
 msgid "Buy the full game to access the editor"
-msgstr ""
+msgstr "Merca o xogo completo para acceder ao editor"
 
 #: kenshi/mapscreen.cpp:81
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #: kenshi/mapscreen.cpp:82
 msgid "Faction"
-msgstr ""
+msgstr "Facción"
 
 #: kenshi/mapscreen.cpp:83
 msgid "Research"
-msgstr ""
+msgstr "Pesquisa"
 
 #: kenshi/mapscreen.cpp:84
 msgid "Crafting"
-msgstr ""
+msgstr "Fabricación"
 
 #: kenshi/mapscreen.cpp:85
 msgid "Squads"
-msgstr ""
+msgstr "Grupos"
 
 #: kenshi/mapscreen.cpp:86
 msgid "Dialogue"
-msgstr ""
+msgstr "Diálogo"
 
 #: kenshi/mapscreen.cpp:87
 msgid "AI"
-msgstr ""
+msgstr "IA"
 
 #: kenshi/mapscreen.cpp:127
 msgid ""
 "You currently have no research facilities. Build a research "
 "bench and assign someone to work there."
 msgstr ""
+"Non tes instalacións de pesquisa neste momento. Constrúe un banco de "
+"pesquisa e asigna alguén para que traballe nel."
 
 #: kenshi/mapscreen.cpp:144
 msgid "Types"
-msgstr ""
+msgstr "Tipos"
 
 #: kenshi/mapscreen.cpp:147
 msgid "Blueprints"
-msgstr ""
+msgstr "Planos"
 
 #: kenshi/mapscreen.cpp:327
 msgid "RESEARCH - LEVEL {1,num} (CURRENT RATE: {2,num=fix,p=2}x)"
-msgstr ""
+msgstr "PESQUISA - NIVEL {1,num} (TAXA ACTUAL: {2,num=fix,p=2}x)"
 
 #: kenshi/mapscreen.cpp:473
 msgid "Ditch items"
-msgstr ""
+msgstr "Abandonar obxectos"
 
 #: kenshi/mapscreen.cpp:474
 msgid ""
@@ -5979,79 +5994,94 @@ msgid ""
 "can help to un-block the base AI when things grind to a halt "
 "from over-filled inventories."
 msgstr ""
+"Se non ten mellor cousa que facer, os personaxes deixarán calquera material "
+"en exceso que leven en depósitos de almacenamento. Isto pode axudar a "
+"desbloquear a IA básica cando as cousas se atoan por conta de inventarios "
+"cheos."
 
 #: kenshi/mapscreen.cpp:475
 msgid "Sleep when injured"
-msgstr ""
+msgstr "Durmir ao ter feridas"
 
 #: kenshi/mapscreen.cpp:476
 msgid ""
 "Characters will automatically go to bed if they are injured and "
 "have nothing else to do"
 msgstr ""
+"Os personaxes irán para a cama automaticamente se están feridos e non teñen "
+"nada que facer"
 
 #: kenshi/mapscreen.cpp:477
 msgid "Sit when idle"
-msgstr ""
+msgstr "Sentar cuando desocupado"
 
 #: kenshi/mapscreen.cpp:478
 msgid ""
 "Idle characters at home will sit down on chairs and benches, if "
 "you have any"
 msgstr ""
+"Os personaxes sen tarefas irán sentar en cadeiras e bancos, se tes algún"
 
 #: kenshi/mapscreen.cpp:479
 msgid "Heal Allies"
-msgstr ""
+msgstr "Curar aliados"
 
 #: kenshi/mapscreen.cpp:480
 msgid ""
 "Characters with the medic job will also heal characters of "
 "allied factions"
 msgstr ""
+"Os personaxes coa tarefa de médico tamén curarán os personaxes de faccións "
+"aliadas"
 
 #: kenshi/mapscreen.cpp:481
 msgid "Help Allies"
-msgstr ""
+msgstr "Axudar aliados"
 
 #: kenshi/mapscreen.cpp:482
 msgid ""
 "Characters will help out characters from other allied factions "
 "if they are under attack"
 msgstr ""
+"Os personaxes axudarán a personaxes de faccións aliadas se están so ataque"
 
 #: kenshi/mapscreen.cpp:483
 msgid "Rescue Allies"
-msgstr ""
+msgstr "Rescatar aliados"
 
 #: kenshi/mapscreen.cpp:484
 msgid ""
 "Characters with the rescue job will also rescue allied "
 "characters from other factions"
 msgstr ""
+"Os personaxes coa tarefa de rescate tamén rescatarán personaxes aliados de "
+"outras faccións"
 
 #: kenshi/mapscreen.cpp:485
 msgid "Share Food"
-msgstr ""
+msgstr "Partillar comida"
 
 #: kenshi/mapscreen.cpp:486
 msgid ""
 "Characters in a squad will automatically share any of their "
 "food that is in a backpack (if in range)."
 msgstr ""
+"Os personaxes nun grupo partillarán automaticamente calquera comida que "
+"leven nunha mochila (se están en alcance)."
 
 #: kenshi/mapscreen.cpp:487
 msgid "Feed Animals"
-msgstr ""
+msgstr "Alimentar animais"
 
 #: kenshi/mapscreen.cpp:488
 msgid ""
 "If food is running low, you can elect not to feed your animals."
 msgstr ""
+"Se a comida se estivera esgotando, podes escoller non alimentar aos animais."
 
 #: kenshi/mapscreen.cpp:489
 msgid "Shoot first, ask later"
-msgstr ""
+msgstr "Dispara primeiro, pregunta despois"
 
 #: kenshi/mapscreen.cpp:490
 msgid ""
@@ -6059,197 +6089,201 @@ msgid ""
 "neutral targets, such as wild animals or bandits, without "
 "waiting for them to attack the base first."
 msgstr ""
+"Os teus artilleiros de torretas dispararán a calquera albo neutral perigoso, "
+"como animais salvaxes ou bandidos, sen agardar que ataquen a base antes."
 
 #: kenshi/mapscreen.cpp:498
 msgid "Follow Formation"
-msgstr ""
+msgstr "Seguir formación"
 
 #: kenshi/mapscreen.cpp:499
 msgid "Random"
-msgstr ""
+msgstr "Aleatorio"
 
 #: kenshi/mapscreen.cpp:500
 msgid "Military"
-msgstr ""
+msgstr "Militar"
 
 #: kenshi/mapscreen.cpp:501
 msgid "Caravan"
-msgstr ""
+msgstr "Caravana"
 
 #: kenshi/mapscreen.cpp:503
 msgid "Formation used when squad members are following a leader"
-msgstr ""
+msgstr "Formación usada cando os membros do grupo están seguindo un líder"
 
 #: kenshi/mapscreen.cpp:639 kenshi/mapscreen.cpp:973
 #: kenshi/mess.cpp:1308
 msgid "Needs research bench level {1,num}"
-msgstr ""
+msgstr "Precisa banco de pesquisa nivel {1,num}"
 
 #: kenshi/mapscreen.cpp:646 kenshi/mapscreen.cpp:667
 msgid "Cost:"
-msgstr ""
+msgstr "Custo:"
 
 #: kenshi/mapscreen.cpp:646
 msgid "Paid"
-msgstr ""
+msgstr "Pago"
 
 #: kenshi/mapscreen.cpp:721 kenshi/mapscreen.cpp:1022
 #: kenshi/mess.cpp:1361
 msgid "Requirements:"
-msgstr ""
+msgstr "Requerimentos:"
 
 #: kenshi/mapscreen.cpp:727 kenshi/mapscreen.cpp:1028
 #: kenshi/mess.cpp:1367
 msgid "New Building:"
-msgstr ""
+msgstr "Nova construción:"
 
 #: kenshi/mapscreen.cpp:728 kenshi/mapscreen.cpp:1029
 #: kenshi/mess.cpp:1368
 msgid "New Weapon Class:"
-msgstr ""
+msgstr "Nova clase de arma:"
 
 #: kenshi/mapscreen.cpp:729 kenshi/mapscreen.cpp:1030
 #: kenshi/mess.cpp:1369
 msgid "New Weapons Grade:"
-msgstr ""
+msgstr "Novo grao de armas:"
 
 #: kenshi/mapscreen.cpp:730 kenshi/mapscreen.cpp:1031
 #: kenshi/mess.cpp:1370
 msgid "New Armour Type:"
-msgstr ""
+msgstr "Novo tipo de armadura:"
 
 #: kenshi/mapscreen.cpp:731 kenshi/mapscreen.cpp:1032
 #: kenshi/mess.cpp:1371
 msgid "New Items:"
-msgstr ""
+msgstr "Novos obxectos:"
 
 #: kenshi/mapscreen.cpp:732 kenshi/mapscreen.cpp:1033
 msgid "New Crossbows:"
-msgstr ""
+msgstr "Novas béstas:"
 
 #: kenshi/mapscreen.cpp:733 kenshi/mapscreen.cpp:1034
 msgid "New Backpacks:"
-msgstr ""
+msgstr "Novas mochilas:"
 
 #: kenshi/mapscreen.cpp:734 kenshi/mapscreen.cpp:1035
 msgid "New Robot Limbs:"
-msgstr ""
+msgstr "Novos membros robóticos:"
 
 #: kenshi/mapscreen.cpp:847
 msgid ""
 "Not enough artifacts, research cannot begin.\n"
 "Find artifacts and place them in your research bench."
 msgstr ""
+"Artefactos insuficientes, non é posíbel comezar a pesquisa.\n"
+"Atopa artefactos e colócaos no teu banco de pesquisa."
 
 #: kenshi/mapscreen.cpp:853
 msgid "Cannot research '{1}'. Requirements not met."
-msgstr ""
+msgstr "Non foi posíbel pesquisar '{1}'. Os requerimentos non se cumpren."
 
 #: kenshi/mapscreen.cpp:963 kenshi/mess.cpp:1296
 msgid "Research Blueprint"
-msgstr ""
+msgstr "Plano de pesquisa"
 
 #: kenshi/mapscreen.cpp:977 kenshi/mess.cpp:1312
 msgid "Cannot learn this yet"
-msgstr ""
+msgstr "Aínda non podes aprender isto"
 
 #: kenshi/mapscreen.cpp:981 kenshi/mess.cpp:1316
 msgid "Right-click to learn tech"
-msgstr ""
+msgstr "Clic dereito para aprender tecnoloxía"
 
 #: kenshi/mapscreen.cpp:987 kenshi/mess.cpp:1322
 msgid "Tech Level"
-msgstr ""
+msgstr "Nivel de tecnoloxía"
 
 #: kenshi/mapscreen.cpp:988 kenshi/mess.cpp:797
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #: kenshi/mapscreen.cpp:2793
 msgid "Overview"
-msgstr ""
+msgstr "Visión xeral"
 
 #: kenshi/mapscreen.cpp:2796
 msgid "Resources"
-msgstr ""
+msgstr "Recursos"
 
 #: kenshi/mapscreen.cpp:2826
 msgid "Prospecting Results"
-msgstr ""
+msgstr "Resultados da prospección"
 
 #: kenshi/mapscreen.cpp:2903
 msgid "Zone:"
-msgstr ""
+msgstr "Zona:"
 
 #: kenshi/mapscreen.cpp:2906
 msgid "Altitude:"
-msgstr ""
+msgstr "Altitude:"
 
 #: kenshi/mapscreen.cpp:2910
 msgid "Prospector Skill:"
-msgstr ""
+msgstr "Habilidade de prospección:"
 
 #: kenshi/mapscreen.cpp:2913
 msgid "Area Size:"
-msgstr ""
+msgstr "Tamaño da área:"
 
 #: kenshi/mapscreen.cpp:2928 kenshi/previewbuilding.cpp:2611
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 #: kenshi/mapscreen.cpp:2934 kenshi/previewbuilding.cpp:2611
 msgid "Arid"
-msgstr ""
+msgstr "Árido"
 
 #: kenshi/mapscreen.cpp:2940 kenshi/previewbuilding.cpp:2611
 msgid "Swamp"
-msgstr ""
+msgstr "Pantano"
 
 #: kenshi/mapscreen.cpp:2944
 msgid "Wind Speed:"
-msgstr ""
+msgstr "Velocidade do vento:"
 
 #: kenshi/mapscreen.cpp:3197
 msgid "Add squad"
-msgstr ""
+msgstr "Engadir grupo"
 
 #: kenshi/mapscreen.cpp:3204
 msgid "Dismiss"
-msgstr ""
+msgstr "Disolver"
 
 #: kenshi/mapscreen.cpp:3317
 msgid "Maximum number of squads reached."
-msgstr ""
+msgstr "Acadado número máximo de grupos."
 
 #: kenshi/mapscreen.cpp:3331
 msgid "The squad needs to be empty before it can be removed."
-msgstr ""
+msgstr "O grupo precisa estar baleiro antes de poder disolvelo."
 
 #: kenshi/mapscreen.cpp:3336
 msgid "You must have at least one squad."
-msgstr ""
+msgstr "É preciso ter un grupo polo menos."
 
 #: kenshi/mapscreen.cpp:3501 kenshi/mapscreen.cpp:3506
 msgid "Dismiss character"
-msgstr ""
+msgstr "Rexeitar personaxe"
 
 #: kenshi/mapscreen.cpp:3501
 msgid ""
 "Cannot dismiss the only remaining character in the faction."
-msgstr ""
+msgstr "Non podes botar ao único personaxe que queda na facción."
 
 #: kenshi/mapscreen.cpp:3506
 msgid "Dismiss character '{1}'?"
-msgstr ""
+msgstr "Botar personaxe '{1}'?"
 
 #: kenshi/mapscreen.cpp:3591
 msgid "Delete"
-msgstr ""
+msgstr "Borrar"
 
 #: kenshi/mapscreen.cpp:3923 kenshi/savemanager.cpp:597
 #: kenshi/savemanager.cpp:615
 msgid "Faction name"
-msgstr ""
+msgstr "Nome da facción"
 
 #: kenshi/mapscreen.cpp:4105
 msgid "---Active Contracts---"
