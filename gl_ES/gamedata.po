@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: 2021-04-13 20:41+0000\n"
+"PO-Revision-Date: 2021-04-17 21:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
@@ -5744,7 +5744,7 @@ msgstr ""
 #. Name: Green
 #: 53482-Dialogue.mod
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 #. Type: CHARACTER
 #. Name: Green Finger
@@ -10139,7 +10139,7 @@ msgstr ""
 #. Name: Blueprints
 #: BLUEPRINT_ITEM
 msgid "Blueprints"
-msgstr ""
+msgstr "Planos"
 
 #. Type: ITEM
 #. Name: Blueprints (armour)
@@ -18976,7 +18976,7 @@ msgstr ""
 #: 1533523-rebirth.mod:4 1533524-rebirth.mod:4 1533525-rebirth.mod:4
 #: 1533526-rebirth.mod:4 1534079-rebirth.mod:4
 msgid "Crafting"
-msgstr ""
+msgstr "Fabricación"
 
 #. Type: RESEARCH
 #. Name: Fabric Manufacture
