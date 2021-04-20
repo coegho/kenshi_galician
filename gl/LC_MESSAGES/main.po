@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-17 21:41+0000\n"
+"PO-Revision-Date: 2021-04-21 19:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -6287,414 +6287,414 @@ msgstr "Nome da facción"
 
 #: kenshi/mapscreen.cpp:4105
 msgid "---Active Contracts---"
-msgstr ""
+msgstr "---Contratos activos---"
 
 #: kenshi/mapscreen.cpp:4107
 msgid "---Upcoming Events---"
-msgstr ""
+msgstr "---Sucesos futuros---"
 
 #: kenshi/mapscreen.cpp:4128
 msgid "Faction Name"
-msgstr ""
+msgstr "Nome da facción"
 
 #: kenshi/mapscreen.cpp:4128
 msgid "This faction name already exists"
-msgstr ""
+msgstr "Este nome de facción xa existe"
 
 #: kenshi/mapscreen.cpp:4196
 msgid "Manage Contract"
-msgstr ""
+msgstr "Xestionar contrato"
 
 #: kenshi/mess.cpp:800
 msgid "Sell value"
-msgstr ""
+msgstr "Valor de venda"
 
 #: kenshi/mess.cpp:818
 msgid "Ammunition"
-msgstr ""
+msgstr "Munición"
 
 #: kenshi/mess.cpp:822
 msgid "Research Artifact"
-msgstr ""
+msgstr "Artefacto de pesquisa"
 
 #: kenshi/mess.cpp:827
 msgid "Unique"
-msgstr ""
+msgstr "Único"
 
 #: kenshi/mess.cpp:832
 msgid "Book"
-msgstr ""
+msgstr "Libro"
 
 #: kenshi/mess.cpp:839
 msgid "Food"
-msgstr ""
+msgstr "Comida"
 
 #: kenshi/mess.cpp:843
 msgid "Possibly Edible"
-msgstr ""
+msgstr "Posibelmente comestíbel"
 
 #: kenshi/mess.cpp:867
 msgid "Only for:"
-msgstr ""
+msgstr "Só para:"
 
 #: kenshi/mess.cpp:870
 msgid "Also edible for animals"
-msgstr ""
+msgstr "Comestíbel tamén para animais"
 
 #. TRANSLATORS: nu = Nutrition Units, unit for food nutrition.
 #: kenshi/mess.cpp:875
 msgid "Nutrition"
-msgstr ""
+msgstr "Nutrición"
 
 #: kenshi/mess.cpp:875
 msgid "{1,num} nu"
-msgstr ""
+msgstr "{1,num} nu"
 
 #. TRANSLATORS: ammunition, number of shots remaining
 #: kenshi/mess.cpp:898
 msgid "Shots"
-msgstr ""
+msgstr "Tiros"
 
 #: kenshi/mess.cpp:908 kenshi/mess.cpp:912 kenshi/mess.cpp:1031
 #: kenshi/mess.cpp:1092 kenshi/mess.cpp:1206 kenshi/mess.cpp:1245
 #: kenshi/mess.cpp:1543 kenshi/statswindow.cpp:500
 msgid "{1,num} kg"
-msgstr ""
+msgstr "{1,num} kg"
 
 #: kenshi/mess.cpp:915 kenshi/mess.cpp:1031 kenshi/mess.cpp:1092
 #: kenshi/mess.cpp:1206 kenshi/mess.cpp:1245 kenshi/mess.cpp:1543
 msgid "Weight"
-msgstr ""
+msgstr "Peso"
 
 #: kenshi/mess.cpp:921
 msgid "Avg. Price"
-msgstr ""
+msgstr "Prezo medio"
 
 #: kenshi/mess.cpp:921
 msgid "c."
-msgstr ""
+msgstr "c."
 
 #: kenshi/mess.cpp:931
 msgid "Price mark-up"
-msgstr ""
+msgstr "Beneficio do prezo"
 
 #. TRANSLATORS: Charges: amount
 #: kenshi/mess.cpp:940
 msgid "Charges"
-msgstr ""
+msgstr "Taxas"
 
 #: kenshi/mess.cpp:943
 msgid "Quality"
-msgstr ""
+msgstr "Calidade"
 
 #: kenshi/mess.cpp:980 kenshi/mess.cpp:1133
 msgid "Crossbow class"
-msgstr ""
+msgstr "Clase de bésta"
 
 #: kenshi/mess.cpp:986
 msgid "Accuracy deviation:"
-msgstr ""
+msgstr "Desvío na precisión:"
 
 #: kenshi/mess.cpp:987
 msgid "Reload time:"
-msgstr ""
+msgstr "Tempo de recarga:"
 
 #. TRANSLATORS: s is short for time in seconds
 #: kenshi/mess.cpp:989
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #. TRANSLATORS: meters
 #: kenshi/mess.cpp:992
 msgid "m"
-msgstr ""
+msgstr "m"
 
 #: kenshi/mess.cpp:993
 msgid "Velocity:"
-msgstr ""
+msgstr "Velocidade:"
 
 #. TRANSLATORS: meters per second
 #: kenshi/mess.cpp:995
 msgid "m/s"
-msgstr ""
+msgstr "m/s"
 
 #: kenshi/mess.cpp:996
 msgid "Blood loss:"
-msgstr ""
+msgstr "Perda de sangue:"
 
 #: kenshi/mess.cpp:999
 msgid "Required skill:"
-msgstr ""
+msgstr "Habilidade necesaria:"
 
 #: kenshi/mess.cpp:1005
 msgid "Ammunition type:"
-msgstr ""
+msgstr "Tipo de munición:"
 
 #: kenshi/mess.cpp:1011 kenshi/mess.cpp:1188
 msgid "Damage vs robots"
-msgstr ""
+msgstr "Dano contra robots"
 
 #: kenshi/mess.cpp:1014 kenshi/mess.cpp:1191
 msgid "Damage vs humans"
-msgstr ""
+msgstr "Dano contra humanos"
 
 #: kenshi/mess.cpp:1017 kenshi/mess.cpp:1194
 msgid "Damage vs animals"
-msgstr ""
+msgstr "Dano contra animais"
 
 #: kenshi/mess.cpp:1025 kenshi/mess.cpp:1201
 msgid "Damage vs"
-msgstr ""
+msgstr "Dano contra"
 
 #: kenshi/mess.cpp:1070
 msgid "Max HP:"
-msgstr ""
+msgstr "Máx. PV:"
 
 #: kenshi/mess.cpp:1075
 msgid "-----STATS-----"
-msgstr ""
+msgstr "-----STATS-----"
 
 #: kenshi/mess.cpp:1087
 msgid "Unarmed damage bonus"
-msgstr ""
+msgstr "Bonificación de dano sen armas"
 
 #: kenshi/mess.cpp:1117
 msgid "Katana class"
-msgstr ""
+msgstr "Clase de katana"
 
 #: kenshi/mess.cpp:1121
 msgid "Sabre class"
-msgstr ""
+msgstr "Clase de sabre"
 
 #: kenshi/mess.cpp:1125
 msgid "Hacker class"
-msgstr ""
+msgstr "Clase de cortador"
 
 #: kenshi/mess.cpp:1129
 msgid "Heavy weapons class"
-msgstr ""
+msgstr "Clase de arma pesada"
 
 #: kenshi/mess.cpp:1137
 msgid "Polearm class"
-msgstr ""
+msgstr "Clase de arma de hasta"
 
 #: kenshi/mess.cpp:1145
 msgid "Blunt weapon class"
-msgstr ""
+msgstr "Clase de arma contundente"
 
 #: kenshi/mess.cpp:1149
 msgid "Cutting damage"
-msgstr ""
+msgstr "Dano de corte"
 
 #: kenshi/mess.cpp:1151
 msgid "Blunt damage"
-msgstr ""
+msgstr "Dano contundente"
 
 #: kenshi/mess.cpp:1152
 msgid "Blood loss"
-msgstr ""
+msgstr "Perda de sangue"
 
 #: kenshi/mess.cpp:1156
 msgid "Armour penetration"
-msgstr ""
+msgstr "Penetración de armadura"
 
 #: kenshi/mess.cpp:1160 kenshi/mess.cpp:1164
 msgid "Attack bonus"
-msgstr ""
+msgstr "Bonus de ataque"
 
 #: kenshi/mess.cpp:1169 kenshi/mess.cpp:1173
 msgid "Defence bonus"
-msgstr ""
+msgstr "Bonus de defensa"
 
 #: kenshi/mess.cpp:1178
 msgid "Indoors bonus"
-msgstr ""
+msgstr "Bonus en interiores"
 
 #: kenshi/mess.cpp:1182
 msgid "Indoors penalty"
-msgstr ""
+msgstr "Penalidade en interiores"
 
 #: kenshi/mess.cpp:1217
 msgid "Model ##"
-msgstr ""
+msgstr "Modelo ##"
 
 #: kenshi/mess.cpp:1221 kenshi/mess.cpp:1651
 msgid "Crafted by {1}"
-msgstr ""
+msgstr "Fabricado por {1}"
 
 #: kenshi/mess.cpp:1223
 msgid ""
 "A masterful weapon crafted by the renowned smith {1} of {2}."
-msgstr ""
+msgstr "Arma de alto nivel creada pola ferrería de renome de {1} en {2}."
 
 #: kenshi/mess.cpp:1225 kenshi/mess.cpp:1655
 msgid "Crafted by the smith {1} of {2}."
-msgstr ""
+msgstr "Fabricado pola ferraría de {1} en {2}."
 
 #: kenshi/mess.cpp:1228
 msgid "Manufactured by"
-msgstr ""
+msgstr "Fabricado por"
 
 #: kenshi/mess.cpp:1238
 msgid "empty"
-msgstr ""
+msgstr "baleiro"
 
 #: kenshi/mess.cpp:1252
 msgid "Encumbrance reduction"
-msgstr ""
+msgstr "Redución de sobrecarga"
 
 #: kenshi/mess.cpp:1260
 msgid "Combat skills bonus"
-msgstr ""
+msgstr "Bonus de habilidades de combate"
 
 #: kenshi/mess.cpp:1263 kenshi/mess.cpp:1601
 msgid "Athletics effect"
-msgstr ""
+msgstr "Efecto en atletismo"
 
 #: kenshi/mess.cpp:1264 kenshi/mess.cpp:1605
 msgid "Combat speed effect"
-msgstr ""
+msgstr "Efecto en velocidade de combate"
 
 #: kenshi/mess.cpp:1265
 msgid "Stealth skill effect"
-msgstr ""
+msgstr "Efecto en habilidade de furtividade"
 
 #: kenshi/mess.cpp:1266 kenshi/mess.cpp:1598
 msgid "Dodge skill effect"
-msgstr ""
+msgstr "Efecto en habilidade de esquiva"
 
 #: kenshi/mess.cpp:1396 kenshi/mess.cpp:1400
 msgid "Stolen from:"
-msgstr ""
+msgstr "Roubado de:"
 
 #: kenshi/mess.cpp:1405
 msgid "Stolen"
-msgstr ""
+msgstr "Roubado"
 
 #: kenshi/mess.cpp:1413
 msgid "Buyback"
-msgstr ""
+msgstr "Recompra"
 
 #: kenshi/mess.cpp:1427
 msgid "Duststorms"
-msgstr ""
+msgstr "Tormentas de poeira"
 
 #: kenshi/mess.cpp:1429
 msgid "Acid"
-msgstr ""
+msgstr "Ácido"
 
 #: kenshi/mess.cpp:1431
 msgid "Burning"
-msgstr ""
+msgstr "Queimando"
 
 #: kenshi/mess.cpp:1433
 msgid "Gas"
-msgstr ""
+msgstr "Gas"
 
 #: kenshi/mess.cpp:1435
 msgid "Rain"
-msgstr ""
+msgstr "Choiva"
 
 #: kenshi/mess.cpp:1452
 msgid "Faction Uniform:"
-msgstr ""
+msgstr "Uniforme da facción:"
 
 #: kenshi/mess.cpp:1462
 msgid "{1} Grade"
-msgstr ""
+msgstr "Grao {1}"
 
 #: kenshi/mess.cpp:1474
 msgid "Light Armour Class"
-msgstr ""
+msgstr "Clase de armadura lixeira"
 
 #: kenshi/mess.cpp:1478
 msgid "Medium Armour Class"
-msgstr ""
+msgstr "Clase de armadura media"
 
 #: kenshi/mess.cpp:1482
 msgid "Heavy Armour Class"
-msgstr ""
+msgstr "Clase de armadura pesada"
 
 #: kenshi/mess.cpp:1489
 msgid "Leather"
-msgstr ""
+msgstr "Couro"
 
 #: kenshi/mess.cpp:1493
 msgid "Chain"
-msgstr ""
+msgstr "Malla de metal"
 
 #: kenshi/mess.cpp:1497
 msgid "Metal Plate"
-msgstr ""
+msgstr "Placas de metal"
 
 #: kenshi/mess.cpp:1501
 msgid "Cloth"
-msgstr ""
+msgstr "Tecido"
 
 #: kenshi/mess.cpp:1509
 msgid "Blunt resistance"
-msgstr ""
+msgstr "Resistencia a contundentes"
 
 #: kenshi/mess.cpp:1518
 msgid "Cut resistance"
-msgstr ""
+msgstr "Resistencia a cortes"
 
 #: kenshi/mess.cpp:1523
 msgid "Cut resistance efficiency"
-msgstr ""
+msgstr "Eficiencia da resistencia a cortes"
 
 #. TRANSLATORS: pts = points
 #: kenshi/mess.cpp:1529
 msgid "Harpoon resistance"
-msgstr ""
+msgstr "Resistencia a arpóns"
 
 #: kenshi/mess.cpp:1529
 msgid "{1,num} pts"
-msgstr ""
+msgstr "{1,num} pts"
 
 #: kenshi/mess.cpp:1547
 msgid "[Weather Protections]"
-msgstr ""
+msgstr "[Proteccións climáticas]"
 
 #: kenshi/mess.cpp:1580
 msgid "Coverage"
-msgstr ""
+msgstr "Cobertura"
 
 #: kenshi/mess.cpp:1582
 msgid "No Armour Coverage"
-msgstr ""
+msgstr "Sen armadura para cubrir"
 
 #: kenshi/mess.cpp:1592 kenshi/statswindow.cpp:119
 msgid "Skills"
-msgstr ""
+msgstr "Habilidades"
 
 #: kenshi/mess.cpp:1596
 msgid "Stealth effect"
-msgstr ""
+msgstr "Efecto furtivo"
 
 #: kenshi/mess.cpp:1597
 msgid "Crossbows effect"
-msgstr ""
+msgstr "Efecto das béstas"
 
 #: kenshi/mess.cpp:1607
 msgid "Dexterity effect"
-msgstr ""
+msgstr "Efecto de destreza"
 
 #: kenshi/mess.cpp:1608
 msgid "Attack damage effect"
-msgstr ""
+msgstr "Efecto do dano de ataque"
 
 #: kenshi/mess.cpp:1609
 msgid "Assassination skill"
-msgstr ""
+msgstr "Habilidade de asasinato"
 
 #: kenshi/mess.cpp:1615
 msgid "Fist protection"
-msgstr ""
+msgstr "Protección de puños"
 
 #: kenshi/mess.cpp:1622
 msgid "Melee attack/defence bonus"
-msgstr ""
+msgstr "Bonus de ataque/defensa corpo a corpo"
 
 #: kenshi/mess.cpp:1624
 msgid "Melee attack bonus"
