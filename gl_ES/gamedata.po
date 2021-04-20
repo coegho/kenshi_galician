@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: 2021-04-17 21:41+0000\n"
+"PO-Revision-Date: 2021-04-21 19:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
@@ -10225,7 +10225,7 @@ msgstr ""
 #. Name: Book
 #: 16855-nodes_otto1.mod
 msgid "Book"
-msgstr ""
+msgstr "Libro"
 
 #. Type: ITEM
 #. Name: Book Of Grace
@@ -11404,7 +11404,7 @@ msgstr ""
 #. Name: Leather
 #: 2292-gamedata.base
 msgid "Leather"
-msgstr ""
+msgstr "Couro"
 
 #. Type: ITEM
 #. Name: Legend of Luquin I
