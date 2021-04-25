@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-21 19:41+0000\n"
+"PO-Revision-Date: 2021-04-26 17:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -6698,365 +6698,375 @@ msgstr "Bonus de ataque/defensa corpo a corpo"
 
 #: kenshi/mess.cpp:1624
 msgid "Melee attack bonus"
-msgstr ""
+msgstr "Bonus de ataque corpo a corpo"
 
 #: kenshi/mess.cpp:1628
 msgid "Melee defence bonus"
-msgstr ""
+msgstr "Bonus de defensa corpo a corpo"
 
 #: kenshi/mess.cpp:1633
 msgid "Martial arts bonus"
-msgstr ""
+msgstr "Bonus de artes marciais"
 
 #: kenshi/mess.cpp:1637
 msgid "Perception bonus"
-msgstr ""
+msgstr "Bonus de percepción"
 
 #: kenshi/mess.cpp:1653
 msgid ""
 "High quality armour crafted by the renowned smith {1} of {2}."
 msgstr ""
+"Armadura de alta calidade fabricada pola afamada ferraría de {1} en {2}."
 
 #: kenshi/mess.cpp:1671
 msgid "This item is broken and can be freely removed at any time."
 msgstr ""
+"Este obxecto está roto e pode ser retirado libremente en calquera momento."
 
 #: kenshi/mess.cpp:1676
 msgid ""
 "This item is unlocked and can be freely removed at any time."
 msgstr ""
+"Este obxecto está desbloqueado e pode ser retirado libremente en calquera "
+"momento."
 
 #: kenshi/mess.cpp:1680
 msgid "Locked:"
-msgstr ""
+msgstr "Fechado:"
 
 #: kenshi/mess.cpp:1683
 msgid ""
 "This item is locked in place and cannot be removed. You can try "
 "to pick the lock, find a saw, or use brute strength."
 msgstr ""
+"Este ítem está fechado e non pode ser retirado. Podes tentar fozar na "
+"fechadura, procurar unha serra ou usar a forza bruta."
 
 #: kenshi/mess.cpp:1687
 msgid ""
 "Warning: Once this item is locked in place it cannot be removed!"
 msgstr ""
+"Aviso: Unha vez este obxecto estea amarrado no sitio non poderá ser retirado!"
 
 #: kenshi/mess.cpp:1707
 msgid "Location already known"
-msgstr ""
+msgstr "Localización xa coñecida"
 
 #: kenshi/mess.cpp:1713
 msgid "Right-click to learn new map locations"
-msgstr ""
+msgstr "Clic dereito para coñecer novas localizacións do mapa"
 
 #: kenshi/mess.cpp:1736
 msgid "Towns:"
-msgstr ""
+msgstr "Vilas:"
 
 #: kenshi/mess.cpp:1766
 msgid "Right-click to add the funds to your faction"
-msgstr ""
+msgstr "Clic dereito para engadir fondos á túa facción"
 
 #: kenshi/mess.cpp:2392
 msgid "Warning: Character template missing for '"
-msgstr ""
+msgstr "Aviso: modelo de personaxe ausente para '"
 
 #: kenshi/mess.cpp:2392
 msgid "'. Using fallback"
-msgstr ""
+msgstr "'. Usando alternativa"
 
 #: kenshi/mess.cpp:2726 kenshi/mess.cpp:2743
 msgid "{1} is dead."
-msgstr ""
+msgstr "{1} morreu."
 
 #: kenshi/mess.cpp:2735
 msgid "{1} has died from blood loss."
-msgstr ""
+msgstr "{1} morreu por perda de sangue."
 
 #: kenshi/mess.cpp:2739
 msgid "{1} has died from starvation."
-msgstr ""
+msgstr "{1} morreu de inanición."
 
 #: kenshi/mess.cpp:2991
 msgid "Expired"
-msgstr ""
+msgstr "Expirou"
 
 #: kenshi/mess.cpp:2997
 msgid "{1,num} Days, {2,num}hrs"
-msgstr ""
+msgstr "{1,num} días, {2,num} h"
 
 #: kenshi/mess.cpp:3000
 msgid "{1,num}hrs"
-msgstr ""
+msgstr "{1,num} h"
 
 #: kenshi/mess.cpp:3002
 msgid "{1,num} mins"
-msgstr ""
+msgstr "{1,num} min"
 
 #: kenshi/mess.cpp:3052
 msgid "Trade"
-msgstr ""
+msgstr "Comerciar"
 
 #: kenshi/mess.cpp:3052
 msgid "Loot"
-msgstr ""
+msgstr "Saquear"
 
 #: kenshi/mess.cpp:3057 kenshi/stats.cpp:3275
 msgid "First Aid"
-msgstr ""
+msgstr "Primeiros auxilios"
 
 #: kenshi/mess.cpp:3059
 msgid "Splint Injuries"
-msgstr ""
+msgstr "Entalar feridas"
 
 #: kenshi/mess.cpp:3061
 msgid "Repairs"
-msgstr ""
+msgstr "Reparacións"
 
 #: kenshi/mess.cpp:3063
 msgid "Talk To"
-msgstr ""
+msgstr "Falar con"
 
 #: kenshi/mess.cpp:3067
 msgid "Pick Up"
-msgstr ""
+msgstr "Recoller"
 
 #: kenshi/mess.cpp:3069
 msgid "Throw out of home"
-msgstr ""
+msgstr "Botar fóra da casa"
 
 #: kenshi/mess.cpp:3071
 msgid "Throw out of town"
-msgstr ""
+msgstr "Botar fóra da vila"
 
 #: kenshi/mess.cpp:3073
 msgid "Kidnap"
-msgstr ""
+msgstr "Secuestrar"
 
 #: kenshi/mess.cpp:3075
 msgid "Escape (skill)"
-msgstr ""
+msgstr "Fuxir (habilidade)"
 
 #: kenshi/mess.cpp:3077
 msgid "Escape (strength)"
-msgstr ""
+msgstr "Fuxir (forza)"
 
 #: kenshi/mess.cpp:3080
 msgid "Put Down"
-msgstr ""
+msgstr "Deixar"
 
 #: kenshi/mess.cpp:3082
 msgid "Put in Bed"
-msgstr ""
+msgstr "Colocar na cama"
 
 #: kenshi/mess.cpp:3084
 msgid "Attack Target"
-msgstr ""
+msgstr "Atacar albo"
 
 #: kenshi/mess.cpp:3086
 msgid "Attack Unprovoked"
-msgstr ""
+msgstr "Atacar sen provocación"
 
 #: kenshi/mess.cpp:3088
 msgid "Attack All"
-msgstr ""
+msgstr "Atacar todos"
 
 #: kenshi/mess.cpp:3090
 msgid "Follow"
-msgstr ""
+msgstr "Seguir"
 
 #: kenshi/mess.cpp:3092
 msgid "Build"
-msgstr ""
+msgstr "Construír"
 
 #: kenshi/mess.cpp:3094
 msgid "Use"
-msgstr ""
+msgstr "Usar"
 
 #: kenshi/mess.cpp:3097
 msgid "Auto-Haul"
-msgstr ""
+msgstr "Auto-transporte"
 
 #: kenshi/mess.cpp:3099
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 #: kenshi/mess.cpp:3101 kenshi/options.cpp:166
 msgid "Close"
-msgstr ""
+msgstr "Pechar"
 
 #: kenshi/mess.cpp:3103
 msgid "Lock"
-msgstr ""
+msgstr "Fechar"
 
 #: kenshi/mess.cpp:3106
 msgid "Unlock"
-msgstr ""
+msgstr "Desfechar"
 
 #: kenshi/mess.cpp:3108
 msgid "Unlock Shackles"
-msgstr ""
+msgstr "Desfechar grilletas"
 
 #: kenshi/mess.cpp:3110
 msgid "Pick Lock"
-msgstr ""
+msgstr "Fozar fechadura"
 
 #: kenshi/mess.cpp:3112
 msgid "Escape"
-msgstr ""
+msgstr "Fuxir"
 
 #: kenshi/mess.cpp:3116
 msgid "Repair"
-msgstr ""
+msgstr "Reparar"
 
 #: kenshi/mess.cpp:3119
 msgid "Sleep"
-msgstr ""
+msgstr "Durmir"
 
 #: kenshi/mess.cpp:3123
 msgid "Get in"
-msgstr ""
+msgstr "Entrar"
 
 #: kenshi/mess.cpp:3125
 msgid "Put in"
-msgstr ""
+msgstr "Colocar"
 
 #: kenshi/mess.cpp:3127
 msgid "Knock Out"
-msgstr ""
+msgstr "Nocautear"
 
 #: kenshi/mess.cpp:3129
 msgid "Set Free"
-msgstr ""
+msgstr "Ceibar"
 
 #: kenshi/mess.cpp:3131
 msgid "Break Out"
-msgstr ""
+msgstr "Armar fuga"
 
 #: kenshi/mess.cpp:3133
 msgid "Corpse Disposal"
-msgstr ""
+msgstr "Retirar cadáveres"
 
 #: kenshi/mess.cpp:3135
 msgid "Man Turret"
-msgstr ""
+msgstr "Ocupar torreta"
 
 #: kenshi/mess.cpp:3138
 msgid "Smash"
-msgstr ""
+msgstr "Esmagar"
 
 #: kenshi/mess.cpp:3140
 msgid "Capture"
-msgstr ""
+msgstr "Capturar"
 
 #: kenshi/mess.cpp:3143
 msgid "Use Tools"
-msgstr ""
+msgstr "Usar ferramentas"
 
 #: kenshi/mess.cpp:3146
 msgid "Use Strength"
-msgstr ""
+msgstr "Usar forza"
 
 #: kenshi/mess.cpp:3148
 msgid "Stealth Kill"
-msgstr ""
+msgstr "Abate furtivo"
 
 #: kenshi/mess.cpp:3150
 msgid "Stealth KO"
-msgstr ""
+msgstr "Nocaute furtivo"
 
 #: kenshi/mess.cpp:3152
 msgid "Shoot At"
-msgstr ""
+msgstr "Disparar"
 
 #: kenshi/mess.cpp:3157
 msgid "Stand Up"
-msgstr ""
+msgstr "Erguerse"
 
 #: kenshi/mess.cpp:3614 kenshi/playerinterface.cpp:3905
 msgid "Your selected character is unconscious"
 msgid_plural "Your selected characters are unconscious"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "O personaxe seleccionado está inconsciente"
+msgstr[1] "Os personaxes seleccionados están inconscientes"
 
 #: kenshi/mess.cpp:4657
 msgid "Target:"
-msgstr ""
+msgstr "Albo:"
 
 #: kenshi/mess.cpp:4730
 msgid "Problem: Crafting stations incapable of making this item."
 msgstr ""
+"Problema: as estacións de fabricación son incapaces de facer este obxecto."
 
 #: kenshi/mess.cpp:4736
 msgid "I can't craft anything here with this crappy workbench."
-msgstr ""
+msgstr "Non podo fabricar nada con este banco de traballo de merda."
 
 #: kenshi/mess.cpp:4757
 msgid "Do you want to buy this building for c.{1,num}?"
-msgstr ""
+msgstr "Queres comprar este edificio por c.{1,num}?"
 
 #: kenshi/mess.cpp:4769
 msgid "Can't afford to buy this building. It costs c.{1,num}"
-msgstr ""
+msgstr "No te podes permitir esta construción. Custa c{1,num}"
 
 #: kenshi/mess.cpp:4870
 msgid "Building purchased!"
-msgstr ""
+msgstr "Construción comprada!"
 
 #: kenshi/missions.cpp:219
 msgid "Mission Complete"
-msgstr ""
+msgstr "Misión completada"
 
 #: kenshi/missions.cpp:229
 msgid "Mission Failed"
-msgstr ""
+msgstr "Misión fracasada"
 
 #: kenshi/options.cpp:171 kenshi/titlescreen.cpp:90
 #: kenshi/titlescreen.cpp:645
 msgid "Options"
-msgstr ""
+msgstr "Opcións"
 
 #: kenshi/options.cpp:358 kenshi/statswindow.cpp:1145
 msgid "General"
-msgstr ""
+msgstr "Xeral"
 
 #: kenshi/options.cpp:363
 msgid "Tutorials"
-msgstr ""
+msgstr "Tutoriais"
 
 #: kenshi/options.cpp:365
 msgid "Enable/Disable in-game tutorials"
-msgstr ""
+msgstr "Activar/desactivar os tutoriais no xogo"
 
 #: kenshi/options.cpp:367
 msgid "Reset Tutorials"
-msgstr ""
+msgstr "Reiniciar tutoriais"
 
 #: kenshi/options.cpp:370
 msgid "Auto save"
-msgstr ""
+msgstr "Gardar automaticamente"
 
 #: kenshi/options.cpp:370
 msgid "Turns on automatic saves"
-msgstr ""
+msgstr "Activar o gardado automático"
 
 #: kenshi/options.cpp:371
 msgid "Auto save time (minutes)"
-msgstr ""
+msgstr "Tempo de gardado automático (minutos)"
 
 #: kenshi/options.cpp:372 kenshi/options.cpp:380
 msgid "Show character names"
-msgstr ""
+msgstr "Mostrar nomes de personaxes"
 
 #: kenshi/options.cpp:373
 msgid ""
 "Shows the names of your characters on screen, hovering above "
 "their heads."
 msgstr ""
+"Mostra os nomes dos teus personaxes en pantalla, flotando sobre as súas "
+"cabezas."
 
 #: kenshi/options.cpp:374
 msgid "Show movement marker"
-msgstr ""
+msgstr "Mostrar marcador de movemento"
 
 #: kenshi/options.cpp:375
 msgid ""
@@ -7064,10 +7074,13 @@ msgid ""
 "clicked.  Useful when you are new to the game, but you should "
 "turn them off once you are used to it."
 msgstr ""
+"Mostra o horríbel marcador verde que indica exactamente onde clicaches. Útil "
+"cando acabas de comezar no xogo, mais deberías desactivalo cando te afagas a "
+"el."
 
 #: kenshi/options.cpp:376
 msgid "Show rotation marker"
-msgstr ""
+msgstr "Mostrar marcador de rotación"
 
 #: kenshi/options.cpp:377
 msgid ""
@@ -7075,20 +7088,25 @@ msgid ""
 "when you are new to the game, but you should turn them off once "
 "you are used to it because it looks horrible."
 msgstr ""
+"Mostra o horríbel marcador verde para indicar a rotación da cámara. Útil "
+"cando acabas de comezar no xogo, mais deberías desactivalo unha vez te "
+"afagas a el porque é horroroso."
 
 #: kenshi/options.cpp:378
 msgid "Edge scrolling"
-msgstr ""
+msgstr "Desprazamento de bordos"
 
 #: kenshi/options.cpp:379
 msgid ""
 "Makes the camera move when you move the mouse pointer to the "
 "edge of the screen"
 msgstr ""
+"Fai que a cámara se mova cando movas o punteiro do rato polos bordos da "
+"pantalla"
 
 #: kenshi/options.cpp:385
 msgid "Language censorship"
-msgstr ""
+msgstr "Censura lingüística"
 
 #: kenshi/options.cpp:386
 msgid ""
@@ -7096,22 +7114,24 @@ msgid ""
 "sort of thing ruining your violent blood-bath and slavery "
 "experience."
 msgstr ""
+"Filtra a maior parte da linguaxe vulgar, para que non estrague a túa "
+"violenta experiencia de escravitude e baños de sangue."
 
 #: kenshi/options.cpp:388
 msgid "Show damage floaters"
-msgstr ""
+msgstr "Mostrar números de danos"
 
 #: kenshi/options.cpp:389
 msgid "Off"
-msgstr ""
+msgstr "Non"
 
 #: kenshi/options.cpp:390
 msgid "Simple info"
-msgstr ""
+msgstr "Información simple"
 
 #: kenshi/options.cpp:391
 msgid "Full info"
-msgstr ""
+msgstr "Información completa"
 
 #: kenshi/options.cpp:392
 msgid ""
@@ -7120,6 +7140,10 @@ msgid ""
 "damage that was stopped by armour.  [Full Info] will show "
 "separate numbers for each damage type."
 msgstr ""
+"Estes son os números flotantes que mostran o dano cando un personaxe é "
+"golpeado. Tamén mostra entre corchetes a cantidade de dano que foi detida "
+"pola armadura. [Información completa] mostrará números separados para cada "
+"tipo de dano."
 
 #: kenshi/options.cpp:395
 msgid "Font Size"
