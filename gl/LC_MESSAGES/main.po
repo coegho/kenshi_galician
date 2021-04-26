@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-26 17:41+0000\n"
+"PO-Revision-Date: 2021-04-27 19:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -7147,21 +7147,23 @@ msgstr ""
 
 #: kenshi/options.cpp:395
 msgid "Font Size"
-msgstr ""
+msgstr "Tamaño da fonte"
 
 #: kenshi/options.cpp:402
 msgid "Civilians in towns (requires restart/import)"
-msgstr ""
+msgstr "Civís nas vilas (require comezar de cero/importar)"
 
 #: kenshi/options.cpp:403
 msgid ""
 "This will simply prevent some of the less useful civilian NPCs "
 "from spawning in towns.  Use to improve performance slightly."
 msgstr ""
+"Isto simplemente impedirá que algúns dos NPCs menos útiles aparezan nas "
+"vilas. Úsao para mellorar lixeiramente o rendemento."
 
 #: kenshi/options.cpp:405
 msgid "Fast zone hopping"
-msgstr ""
+msgstr "Salto rápido entre zonas"
 
 #: kenshi/options.cpp:406
 msgid ""
@@ -7169,18 +7171,21 @@ msgid ""
 "without any loading time because it keeps a larger area in "
 "memory.  WARNING: will use more RAM and reduce frame rate"
 msgstr ""
+"Permíteche alternar entre personaxes en distintas zonas do mapa sen tempos "
+"de carga porque mantén unha área maior en memoria. AVISO: vai usar máis RAM "
+"e reducirá a taxa de cuadros ou frame rate"
 
 #: kenshi/options.cpp:419
 msgid "Gameplay"
-msgstr ""
+msgstr "Xogabilidade"
 
 #: kenshi/options.cpp:425
 msgid "Population settings (affects performance)"
-msgstr ""
+msgstr "Configuración de poboación (afecta o rendemento)"
 
 #: kenshi/options.cpp:426
 msgid "Squad size multiplier"
-msgstr ""
+msgstr "Multiplicador de tamaño de grupo"
 
 #: kenshi/options.cpp:427
 msgid ""
@@ -7189,10 +7194,13 @@ msgid ""
 "characters and bigger battles.  WARNING! Will adversely affect "
 "performance."
 msgstr ""
+"Isto multiplica o número de NPCs en cada grupo (non afecta ao número de "
+"grupos). Un número maior que 1.0 significa MÁIS personaxes e batallas "
+"maiores. AVISO: vai afectar negativamente ao rendemento."
 
 #: kenshi/options.cpp:429
 msgid "Global population multiplier (num NPC squads)"
-msgstr ""
+msgstr "Multiplicador global de poboación (núm. de grupos NPCs)"
 
 #: kenshi/options.cpp:430
 msgid ""
@@ -7200,14 +7208,17 @@ msgid ""
 "affect squad size).  Setting higher than 1.0 means MORE "
 "characters.  WARNING! Will adversely affect performance."
 msgstr ""
+"Multiplica o número de grupos no mundo (non afecta o tamaño do grupo). Un "
+"número maior que 1.0 significa MÁIS personaxes. AVISO: vai afectar "
+"negativamente o rendemento."
 
 #: kenshi/options.cpp:432
 msgid "Difficulty settings"
-msgstr ""
+msgstr "Configuración de dificultade"
 
 #: kenshi/options.cpp:434
 msgid "Town raid events: size"
-msgstr ""
+msgstr "Eventos de incursión na vila: tamaño"
 
 #: kenshi/options.cpp:435
 msgid ""
@@ -7215,42 +7226,47 @@ msgid ""
 "when nearby factions attack your town. WARNING! Making the "
 "raids bigger will affect performance"
 msgstr ""
+"Afecta o tamaño (e por tanto a dificultade) das forzas atacantes cando "
+"faccións veciñas atacan a túa vila. AVISO! Facer as incursións maiores "
+"afectará o rendemento"
 
 #: kenshi/options.cpp:437
 msgid "Town raid events: frequency"
-msgstr ""
+msgstr "Eventos de incursión na vila: frecuencia"
 
 #: kenshi/options.cpp:438
 msgid ""
 "Affects the frequency of the raid events.  (Values > 1 means "
 "more frequent attacks)"
 msgstr ""
+"Afecta a frecuencia dos eventos de incursión. (Valores maiores que 1 "
+"significan ataques máis frecuentes)"
 
 #: kenshi/options.cpp:440
 msgid "Town attacks frequency"
-msgstr ""
+msgstr "Frecuencia de ataques á vila"
 
 #: kenshi/options.cpp:441
 msgid "Bombardment"
-msgstr ""
+msgstr "Bombardeo"
 
 #. TRANSLATORS: Item quality grade
 #: kenshi/options.cpp:442 kenshi/options.cpp:509
 #: kenshi/items.h:777
 msgid "High"
-msgstr ""
+msgstr "Alta"
 
 #: kenshi/options.cpp:444
 msgid "Fewer"
-msgstr ""
+msgstr "Poucos"
 
 #: kenshi/options.cpp:445 kenshi/options.cpp:453
 msgid "Rare"
-msgstr ""
+msgstr "Raros"
 
 #: kenshi/options.cpp:446 kenshi/options.cpp:452
 msgid "Never"
-msgstr ""
+msgstr "Nunca"
 
 #: kenshi/options.cpp:448
 msgid ""
@@ -7259,14 +7275,17 @@ msgid ""
 "by your base and decide to attack it, trying to take it over. "
 "The old default was [High]"
 msgstr ""
+"É algo separado para os eventos de incursión. É para os ataques de bandidos "
+"e inimigos que, por acaso, pasan pola túa base e deciden atacala, nunha "
+"tentativa de asumir o control. O antigo valor por defecto era [Alto]"
 
 #: kenshi/options.cpp:451
 msgid "Dismemberment"
-msgstr ""
+msgstr "Desmembramento"
 
 #: kenshi/options.cpp:454
 msgid "Frequent"
-msgstr ""
+msgstr "Frecuente"
 
 #: kenshi/options.cpp:456
 msgid ""
@@ -7276,37 +7295,45 @@ msgid ""
 "occurence).  With either setting limbs can still be eaten off "
 "also.  [Never] means limb loss is disabled completely (boring)"
 msgstr ""
+"Afecta a frecuencia coa que se perden membros. [Frecuente] significa que o "
+"membro é perdido sempre que os PV caen por debaixo de 100. [Raro] significa "
+"que os membros só se perden cando sufren un GOLPE e o dano baixa por debaixo "
+"de -100 (non sucede a miúdo). Con calquera das dúas configuracións, os "
+"membros tamén poden ser devorados. [Nunca] significa que a perda de membros "
+"está completamente desactivada (aburrido)"
 
 #: kenshi/options.cpp:467
 msgid "Graphics"
-msgstr ""
+msgstr "Gráficos"
 
 #: kenshi/options.cpp:473
 msgid "Resolution (need restart)"
-msgstr ""
+msgstr "Resolución (require reiniciar)"
 
 #: kenshi/options.cpp:482
 msgid "Full screen (need restart)"
-msgstr ""
+msgstr "Pantalla completa (require reiniciar)"
 
 #: kenshi/options.cpp:482
 msgid ""
 "Fullscreen mode, use only if Borderless isn't working for you"
-msgstr ""
+msgstr "Modo pantalla completa, úsao só se o modo sen bordos non funciona"
 
 #: kenshi/options.cpp:485
 msgid "Borderless (need restart)"
-msgstr ""
+msgstr "Sen bordos (require reiniciar)"
 
 #: kenshi/options.cpp:485
 msgid ""
 "Borderless is the recommended screen mode, it is a type of "
 "fullscreen that allows safer alt-tabbing"
 msgstr ""
+"O modo sen bordos é o recomendado, é un tipo de pantalla completa que "
+"permite facer alt+tab con maior seguridade"
 
 #: kenshi/options.cpp:492
 msgid "View Distance"
-msgstr ""
+msgstr "Distancia de visión"
 
 #: kenshi/options.cpp:492
 msgid ""
@@ -7314,56 +7341,59 @@ msgid ""
 "on performance.  Recommend you don't set it extremely high or "
 "low."
 msgstr ""
+"Aumenta a distancia á que podes ver, mais ten un efecto negativo no "
+"rendemento. Recoméndase non poñelo moi alto nin moi baixo."
 
 #: kenshi/options.cpp:494
 msgid "Terrain Detail"
-msgstr ""
+msgstr "Detalle do terreo"
 
 #: kenshi/options.cpp:494
 msgid ""
 "Increases the quality of the terrain, but can have a negative "
 "effect on performance."
 msgstr ""
+"Aumenta a calidade do terreo, mais ten un efecto negativo no rendemento."
 
 #: kenshi/options.cpp:501
 msgid "Grass View Range"
-msgstr ""
+msgstr "Alcance de visión da herba"
 
 #: kenshi/options.cpp:502
 msgid "Grass Density"
-msgstr ""
+msgstr "Densidade da herba"
 
 #: kenshi/options.cpp:503
 msgid "Foliage View Range"
-msgstr ""
+msgstr "Alcance de visión da follaxe"
 
 #: kenshi/options.cpp:504
 msgid "NPC View Range"
-msgstr ""
+msgstr "Alcance de visión dos NPCs"
 
 #: kenshi/options.cpp:505
 msgid "Objects View Range"
-msgstr ""
+msgstr "Alcance de visión dos obxectos"
 
 #: kenshi/options.cpp:507
 msgid "Texture Quality (need restart)"
-msgstr ""
+msgstr "Calidade de texturas (require reiniciar)"
 
 #: kenshi/options.cpp:508
 msgid "Mega-high (danger!)"
-msgstr ""
+msgstr "Moi alta (perigo!)"
 
 #: kenshi/options.cpp:510
 msgid "Medium"
-msgstr ""
+msgstr "Media"
 
 #: kenshi/options.cpp:511
 msgid "Low"
-msgstr ""
+msgstr "Baixa"
 
 #: kenshi/options.cpp:512
 msgid "Fugly"
-msgstr ""
+msgstr "Abominábel"
 
 #: kenshi/options.cpp:514
 msgid ""
@@ -7373,18 +7403,23 @@ msgid ""
 "choose then the game will crash randomly because that's just "
 "how Microsoft designed it.  Recommend > 4GB VRAM for max setting"
 msgstr ""
+"Aumenta a calidade das texturas, non adoita afectar ao rendemento mais "
+"afecta no uso de memoria e tempos de carga. /n AVISO! Se non tes RAM de "
+"vídeo suficiente para manexar a a configuración escollida, o xogo irá "
+"crashar aleatoriamente porque é así como Microsoft o deseñou. Recoméndase > "
+"4GB de VRAM para configuración máxima"
 
 #: kenshi/options.cpp:516
 msgid "Terrain Chunk Size (need restart)"
-msgstr ""
+msgstr "Tamaño do cacho de terreo (require reiniciar)"
 
 #: kenshi/options.cpp:517
 msgid "Small"
-msgstr ""
+msgstr "Pequeno"
 
 #: kenshi/options.cpp:518
 msgid "Large"
-msgstr ""
+msgstr "Grande"
 
 #: kenshi/options.cpp:519
 msgid ""
@@ -7395,68 +7430,75 @@ msgid ""
 "will also help if you have problems with running out of video "
 "RAM, which causes crashes"
 msgstr ""
+"O tamaño dos cachos (Chunks) de terreo. [Grande] fará que o xogo vaia máis "
+"rápido ao ollar o horizonte nos computadores rápidos. Sistemas máis lentos "
+"usando visión de curto alcance poden achar que, ao contrario, fican máis "
+"lento; nese caso troca para [Pequeno]. [Pequeno] tamén axudará se tes "
+"problemas por quedar sen RAM, que provoca crashes"
 
 #: kenshi/options.cpp:523
 msgid "Water reflection"
-msgstr ""
+msgstr "Reflexos na auga"
 
 #: kenshi/options.cpp:524 kenshi/options.cpp:533
 msgid "Disabled"
-msgstr ""
+msgstr "Desactivado"
 
 #: kenshi/options.cpp:525
 msgid "Landscape"
-msgstr ""
+msgstr "Paisaxe"
 
 #: kenshi/options.cpp:526
 msgid "Characters"
-msgstr ""
+msgstr "Personaxes"
 
 #: kenshi/options.cpp:528
 msgid "Everything"
-msgstr ""
+msgstr "Todo"
 
 #: kenshi/options.cpp:529
 msgid ""
 "Determines what is reflected in the water.  Turning this off "
 "will give a good performance boost"
 msgstr ""
+"Determina que se reflexa na auga. Desactivar esta opción aumenta bastante o "
+"rendemento"
 
 #: kenshi/options.cpp:532
 msgid "Shadows"
-msgstr ""
+msgstr "Sombras"
 
 #: kenshi/options.cpp:534
 msgid "CSM"
-msgstr ""
+msgstr "CMS"
 
 #: kenshi/options.cpp:535
 msgid "RTWSM"
-msgstr ""
+msgstr "RTWSM"
 
 #: kenshi/options.cpp:537
 msgid "Turn off shadows if you have problems with performance"
-msgstr ""
+msgstr "Desactiva as sombras se tes problemas co rendemento"
 
 #: kenshi/options.cpp:539
 msgid "Shadow Quality"
-msgstr ""
+msgstr "Calidade das sombras"
 
 #: kenshi/options.cpp:540
 msgid "1024 (poor)"
-msgstr ""
+msgstr "1024 (escasa)"
 
 #: kenshi/options.cpp:541
 msgid "2048 (nice)"
-msgstr ""
+msgstr "2048 (boa)"
 
 #: kenshi/options.cpp:542
 msgid "4096 (some video cards may freak out)"
-msgstr ""
+msgstr "4096 (algunhas tarxetas de vídeo poden tolear)"
 
 #: kenshi/options.cpp:545
 msgid "Shadow Range"
-msgstr ""
+msgstr "Alcance das sombras"
 
 #: kenshi/options.cpp:545
 msgid ""
@@ -7464,38 +7506,41 @@ msgid ""
 "longer distance, but also reduces the shadows resolution/"
 "quality.  Find a balance that you like."
 msgstr ""
+"Definir unha distancia maior significa que as sombras son visíbeis nunha "
+"distancia maior, mais tamén reduce a resolución/calidade das sombras. Atopa "
+"o equilibrio que gustes."
 
 #: kenshi/options.cpp:547 kenshi/stats.cpp:1847
 msgid "Blood"
-msgstr ""
+msgstr "Sangue"
 
 #: kenshi/options.cpp:549
 msgid "Decal Range"
-msgstr ""
+msgstr "Alcance de decalques"
 
 #: kenshi/options.cpp:550
 msgid "Decal Resolution"
-msgstr ""
+msgstr "Resolución de decalques"
 
 #: kenshi/options.cpp:551
 msgid "512"
-msgstr ""
+msgstr "512"
 
 #: kenshi/options.cpp:552
 msgid "1024"
-msgstr ""
+msgstr "1024"
 
 #: kenshi/options.cpp:553
 msgid "2048"
-msgstr ""
+msgstr "2048"
 
 #: kenshi/options.cpp:555
 msgid "The quality of blood-splats on the terrain"
-msgstr ""
+msgstr "A calidade das manchas de sangue no terreo"
 
 #: kenshi/options.cpp:558
 msgid "Harpoon limit"
-msgstr ""
+msgstr "Límite do arpón"
 
 #: kenshi/options.cpp:558
 msgid ""
@@ -7503,67 +7548,70 @@ msgid ""
 "Reduce this if you have frame rate drops around heavy turret "
 "areas."
 msgstr ""
+"O número máximo de arpóns/frechas que quedan no chan. Reduce isto se tes "
+"caídas da taxa de cuadros (frame rate drops) preto de áreas con moitas "
+"torretas."
 
 #: kenshi/options.cpp:571
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: kenshi/options.cpp:576
 msgid "Music volume"
-msgstr ""
+msgstr "Volume da música"
 
 #: kenshi/options.cpp:577
 msgid "Ambient volume"
-msgstr ""
+msgstr "Volume do ambiente"
 
 #: kenshi/options.cpp:578
 msgid "Footstep volume"
-msgstr ""
+msgstr "Volume dos pasos"
 
 #: kenshi/options.cpp:579
 msgid "SFX volume"
-msgstr ""
+msgstr "Volume de efectos"
 
 #: kenshi/options.cpp:580
 msgid "VO volume"
-msgstr ""
+msgstr "Volume da voz"
 
 #: kenshi/options.cpp:581
 msgid "UI volume"
-msgstr ""
+msgstr "Volume da interface"
 
 #: kenshi/options.cpp:583
 msgid "Music Frequency (minutes)"
-msgstr ""
+msgstr "Frecuencia de música (minutos)"
 
 #: kenshi/options.cpp:585
 msgid ""
 "Affects the overall amount of time that music plays in the game"
-msgstr ""
+msgstr "Afecta á cantidade de tempo total en que a música soa durante o xogo"
 
 #: kenshi/options.cpp:591
 msgid "Controls"
-msgstr ""
+msgstr "Controis"
 
 #: kenshi/options.cpp:598
 msgid "Invert mouse X"
-msgstr ""
+msgstr "Invertir X do rato"
 
 #: kenshi/options.cpp:599
 msgid "Invert mouse Y"
-msgstr ""
+msgstr "Invertir Y do rato"
 
 #: kenshi/options.cpp:600
 msgid "Swap mouse buttons"
-msgstr ""
+msgstr "Trocar botóns do rato"
 
 #: kenshi/options.cpp:600
 msgid "Swap left and right mouse buttons on the GUI"
-msgstr ""
+msgstr "Intercambia os botóns esquerdo e dereito do rato na GUI"
 
 #: kenshi/options.cpp:601
 msgid "Hardware Mouse"
-msgstr ""
+msgstr "Rato de hardware"
 
 #: kenshi/options.cpp:602
 msgid ""
@@ -7571,38 +7619,41 @@ msgid ""
 "which looks a bit weird but has the advantage that it's not "
 "affected by the frame-rate.  (REQURIES RESTART)"
 msgstr ""
+"Activar esta opción usará o punteiro do rato de hardware de Windows, que é "
+"un pouco rariño mais ten a vantaxe de non verse afectado pola taxa de "
+"cuadros (REQUIRE REINICIO)"
 
 #: kenshi/options.cpp:604
 msgid "Camera Move Speed"
-msgstr ""
+msgstr "Velocidade de movemento da cámara"
 
 #: kenshi/options.cpp:605
 msgid "Camera Rotate Speed X"
-msgstr ""
+msgstr "Velocidade de xiro da cámara X"
 
 #: kenshi/options.cpp:606
 msgid "Camera Rotate Speed Y"
-msgstr ""
+msgstr "Velocidade de xiro da cámara Y"
 
 #: kenshi/options.cpp:607
 msgid "Camera Zoom Speed"
-msgstr ""
+msgstr "Velocidade de zoom da cámara"
 
 #: kenshi/options.cpp:610
 msgid "Key bindings"
-msgstr ""
+msgstr "Atallos de teclado"
 
 #: kenshi/options.cpp:612
 msgid "Selection"
-msgstr ""
+msgstr "Selección"
 
 #: kenshi/options.cpp:613
 msgid "Issue command"
-msgstr ""
+msgstr "Emitir comando"
 
 #: kenshi/options.cpp:615
 msgid "Pause Game"
-msgstr ""
+msgstr "Pausar o xogo"
 
 #: kenshi/options.cpp:616
 msgid "Take screenshot"
