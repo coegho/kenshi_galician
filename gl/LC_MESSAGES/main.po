@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2019-04-04 13:38+0100\n"
-"PO-Revision-Date: 2021-04-27 19:41+0000\n"
+"PO-Revision-Date: 2021-05-12 22:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/main/gl/>"
 "\n"
@@ -7657,301 +7657,301 @@ msgstr "Pausar o xogo"
 
 #: kenshi/options.cpp:616
 msgid "Take screenshot"
-msgstr ""
+msgstr "Facer captura de pantalla"
 
 #: kenshi/options.cpp:617
 msgid "Quicksave"
-msgstr ""
+msgstr "Gardado rápido"
 
 #: kenshi/options.cpp:618
 msgid "Quickload"
-msgstr ""
+msgstr "Cargado rápido"
 
 #: kenshi/options.cpp:619
 msgid "Normal game speed"
-msgstr ""
+msgstr "Velocidade de xogo normal"
 
 #: kenshi/options.cpp:620
 msgid "Faster game speed"
-msgstr ""
+msgstr "Velocidade de xogo rápida"
 
 #: kenshi/options.cpp:621
 msgid "Fastest game speed"
-msgstr ""
+msgstr "Velocidade de xogo máis rápida"
 
 #: kenshi/options.cpp:624
 msgid "Up one floor"
-msgstr ""
+msgstr "Subir un piso"
 
 #: kenshi/options.cpp:625
 msgid "Down one floor"
-msgstr ""
+msgstr "Baixar un piso"
 
 #: kenshi/options.cpp:627
 msgid "Highlight Items"
-msgstr ""
+msgstr "Destacar obxectos"
 
 #: kenshi/options.cpp:629
 msgid "Rotate camera"
-msgstr ""
+msgstr "Rotar cámara"
 
 #: kenshi/options.cpp:631
 msgid "Move camera forward"
-msgstr ""
+msgstr "Mover cámara cara adiante"
 
 #: kenshi/options.cpp:632
 msgid "Move camera backward"
-msgstr ""
+msgstr "Mover cámara cara atrás"
 
 #: kenshi/options.cpp:633
 msgid "Move camera left"
-msgstr ""
+msgstr "Mover cámara cara a esquerda"
 
 #: kenshi/options.cpp:634
 msgid "Move camera right"
-msgstr ""
+msgstr "Mover cámara cara a dereita"
 
 #: kenshi/options.cpp:635
 msgid "Tilt camera up"
-msgstr ""
+msgstr "Inclinar cámara cara arriba"
 
 #: kenshi/options.cpp:636
 msgid "Tilt camera down"
-msgstr ""
+msgstr "Inclinar cámara cara abaixo"
 
 #: kenshi/options.cpp:637
 msgid "Rotate camera left"
-msgstr ""
+msgstr "Rotar cámara cara a esquerda"
 
 #: kenshi/options.cpp:638
 msgid "Rotate camera right"
-msgstr ""
+msgstr "Rotar cámara cara a dereita"
 
 #: kenshi/options.cpp:639
 msgid "Zoom in"
-msgstr ""
+msgstr "Facer zoom"
 
 #: kenshi/options.cpp:640
 msgid "Zoom out"
-msgstr ""
+msgstr "Restar zoom"
 
 #: kenshi/options.cpp:643
 msgid "Toggle map"
-msgstr ""
+msgstr "Activar mapa"
 
 #: kenshi/options.cpp:644
 msgid "Toggle character inventory"
-msgstr ""
+msgstr "Activar inventario de personaxe"
 
 #: kenshi/options.cpp:645
 msgid "Toggle character stats"
-msgstr ""
+msgstr "Activar atributos de personaxe"
 
 #: kenshi/options.cpp:646
 msgid "Toggle research"
-msgstr ""
+msgstr "Activar pesquisa"
 
 #: kenshi/options.cpp:647
 msgid "Toggle faction window"
-msgstr ""
+msgstr "Activar xanela de facción"
 
 #: kenshi/options.cpp:648
 msgid "Toggle main gui"
-msgstr ""
+msgstr "Activar interface principal"
 
 #: kenshi/options.cpp:651
 msgid "Stop selected characters actions"
-msgstr ""
+msgstr "Deter accións dos personaxes seleccionados"
 
 #: kenshi/options.cpp:652
 msgid "Toggle block only mode"
-msgstr ""
+msgstr "Activar modo de só bloqueo"
 
 #: kenshi/options.cpp:653
 msgid "Toggle passive mode"
-msgstr ""
+msgstr "Activar modo pasivo"
 
 #: kenshi/options.cpp:654
 msgid "Toggle jobs"
-msgstr ""
+msgstr "Activar tarefas"
 
 #: kenshi/options.cpp:655
 msgid "Toggle ranged mode"
-msgstr ""
+msgstr "Activar modo a distancia"
 
 #: kenshi/options.cpp:656
 msgid "Toggle stealth mode"
-msgstr ""
+msgstr "Activar modo furtivo"
 
 #: kenshi/options.cpp:657
 msgid "Cycle movement speed"
-msgstr ""
+msgstr "Cambiar velocidade de movemento"
 
 #: kenshi/options.cpp:658
 msgid "Medic order"
-msgstr ""
+msgstr "Comandar médico"
 
 #: kenshi/options.cpp:659
 msgid "Rescue order"
-msgstr ""
+msgstr "Comandar rescate"
 
 #: kenshi/options.cpp:660
 msgid "Prospect order"
-msgstr ""
+msgstr "Comandar prospección"
 
 #: kenshi/options.cpp:663
 msgid "Focus selected character"
-msgstr ""
+msgstr "Foco no personaxe seleccionado"
 
 #: kenshi/options.cpp:664
 msgid "Select all characters"
-msgstr ""
+msgstr "Seleccionar todos os personaxes"
 
 #: kenshi/options.cpp:665
 msgid "Select character 1"
-msgstr ""
+msgstr "Seleccionar personaxe 1"
 
 #: kenshi/options.cpp:666
 msgid "Select character 2"
-msgstr ""
+msgstr "Seleccionar personaxe 2"
 
 #: kenshi/options.cpp:667
 msgid "Select character 3"
-msgstr ""
+msgstr "Seleccionar personaxe 3"
 
 #: kenshi/options.cpp:668
 msgid "Select character 4"
-msgstr ""
+msgstr "Seleccionar personaxe 4"
 
 #: kenshi/options.cpp:669
 msgid "Select character 5"
-msgstr ""
+msgstr "Seleccionar personaxe 5"
 
 #: kenshi/options.cpp:670
 msgid "Select character 6"
-msgstr ""
+msgstr "Seleccionar personaxe 6"
 
 #: kenshi/options.cpp:671
 msgid "Select character 7"
-msgstr ""
+msgstr "Seleccionar personaxe 7"
 
 #: kenshi/options.cpp:672
 msgid "Select character 8"
-msgstr ""
+msgstr "Seleccionar personaxe 8"
 
 #: kenshi/options.cpp:673
 msgid "Select character 9"
-msgstr ""
+msgstr "Seleccionar personaxe 9"
 
 #: kenshi/options.cpp:674
 msgid "Select character 10"
-msgstr ""
+msgstr "Seleccionar personaxe 10"
 
 #: kenshi/options.cpp:676
 msgid "Select next character"
-msgstr ""
+msgstr "Seleccionar personaxe seguinte"
 
 #: kenshi/options.cpp:677
 msgid "Select previous character"
-msgstr ""
+msgstr "Seleccionar personaxe anterior"
 
 #: kenshi/options.cpp:678
 msgid "Cycle squads"
-msgstr ""
+msgstr "Cambiar grupo"
 
 #: kenshi/options.cpp:683
 msgid "Build mode"
-msgstr ""
+msgstr "Modo de construción"
 
 #: kenshi/options.cpp:684
 msgid "Toggle build mode"
-msgstr ""
+msgstr "Activar modo de construción"
 
 #: kenshi/options.cpp:685
 msgid "Confirm build mode"
-msgstr ""
+msgstr "Confirmar modo de construción"
 
 #: kenshi/options.cpp:687
 msgid "Undo last building"
-msgstr ""
+msgstr "Desfacer última construción"
 
 #: kenshi/options.cpp:688
 msgid "Rotate building left"
-msgstr ""
+msgstr "Rotar construción cara a esquerda"
 
 #: kenshi/options.cpp:689
 msgid "Rotate building right"
-msgstr ""
+msgstr "Rotar construción cara a dereita"
 
 #: kenshi/options.cpp:690
 msgid "Move building up"
-msgstr ""
+msgstr "Mover construción cara arriba"
 
 #: kenshi/options.cpp:691
 msgid "Move building down"
-msgstr ""
+msgstr "Mover construción cara abaixo"
 
 #: kenshi/options.cpp:692
 msgid "Increase building slope"
-msgstr ""
+msgstr "Aumentar ángulo de construción"
 
 #: kenshi/options.cpp:693
 msgid "Decrease building slope"
-msgstr ""
+msgstr "Reducir ángulo da construción"
 
 #: kenshi/options.cpp:696
 msgid "Tools"
-msgstr ""
+msgstr "Ferramnetas"
 
 #: kenshi/options.cpp:697
 msgid "Toggle game editor"
-msgstr ""
+msgstr "Activar editor de xogo"
 
 #: kenshi/options.cpp:698
 msgid "Rebuild navmesh"
-msgstr ""
+msgstr "Reconstruír navmesh"
 
 #: kenshi/options.cpp:699
 msgid "Reload biome data"
-msgstr ""
+msgstr "Recarregar datos de bioma"
 
 #: kenshi/options.cpp:700
 msgid "Editor gizmo: move"
-msgstr ""
+msgstr "Utensilio do editor: mover"
 
 #: kenshi/options.cpp:701
 msgid "Editor gizmo: rotate"
-msgstr ""
+msgstr "Utensilio do editor: rotar"
 
 #: kenshi/options.cpp:702
 msgid "Editor gizmo: scale"
-msgstr ""
+msgstr "Utensilio do editor: escala"
 
 #: kenshi/options.cpp:705
 msgid "Defaults"
-msgstr ""
+msgstr "Valores por defecto"
 
 #: kenshi/options.cpp:720
 msgid "Active mods"
-msgstr ""
+msgstr "Mods activos"
 
 #: kenshi/playerinterface.cpp:613
 msgid "Beta limitation: Area under construction."
-msgstr ""
+msgstr "Limitación beta: área en construción."
 
 #: kenshi/playerinterface.cpp:1027 kenshi/playerinterface.cpp:1125
 #: kenshi/playerinterface.cpp:1163
 msgid "Hold down the ALT key to pick the lock."
-msgstr ""
+msgstr "Mantén a tecla ALT para tentar fozar na fechadura."
 
 #: kenshi/playerinterface.cpp:1137
 msgid "Hold down the ALT key to escape the cage."
-msgstr ""
+msgstr "Mantén a tecla ALT para tentar fuxir da gaiola."
 
 #: kenshi/playerinterface.cpp:2601 kenshi/start.cpp:1043
 #: kenshi/start.cpp:1061
 msgid "Error!"
-msgstr ""
+msgstr "Erro!"
 
 #: kenshi/playerinterface.cpp:2601
 msgid ""
@@ -7959,111 +7959,117 @@ msgid ""
 "game with [reset positions] selected to recover your missing "
 "squads"
 msgstr ""
+"Un dos teus grupos ficou fóra do mapa, recarrega o xogo con [restaurar "
+"posicións] seleccionado para recuperar os grupos perdidos"
 
 #: kenshi/previewbuilding.cpp:616
 msgid "Can't place in a building you don't own."
-msgstr ""
+msgstr "Non é posíbel situar nunha construción que non é túa."
 
 #: kenshi/previewbuilding.cpp:618
 msgid "Can't build too close to another town."
-msgstr ""
+msgstr "Non podes construír tan preto de outra cidade."
 
 #: kenshi/previewbuilding.cpp:625
 msgid "This crop will not grow in this environment."
-msgstr ""
+msgstr "Esta plantación non medrará neste entorno."
 
 #: kenshi/previewbuilding.cpp:627
 msgid "No resources at this location, mining would be pointless."
-msgstr ""
+msgstr "Non hai recursos nesta localización, sería inútil facer minas."
 
 #: kenshi/previewbuilding.cpp:634
 msgid "Cannot build inside incomplete buildings."
-msgstr ""
+msgstr "Non é posíbel construír dentro de construcións incompletas."
 
 #: kenshi/previewbuilding.cpp:637
 msgid "Must be placed outside or on a roof."
-msgstr ""
+msgstr "Debe ser situado fóra ou nun tellado."
 
 #: kenshi/previewbuilding.cpp:639
 msgid "Must be placed inside a building."
-msgstr ""
+msgstr "Debe ser situado dentro dunha construción."
 
 #: kenshi/previewbuilding.cpp:647
 msgid ""
 "Can only be placed on certain locations (marked by blue nodes)."
-msgstr ""
+msgstr "Só pode ser situado en certas localizacións (marcadas por nós azuis)."
 
 #: kenshi/previewbuilding.cpp:658
 msgid "Too close to another building."
-msgstr ""
+msgstr "Preto de máis de outra construción."
 
 #: kenshi/previewbuilding.cpp:662
 msgid "No valid usage nodes."
-msgstr ""
+msgstr "Non hai nós de uso válidos."
 
 #: kenshi/previewbuilding.cpp:670
 msgid "There are characters in the way."
-msgstr ""
+msgstr "Hai personaxes no camiño."
 
 #: kenshi/previewbuilding.cpp:677
 msgid "The building blocks another building use nodes."
-msgstr ""
+msgstr "A construción bloquea os nós de uso de outra construción."
 
 #: kenshi/previewbuilding.cpp:684
 msgid "The building has one or more parts on invalid ground."
-msgstr ""
+msgstr "A construción ten unha ou máis partes en terreo non válido."
 
 #: kenshi/previewbuilding.cpp:691
 msgid ""
 "Invalid placing floor number. Change to the correct floor to "
 "place it in that position."
 msgstr ""
+"Número de piso non válido. Muda para o piso correcto para situar iso nesa "
+"posición."
 
 #: kenshi/previewbuilding.cpp:698
 msgid "Ground needs to be more level."
-msgstr ""
+msgstr "O chan precisa estar máis nivelado."
 
 #: kenshi/previewbuilding.cpp:707
 msgid ""
 "Warning: This sign will not be added to the building exterior "
 "layout as interior build mode is inactive."
 msgstr ""
+"Aviso: Esta sinal non será engadida á parte externa do edifico, pois o modo "
+"de construción de interiores está inactivo."
 
 #: kenshi/previewbuilding.cpp:960
 msgid "Error: Mesh file {1} is missing."
-msgstr ""
+msgstr "Erro: Falta o ficheiro de malla {1}."
 
 #: kenshi/previewbuilding.cpp:989
 msgid "Oi, You can't place that there."
-msgstr ""
+msgstr "Ei, non podes situar iso aquí."
 
 #: kenshi/previewbuilding.cpp:2374
 msgid "Item placement group '{1}' has no valid items."
-msgstr ""
+msgstr "O grupo de posicionamento de obxectos '{1}' non ten obxectos válidos."
 
 #: kenshi/previewbuilding.cpp:2607
 msgid "Crop yield:"
-msgstr ""
+msgstr "Rendemento da plantación:"
 
 #: kenshi/previewbuilding.cpp:2997 kenshi/previewbuilding.cpp:3304
 msgid "Your Outpost"
-msgstr ""
+msgstr "O teu posto avanzado"
 
 #: kenshi/previewbuilding.cpp:3664
 msgid "Categories"
-msgstr ""
+msgstr "Categorías"
 
 #: kenshi/previewbuilding.cpp:3670
 msgid "Commands"
-msgstr ""
+msgstr "Comandos"
 
 #: kenshi/previewbuilding.cpp:3677
 msgid "Undo"
-msgstr ""
+msgstr "Desfacer"
 
 #: kenshi/previewbuilding.cpp:4033
 msgid "Building shell"
-msgstr ""
+msgstr "Estrutura do edificio"
 
 #: kenshi/previewbuilding.cpp:4044 kenshi/previewbuilding.cpp:4049
 #: kenshi/previewbuilding.cpp:4055
