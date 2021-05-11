@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kenshi\n"
 "POT-Creation-Date: 2021-03-10 22:06+0100\n"
-"PO-Revision-Date: 2021-04-26 17:41+0000\n"
+"PO-Revision-Date: 2021-05-12 22:41+0000\n"
 "Last-Translator: Martín Coego <coegho@gmail.com>\n"
 "Language-Team: Galician <http://weblate.coegho.xyz/projects/kenshi/gamedata/"
 "gl/>\n"
@@ -14249,7 +14249,7 @@ msgstr ""
 #. Name: Tools
 #: 43404-changes_otto.mod
 msgid "Tools"
-msgstr ""
+msgstr "Ferramnetas"
 
 #. Type: ITEM
 #. Name: Tools
@@ -18208,7 +18208,7 @@ msgstr ""
 #. Name: Your Outpost
 #: player_town_template
 msgid "Your Outpost"
-msgstr ""
+msgstr "O teu posto avanzado"
 
 #. Type: LOCATIONAL_DAMAGE
 #. Name: Chest
